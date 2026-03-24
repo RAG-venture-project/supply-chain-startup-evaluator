@@ -33,30 +33,30 @@ TEAM_EVAL_SYSTEM = """
     {
       "question": "창업자가 해당 도메인 경력 3년 이상인가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "핵심 기술진(CTO 등)이 별도로 존재하는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "글로벌 기업(아마존, 구글 등) 출신 팀원이 있는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "팀 규모가 30명 이상인가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "주요 경영진 이탈 없이 안정적인가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     }
   ],
-  "summary": "팀 역량 종합 요약 (2~3문장)"
+  "summary": "팀 역량 종합 평가 (체크리스트 5개 항목을 모두 포함하여 반드시 10줄 이상 상세히 작성)"
 }
 """
 

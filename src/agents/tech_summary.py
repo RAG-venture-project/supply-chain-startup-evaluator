@@ -33,30 +33,30 @@ TECH_SYSTEM = """
     {
       "question": "상용화된 제품(MVP 이상)이 존재하는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "특허를 1건 이상 보유하고 있는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "기존 인프라 변경 없이 도입이 가능한가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "AI/자동화 핵심 기술을 자체 개발하였는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "고객사에서 측정 가능한 성과(KPI 개선)를 입증하였는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     }
   ],
-  "summary": "기술력 종합 요약 (2~3문장)"
+  "summary": "기술력 종합 평가 (체크리스트 5개 항목을 모두 포함하여 반드시 10줄 이상 상세히 작성)"
 }
 """
 

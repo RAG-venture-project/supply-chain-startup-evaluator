@@ -33,30 +33,30 @@ MARKET_SYSTEM = """
     {
       "question": "TAM(전체 시장 규모)이 $10B(약 10조 원) 이상인가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "시장 연평균 성장률(CAGR)이 15% 이상인가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "실제 매출 또는 유료 고객이 존재하는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "글로벌 시장(2개국 이상)에 진출해 있는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "최근 1년 내 매출 또는 고객 수의 증가 추세가 확인되는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     }
   ],
-  "summary": "시장성 종합 요약 (2~3문장)"
+  "summary": "시장성 종합 평가 (체크리스트 5개 항목을 모두 포함하여 반드시 10줄 이상 상세히 작성)"
 }
 """
 
