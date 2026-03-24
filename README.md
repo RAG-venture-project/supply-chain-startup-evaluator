@@ -93,10 +93,12 @@ Bessemer's Investment Checklist와 Scorecard Method를 기반으로 설계하였
 
 ## Retrieval 성능 검증
 
-| Metric     | 설명                                | 결과 |
-| ---------- | ----------------------------------- | ---- |
-| Hit Rate@4 | 상위 4개 검색 결과에 정답 포함 비율 | TBD  |
-| MRR        | 정답 문서의 평균 역순위             | TBD  |
+| 카테고리 | Hit Rate@4 | MRR |
+|----------|-----------|------|
+| tech_summary | 0.6400 (32/50) | 0.4183 |
+| market_eval | 0.6438 (47/73) | 0.4795 |
+| competitor | 0.5176 (44/85) | 0.4088 |
+| team_eval | 0.6486 (24/37) | 0.4572 |
 
 ## Directory Structure
 

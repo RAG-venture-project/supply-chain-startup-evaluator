@@ -10,6 +10,8 @@ import json
 import sys
 from pathlib import Path
 
+from tqdm import tqdm
+
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from src.vectorstore.store import get_retriever
@@ -39,17 +41,22 @@ def evaluate():
     # 카테고리별 결과
     category_stats: dict[str, dict] = {}
 
-    for item in ground_truth:
+    # retriever를 카테고리당 1번만 로드 (rate limit 방지)
+    retrievers: dict[str, object] = {}
+    for cat, index_name in CATEGORY_TO_INDEX.items():
+        print(f"[로드] {index_name} retriever...")
+        retrievers[cat] = get_retriever(index_name, k=K)
+    print()
+
+    for item in tqdm(ground_truth, desc="평가 중"):
         category = item["category"]
         question = item["question"]
         expected_content = item["chunk_content"]
-        index_name = CATEGORY_TO_INDEX.get(category)
 
-        if not index_name:
+        if category not in retrievers:
             continue
 
-        retriever = get_retriever(index_name, k=K)
-        results = retriever.invoke(question)
+        results = retrievers[category].invoke(question)
 
         # Hit Rate: 상위 K개 중 정답 청크 내용이 포함되어 있는지
         hit = False
