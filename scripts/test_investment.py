@@ -29,6 +29,7 @@ mock_tech = AgentOutput(
         ChecklistItem(question="고객사 KPI 개선이 입증되었는가?", answer=False, evidence="구체적 KPI 개선 수치 확인 불가"),
     ],
     summary="5개 항목 중 4개 충족. 자체 기술력은 우수하나 고객 성과 수치 부족.",
+    references=["tech_summary_5companies.pdf"],
 )
 
 mock_market = AgentOutput(
@@ -42,6 +43,7 @@ mock_market = AgentOutput(
         ChecklistItem(question="최근 1년 내 매출/고객 수 증가 추세인가?", answer=True, evidence="전년 대비 매출 2배 성장"),
     ],
     summary="5개 항목 모두 충족. TAM $14.3B, CAGR 18.2%로 시장성 매우 우수.",
+    references=["시장성_평가_리포트.pdf"],
 )
 
 mock_competitor = AgentOutput(
@@ -55,6 +57,7 @@ mock_competitor = AgentOutput(
         ChecklistItem(question="최근 2년 내 전략적 파트너십을 체결했는가?", answer=True, evidence="미 관세국경보호청(CBP)과 공식 파트너십"),
     ],
     summary="5개 항목 중 4개 충족. 데이터 해자와 정부 파트너십이 강점이나 전환 비용은 낮음.",
+    references=["경쟁사비교분석.pdf"],
 )
 
 mock_team = AgentOutput(
@@ -68,6 +71,7 @@ mock_team = AgentOutput(
         ChecklistItem(question="주요 경영진 이탈 없이 안정적인가?", answer=True, evidence="창업 이후 주요 경영진 변동 없음"),
     ],
     summary="5개 항목 모두 충족. 150명 규모, 글로벌 기업 출신 다수, 경영진 안정적.",
+    references=["team_report.pdf"],
 )
 
 # ── Mock State 구성 ───────────────────────────────────────────────────────────
