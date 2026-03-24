@@ -62,11 +62,16 @@ MARKET_SYSTEM = """
 
 
 # ── 내부 유틸 ──────────────────────────────────────────────────────────────────
-def _query_vectorstore(startup_name: str, k: int = 5) -> str:
-    """시장성 인덱스에서 관련 문서를 검색하여 하나의 문자열로 반환한다."""
+def _query_vectorstore(startup_name: str, k: int = 5) -> tuple[str, list[str]]:
+    """시장성 인덱스에서 관련 문서를 검색하여 (컨텍스트 문자열, 출처 파일명 목록)을 반환한다."""
     retriever = get_retriever("market_eval", k=k)
     docs = retriever.invoke(f"{startup_name} 시장 규모 성장률 매출 고객")
-    return "\n\n".join(doc.page_content for doc in docs)
+    context = "\n\n".join(doc.page_content for doc in docs)
+    references = list(dict.fromkeys(
+        doc.metadata.get("file_path", doc.metadata.get("source", "")).split("/")[-1]
+        for doc in docs
+    ))
+    return context, references
 
 
 def _call_llm_json(system_prompt: str, context: str) -> dict:
@@ -85,7 +90,7 @@ def _call_llm_json(system_prompt: str, context: str) -> dict:
         return {}
 
 
-def _parse_output(startup_name: str, raw: dict) -> AgentOutput:
+def _parse_output(startup_name: str, raw: dict, references: list[str]) -> AgentOutput:
     """LLM 응답 dict → AgentOutput 모델로 변환한다."""
     checklist = [
         ChecklistItem(
@@ -100,6 +105,7 @@ def _parse_output(startup_name: str, raw: dict) -> AgentOutput:
         startup_name=startup_name,
         checklist=checklist,
         summary=raw.get("summary", ""),
+        references=references,
     )
 
 
@@ -107,7 +113,7 @@ def _parse_output(startup_name: str, raw: dict) -> AgentOutput:
 def market_eval_agent(state: InvestmentState) -> dict:
     """스타트업의 시장성을 평가하고 state를 업데이트한다."""
     startup = state["startup_name"]
-    context = _query_vectorstore(startup)
+    context, references = _query_vectorstore(startup)
     raw = _call_llm_json(MARKET_SYSTEM, context)
-    output = _parse_output(startup, raw)
+    output = _parse_output(startup, raw, references)
     return {"market_analysis": output.model_dump_json()}
