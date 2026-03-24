@@ -31,6 +31,13 @@ def main():
         chunks = load_and_chunk_pdf(pdf_path)
         print(f"  - 청크 수: {len(chunks)}")
 
+        # 주석 해제 시 청크 내용 미리보기
+        # for i, chunk in enumerate(chunks):
+        #     print(f"\n  [청크 {i+1}] (company={chunk.metadata.get('company')})")
+        #     print(f"  {'-'*40}")
+        #     print(f"  {chunk.page_content}")
+        #     print(f"  {'-'*40}")
+
         create_faiss_index(chunks, index_name)
 
     print(f"\n모든 인덱스 생성 완료! 저장 위치: {VECTORSTORE_DIR}")
