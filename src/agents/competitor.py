@@ -33,30 +33,30 @@ COMPETITOR_SYSTEM = """
     {
       "question": "직접 경쟁사 대비 명확한 차별점이 있는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "대형 고객사(Fortune 500 또는 동급)를 확보하였는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "네트워크 효과 또는 데이터 해자(moat)가 있는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "전환 비용(switching cost)이 높은가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     },
     {
       "question": "최근 2년 내 전략적 파트너십을 체결하였는가?",
       "answer": true | false,
-      "evidence": "근거 1~2문장"
+      "evidence": "근거 반드시 4문장 이상으로 상세히 작성"
     }
   ],
-  "summary": "경쟁 우위 종합 요약 (2~3문장)"
+  "summary": "경쟁 우위 종합 평가 (체크리스트 5개 항목을 모두 포함하여 반드시 10줄 이상 상세히 작성)"
 }
 """
 
