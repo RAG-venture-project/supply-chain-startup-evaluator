@@ -27,6 +27,7 @@ class InvestmentState(TypedDict):
     checklist_result: dict             # Bessemer Checklist 결과
     investment_score: float            # Scorecard 총점 (0–100)
     investment_decision: str           # "투자 추천" | "보류"
+    investment_reason: str             # 투자 판단 근거
 
     # ── 보류 누적 ─────────────────────────────────
     hold_records: Annotated[list[dict], add]  # 보류된 스타트업별 {name, score, reason}
