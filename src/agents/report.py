@@ -41,7 +41,7 @@ RECOMMEND_PROMPT = ChatPromptTemplate.from_messages([
      "5. 경쟁사 — 경쟁 구도 및 차별점\n"
      "6. 한계점 — 현재 제약, 개선 필요 사항\n"
      "7. 결론 — 투자 권고 등급, 종합 투자 의견\n"
-     "8. Reference — 데이터 및 자료 출처\n"),
+     "8. Reference — 아래 '참조 문서' 목록을 그대로 출력하라. 임의로 생성하지 마라.\n"),
     ("human",
      "스타트업: {startup_name}\n"
      "투자 판단: {decision}\n"
@@ -49,6 +49,7 @@ RECOMMEND_PROMPT = ChatPromptTemplate.from_messages([
      "카테고리별 점수: {category_scores}\n"
      "판단 근거: {reason}\n\n"
      "=== 에이전트별 분석 결과 ===\n{agent_details}\n\n"
+     "=== 참조 문서 ===\n{references}\n\n"
      "위 데이터만 사용하여 보고서를 작성하라."),
 ])
 
@@ -72,9 +73,10 @@ HOLD_PROMPT = ChatPromptTemplate.from_messages([
 ])
 
 
-def _build_agent_details(state: InvestmentState) -> str:
-    """4개 에이전트 결과를 보고서용 텍스트로 조합."""
+def _build_agent_details(state: InvestmentState) -> tuple[str, list[str]]:
+    """4개 에이전트 결과를 보고서용 텍스트로 조합하고 참조 문서를 수집한다."""
     sections = []
+    all_refs: list[str] = []
     for field_name, label in AGENT_FIELDS.items():
         output = AgentOutput.model_validate_json(state[field_name])
         items = "\n".join(
@@ -82,7 +84,12 @@ def _build_agent_details(state: InvestmentState) -> str:
             for item in output.checklist
         )
         sections.append(f"[{label}]\n{items}\n요약: {output.summary}")
-    return "\n\n".join(sections)
+        all_refs.extend(output.references)
+
+    # 중복 제거 (순서 유지)
+    seen = set()
+    unique_refs = [r for r in all_refs if not (r in seen or seen.add(r))]
+    return "\n\n".join(sections), unique_refs
 
 
 def _build_hold_details(hold_records: list[dict]) -> str:
@@ -101,7 +108,8 @@ def recommend_report_node(state: InvestmentState) -> dict:
     """투자 추천 보고서 생성 노드."""
     llm = ChatOpenAI(model=LLM_MODEL, temperature=0)
 
-    agent_details = _build_agent_details(state)
+    agent_details, refs = _build_agent_details(state)
+    ref_text = "\n".join(f"- {r}" for r in refs) if refs else "- 내부 평가 데이터"
 
     response = llm.invoke(
         RECOMMEND_PROMPT.format_messages(
@@ -111,6 +119,7 @@ def recommend_report_node(state: InvestmentState) -> dict:
             category_scores=json.dumps(state["checklist_result"], ensure_ascii=False),
             reason=state.get("investment_reason", ""),
             agent_details=agent_details,
+            references=ref_text,
         )
     )
 

@@ -20,6 +20,7 @@ class AgentOutput(BaseModel):
     startup_name: str
     checklist: list[ChecklistItem]     # 5개 항목
     summary: str                       # 종합 요약 (보고서용)
+    references: list[str] = []         # 참조 문서 출처 (file_name 목록)
 
 
 # ── 투자판단 에이전트 출력 ────────────────────────────
