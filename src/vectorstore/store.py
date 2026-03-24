@@ -37,7 +37,10 @@ def load_faiss_index(index_name: str) -> FAISS:
     )
 
 
-def get_retriever(index_name: str, k: int = 4):
+def get_retriever(index_name: str, k: int = 4, company: str | None = None):
     """FAISS 인덱스를 로드하여 retriever를 반환한다."""
     vectorstore = load_faiss_index(index_name)
-    return vectorstore.as_retriever(search_kwargs={"k": k})
+    search_kwargs: dict = {"k": k}
+    if company:
+        search_kwargs["filter"] = {"company": company}
+    return vectorstore.as_retriever(search_kwargs=search_kwargs)

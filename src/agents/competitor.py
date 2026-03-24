@@ -64,7 +64,7 @@ COMPETITOR_SYSTEM = """
 # ── 내부 유틸 ──────────────────────────────────────────────────────────────────
 def _query_vectorstore(startup_name: str, k: int = 4) -> str:
     """경쟁사 인덱스에서 관련 문서를 검색하여 하나의 문자열로 반환한다."""
-    retriever = get_retriever("competitor", k=k)
+    retriever = get_retriever("competitor", k=k, company=startup_name)
     docs = retriever.invoke(f"{startup_name} 경쟁사 차별점 해자 파트너십")
     return "\n\n".join(doc.page_content for doc in docs)
 

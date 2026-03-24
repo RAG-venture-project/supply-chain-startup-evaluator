@@ -64,7 +64,7 @@ TEAM_EVAL_SYSTEM = """
 # ── 내부 유틸 ──────────────────────────────────────────────────────────────────
 def _query_vectorstore(startup_name: str, k: int = 4) -> str:
     """팀 평가 인덱스에서 관련 문서를 검색하여 하나의 문자열로 반환한다."""
-    retriever = get_retriever("team_eval", k=k)
+    retriever = get_retriever("team_eval", k=k, company=startup_name)
     docs = retriever.invoke(f"{startup_name} 창업자 팀 경력 조직 안정성")
     return "\n\n".join(doc.page_content for doc in docs)
 

@@ -64,7 +64,7 @@ MARKET_SYSTEM = """
 # ── 내부 유틸 ──────────────────────────────────────────────────────────────────
 def _query_vectorstore(startup_name: str, k: int = 5) -> str:
     """시장성 인덱스에서 관련 문서를 검색하여 하나의 문자열로 반환한다."""
-    retriever = get_retriever("market_eval", k=k)
+    retriever = get_retriever("market_eval", k=k, company=startup_name)
     docs = retriever.invoke(f"{startup_name} 시장 규모 성장률 매출 고객")
     return "\n\n".join(doc.page_content for doc in docs)
 
