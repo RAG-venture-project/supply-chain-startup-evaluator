@@ -79,11 +79,12 @@ def _build_agent_details(state: InvestmentState) -> tuple[str, list[str]]:
     all_refs: list[str] = []
     for field_name, label in AGENT_FIELDS.items():
         output = AgentOutput.model_validate_json(state[field_name])
+        score = sum(20 for item in output.checklist if item.answer)
         items = "\n".join(
-            f"  - {item.question}: {'Yes' if item.answer else 'No'} — {item.evidence}"
+            f"  - {item.question}: {'Yes (20/20)' if item.answer else 'No (0/20)'} — {item.evidence}"
             for item in output.checklist
         )
-        sections.append(f"[{label}]\n{items}\n요약: {output.summary}")
+        sections.append(f"[{label}] ({score}/100)\n{items}\n요약: {output.summary}")
         all_refs.extend(output.references)
 
     # 중복 제거 (순서 유지)
