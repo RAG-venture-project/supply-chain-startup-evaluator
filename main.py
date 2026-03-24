@@ -49,7 +49,7 @@ def main():
         }
     )
 
-    print(f"평가 대상: {', '.join(startups)}")
+    print(f"해당 스타트업: {result.get('startup_name', '')}")
     print(f"최종 판단: {result.get('investment_decision', '')}")
     print(f"최종 점수: {result.get('investment_score', '')}")
     print()
