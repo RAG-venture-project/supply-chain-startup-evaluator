@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Altana",
+    "domain": "공급망 인텔리전스",
+    "description": "AI 기반 글로벌 공급망 지식 그래프를 구축하여 무역·관세·리스크 관리를 지원하는 플랫폼",
+    "founded": 2018,
+    "hq": "미국 뉴욕",
+    "stage": "Series C"
+  },
+  {
+    "name": "테크타카",
+    "domain": "역물류 자동화",
+    "description": "AI 기반 반품·역물류 자동화 플랫폼으로 이커머스 리턴 프로세스를 최적화",
+    "founded": 2020,
+    "hq": "대한민국 서울",
+    "stage": "Seed"
+  },
+  {
+    "name": "Tridge",
+    "domain": "농식품 무역 플랫폼",
+    "description": "데이터 기반 글로벌 농식품 B2B 거래 플랫폼으로 공급자와 바이어를 연결",
+    "founded": 2015,
+    "hq": "대한민국 서울",
+    "stage": "Series B"
+  },
+  {
+    "name": "Fabric",
+    "domain": "마이크로 풀필먼트 로봇",
+    "description": "로봇 기반 마이크로 풀필먼트 센터를 개발하여 식료품·이커머스 주문 처리 자동화",
+    "founded": 2015,
+    "hq": "이스라엘 텔아비브",
+    "stage": "Series B"
+  },
+  {
+    "name": "Seoul Robotics",
+    "domain": "자율주행 3D 인지 소프트웨어",
+    "description": "LiDAR 기반 3D 컴퓨터 비전 소프트웨어로 자율주행 및 스마트 인프라 솔루션 제공",
+    "founded": 2017,
+    "hq": "대한민국 서울",
+    "stage": "Series B"
+  }
+]
