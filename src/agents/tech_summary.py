@@ -64,7 +64,7 @@ TECH_SYSTEM = """
 # ── 내부 유틸 ──────────────────────────────────────────────────────────────────
 def _query_vectorstore(startup_name: str, k: int = 5) -> tuple[str, list[str]]:
     """기술 요약 인덱스에서 관련 문서를 검색하여 (컨텍스트 문자열, 출처 파일명 목록)을 반환한다."""
-    retriever = get_retriever("tech_summary", k=k)
+    retriever = get_retriever("tech_summary", k=k, company=startup_name)
     docs = retriever.invoke(f"{startup_name} 기술 특허 제품 도입 KPI 성과")
     context = "\n\n".join(doc.page_content for doc in docs)
     references = list(dict.fromkeys(
