@@ -10,7 +10,7 @@ sentence-transformers>=3.0.0
 langchain-huggingface>=0.1.0
 
 # ── Document Loading ──────────────────────
-pymupdf>=1.25.0
+pdfplumber>=0.11.0
 
 # ── Utilities ─────────────────────────────
 python-dotenv>=1.0.0
