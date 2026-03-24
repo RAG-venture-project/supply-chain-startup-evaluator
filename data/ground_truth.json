@@ -1,0 +1,1962 @@
+[
+  {
+    "question": "Altana의 설립 연도는 언제인가요?",
+    "answer": "Altana는 2019년에 설립되었습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Altana",
+    "category": "tech_summary",
+    "chunk_content": "Altana\n글로벌 공급망 AI 플랫폼 / Value Chain Management System\ncompany: Altana | segment: supply_chain_visibility | 국가: 미국 | 설립: 2019 | 상태: Unicorn ($1B, 202\n4)\n1.1 기업 기본 정보\n기업명 Altana Technologies, Inc.\n설립연도 2019년 (2018년 설립 자료도 존재)\n본사 미국 뉴욕\n공동창업자 Evan Smith (CEO), Raphael Tehranian (COO), Peter Swartz (Chi\nef Science Officer)\n팀 규모 약 270명 (2024년 기준)\n누적 투자 $343M (Series C, 2024년 7월)\n기업 가치 $1B (유니콘, 2024년 7월)\n연 매출 $37.5M (2024년), $23.6M (2023년) — YoY 59% 성장"
+  },
+  {
+    "question": "Altana의 연 매출은 2024년과 2023년에 각각 얼마인가요?",
+    "answer": "연 매출은 2024년 $37.5M, 2023년 $23.6M으로 YoY 59% 성장했습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Altana",
+    "category": "tech_summary",
+    "chunk_content": "연 매출 $37.5M (2024년), $23.6M (2023년) — YoY 59% 성장\n주요 투자자 Google Ventures, Salesforce Ventures, US Innovative Technolog\ny Fund, Amadeus Capital, OMERS\n1.2 핵심 기술: Altana Atlas & 지식그래프\nAltana의 핵심 기술은 전 세계 무역·물류 데이터를 AI로 정제해 구축한 '지식그래프(Knowledg\ne Graph)' 기반 공급망 지도입니다. 이 그래프는 전 세계 무역의 50% 이상을 커버하며, 기업\n이 자사 제품의 원자재 조달부터 최종 판매까지 다단계 공급망을 시각화할 수 있게 합니다.\n기술 구성 요소\nAltana Atlas 글로벌 공급망 지식그래프. 수십억 건의 무역 레코드를 AI로 정제·구\n조화. 전 세계 공급망의 50%+ 커버\nProduct Passports 제품의 원산지·제조·물류 이력을 담은 디지털 신원증. 세관·규제기"
+  },
+  {
+    "question": "Altana의 AI Assistant (Atlas)은 어떤 기능을 제공하나요?",
+    "answer": "Altana의 AI Assistant (Atlas)는 자연어 쿼리 기반 LLM 어시스턴트로, 무역 리스크 탐지, 관세 분류, 원산지 결정 자동화를 제공합니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Altana",
+    "category": "tech_summary",
+    "chunk_content": "관·바이어 간 검증 가능한 공유 단위\nAI Assistant (Atlas) 자연어 쿼리 기반 LLM 어시스턴트. 무역 리스크 탐지·관세 분류·원\n산지 결정 자동화\nFederated Machine Learning 각 기업의 원본 데이터를 공유하지 않고 분산 학습으로 공급망 인텔\n리전스 생성 — 데이터 프라이버시 보장\nTariff Simulation 관세 시나리오 모델링 — 공급망 비용 영향 시뮬레이션\nRisk Management 강제노동·제재 위반·규제 준수 이슈 AI 탐지. 미국 CBP와 협력 구축"
+  },
+  {
+    "question": "Altana의 누적 투자 금액은 얼마인가요?",
+    "answer": "$343M (Series C, 2024년 7월)",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Altana",
+    "category": "tech_summary",
+    "chunk_content": "| 기업명 | Altana Technologies, Inc.\n--- | --- | ---\n | 설립연도 | 2019년 (2018년 설립 자료도 존재)\n | 본사 | 미국 뉴욕\n공동창업자 |  | Evan Smith (CEO), Raphael Tehranian (COO), Peter Swartz (Chi\n |  | ef Science Officer)\n | 팀 규모 | 약 270명 (2024년 기준)\n | 누적 투자 | $343M (Series C, 2024년 7월)\n | 기업 가치 | $1B (유니콘, 2024년 7월)\n | 연 매출 | $37.5M (2024년), $23.6M (2023년) — YoY 59% 성장\n주요 투자자 |  | Google Ventures, Salesforce Ventures, US Innovative Technolog\n |  | y Fund, Amadeus Capital, OMERS"
+  },
+  {
+    "question": "Altana의 AI Assistant (Atlas)은 어떤 기능을 제공하나요?",
+    "answer": "Altana의 AI Assistant (Atlas)은 자연어 쿼리 기반 LLM 어시스턴트로, 무역 리스크 탐지, 관세 분류, 원산지 결정 자동화를 제공합니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Altana",
+    "category": "tech_summary",
+    "chunk_content": "Altana Atlas |  | 글로벌 공급망 지식그래프. 수십억 건의 무역 레코드를 AI로 정제·구\n--- | --- | ---\n |  | 조화. 전 세계 공급망의 50%+ 커버\nProduct Passports |  | 제품의 원산지·제조·물류 이력을 담은 디지털 신원증. 세관·규제기\n |  | 관·바이어 간 검증 가능한 공유 단위\nAI Assistant (Atlas) |  | 자연어 쿼리 기반 LLM 어시스턴트. 무역 리스크 탐지·관세 분류·원\n |  | 산지 결정 자동화\nFederated Machine Learning |  | 각 기업의 원본 데이터를 공유하지 않고 분산 학습으로 공급망 인텔\n |  | 리전스 생성 — 데이터 프라이버시 보장\n | Tariff Simulation | 관세 시나리오 모델링 — 공급망 비용 영향 시뮬레이션\n | Risk Management | 강제노동·제재 위반·규제 준수 이슈 AI 탐지. 미국 CBP와 협력 구축"
+  },
+  {
+    "question": "Altana의 주요 고객에는 어떤 회사들이 포함되어 있나요?",
+    "answer": "주요 고객으로는 Boston Scientific, L.L.Bean, Maersk, General Atomics, 미국 관세국 경보호청(CBP), 영국 국방부(MoD), 영국 무역부(DBT)가 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Altana",
+    "category": "tech_summary",
+    "chunk_content": "1.3 AI·데이터 기술 특징\n• 지식그래프 데이터 규모: 수십억 건의 무역 레코드를 AI로 정제, 전 세계 무역 50%+\n커버\n• Federated Learning: 기업별 데이터를 공유하지 않고 분산 학습 — 정부·대기업 모두\n채택 가능한 보안 구조\n• LLM 기반 자연어 인터페이스: 복잡한 공급망 쿼리를 자연어로 질의·분석\n• 실시간 업데이트: 무역·물류 관계 변화에 따라 그래프 동적 갱신\n• FedRAMP High, IC C2E 인증: 미국 정부·정보기관 수준 보안 요건 충족\n1.4 성능 지표 및 고객 사례\n주요 고객 Boston Scientific, L.L.Bean, Maersk, General Atomics, 미국 관세국\n경보호청(CBP), 영국 국방부(MoD), 영국 무역부(DBT)\n공급망 커버리지 전 세계 무역의 50% 이상 커버하는 지식그래프\n매출 성장 $23.6M(2023) → $37.5M(2024), YoY 59% 성장"
+  },
+  {
+    "question": "Altana의 2024년 예상 매출은 얼마인가요?",
+    "answer": "Altana의 2024년 예상 매출은 $37.5M입니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Altana",
+    "category": "tech_summary",
+    "chunk_content": "매출 성장 $23.6M(2023) → $37.5M(2024), YoY 59% 성장\n정부 기관 채택 미국 CBP 공식 선정 — 세관 집행 및 통관 현대화\n파트너십 Dataminr(실시간 AI 경보), Epoch Blue(농림업 추적)\n1.5 투자 판단 관련 정보\n창업자/팀\n• Evan Smith (CEO): 이전에 공급망 솔루션 기업에서 근무, 해당 기업이 M&A되는 과정\n직접 경험 — 도메인 깊이 있음\n• Peter Swartz (Chief Science Officer): 공동창업자로 과학·기술 총괄 — CEO와 기술\n리더 분리 구조\n• Raphael Tehranian (COO): 공동창업자로 운영 총괄\n• 팀 규모 약 270명 (2024년) — 실행력 확보\n• 자문단: Alan Bersin (前 미국 관세국경보호청장), Khoo Boon Hui (前 인터폴 총재) —\n정부 네트워크 강점\n시장성\n• 글로벌 공급망 가시성·리스크 관리 시장: 수십억 달러 규모, 지정학·기후변화·관세"
+  },
+  {
+    "question": "Altana의 2024년 예상 매출은 얼마이며, 이는 전년 대비 몇 퍼센트 성장한 것인가?",
+    "answer": "2024년 매출은 $37.5M이며, 전년 대비 59% 성장할 것으로 예상됩니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Altana",
+    "category": "tech_summary",
+    "chunk_content": "• 글로벌 공급망 가시성·리스크 관리 시장: 수십억 달러 규모, 지정학·기후변화·관세\n이슈로 수요 급증\n• 2024년 매출 $37.5M, YoY 59% 성장 — 실제 매출 및 성장 추세 확인\n• 미국·영국 정부기관 + 글로벌 대기업 고객 다수 → 다국가 진출 확인\n제품/기술력\n• 전 세계 무역 50%+ 커버하는 지식그래프 — 세계 최대 규모의 공급망 데이터\n• Federated ML 기반 독자 기술 — 경쟁사 대비 데이터 프라이버시 차별화\n• 미국 CBP 공식 파트너 — 실제 정부 시스템 도입으로 기술 검증"
+  },
+  {
+    "question": "Altana의 주요 고객에는 어떤 회사들이 포함되어 있나요?",
+    "answer": "주요 고객으로는 Boston Scientific, L.L.Bean, Maersk, General Atomics, 미국 관세국이 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Altana",
+    "category": "tech_summary",
+    "chunk_content": "주요 고객 |  | Boston Scientific, L.L.Bean, Maersk, General Atomics, 미국 관세국\n--- | --- | ---\n |  | 경보호청(CBP), 영국 국방부(MoD), 영국 무역부(DBT)\n | 공급망 커버리지 | 전 세계 무역의 50% 이상 커버하는 지식그래프\n | 매출 성장 | $23.6M(2023) → $37.5M(2024), YoY 59% 성장\n | 정부 기관 채택 | 미국 CBP 공식 선정 — 세관 집행 및 통관 현대화\n | 파트너십 | Dataminr(실시간 AI 경보), Epoch Blue(농림업 추적)"
+  },
+  {
+    "question": "Altana는 어떤 인증을 보유하고 있나요?",
+    "answer": "Altana는 FedRAMP High 인증과 IC C2E 인증을 보유하고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Altana",
+    "category": "tech_summary",
+    "chunk_content": "• FedRAMP High 인증 — 정부 최고 보안 수준 충족\n경쟁 우위\n• Fortune 500 및 정부기관 고객: Boston Scientific, Maersk, L.L.Bean, 미국 CBP, 영국\nMoD\n• 지식그래프 규모가 클수록 정확도 향상 — 강력한 데이터 네트워크 효과\n• 공급망 연동 후 전환 비용 높음 — 고객 이탈 구조적으로 어려움\n• $343M 누적 투자, Google/Salesforce/GV 등 전략적 투자자 포진\n1.6 특허 및 논문\n• 개별 특허 번호 공개 자료 미확인 (공개 웹 기준)\n• Federated Machine Learning 적용 자체가 핵심 기술 IP — 학술 논문 형태보다 플랫폼\n구현 중심\n• FedRAMP High, IC C2E 인증 보유 — 기술 검증 및 보안 인증으로 대체\n1.7 한계 및 리스크\n• 아직 흑자 전환 여부 미공개 — $37.5M 매출 대비 270명 인건비 등 손익 불명확"
+  },
+  {
+    "question": "Altana의 매출에서 정부기관의 의존도는 어떤 리스크를 동반하나요?",
+    "answer": "정책 변화 리스크가 동반됩니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Altana",
+    "category": "tech_summary",
+    "chunk_content": "• 경쟁사: Resilinc, Interos, Panjiva 등 공급망 리스크 분야 경쟁 다수\n• 정부 의존도: 매출의 일부가 정부기관 — 정책 변화 리스크"
+  },
+  {
+    "question": "테크타카의 핵심 제품은 무엇인가요?",
+    "answer": "테크타카의 핵심 제품은 통합 물류 플랫폼 ARGO입니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "테크타카",
+    "category": "tech_summary",
+    "chunk_content": "테크타카 (Techtaka)\n통합 물류 플랫폼 ARGO — SW 기반 3PL·이커머스 풀필먼트\ncompany: Techtaka | segment: warehouse_automation | 국가: 한국 | 설립: 2017 | 상태: 시리즈B 이후\n2.1 기업 기본 정보\n기업명 테크타카 (Techtaka)\n설립연도 2017년\n본사 대한민국 (서울)\n대표이사 양수영\n핵심 제품 통합 물류 플랫폼 ARGO (OMS·WMS·TMS·SCM 통합)\n해외 진출 미국·일본 진출, 해외 매출 20% (2026년 초 기준)\nWMS 지원 언어 7개 언어 (글로벌 물류센터 운영 지원)\n주요 파트너 네이버 커머스, 플로틱, 레인보우로보틱스\n2.2 핵심 기술: ARGO 통합 물류 플랫폼\nARGO는 주문(OMS)·창고(WMS)·운송(TMS)·공급망(SCM)을 단일 플랫폼으로 통합한 Softw\nare-based 3PL 솔루션입니다. 물류 현장의 실시간 데이터를 기반으로 재고·주문·작업 동선·"
+  },
+  {
+    "question": "테크타카의 포장 방식 자동 최적화 기능은 어떤 플랫폼 구성 요소와 관련이 있나요?",
+    "answer": "테크타카의 포장 방식 자동 최적화는 WMS (창고 관리)와 관련이 있으며, 포장 방식 자동 결정을 지원합니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "테크타카",
+    "category": "tech_summary",
+    "chunk_content": "포장 방식을 자동 최적화하며, 이커머스 특화 풀필먼트 운영을 지원합니다.\n플랫폼 구성 요소\nOMS (주문 관리) 멀티채널 주문 통합 수집·배분, 네이버 커머스 등 주요 커머스 플랫폼 연\n동\nWMS (창고 관리) 실시간 재고 추적, 작업 동선 최적화, 포장 방식 자동 결정, 7개 언어 지\n원\nTMS (운송 관리) 배송사 자동 배분, 운송 경로 최적화, 실시간 배송 추적\nSCM (공급망 관리) 재고 소진 예측, 자동 입고 추천 알고리즘\n로봇 연동 모듈 AMR·소형 로봇 연동 인터페이스. 플로틱·레인보우로보틱스 PoC 진행\n2.3 AI·데이터 기술 특징\n• 재고 소진 예측 알고리즘: 과거 주문 패턴 기반 자동 입고 추천 (자체 개발)\n• 로봇 동선 최적화: AMR 작업 순서·경로 결정 알고리즘 자체 개발 (ZDNet 인터뷰 언급)\n• 알고리즘 모듈화: 물류센터별 환경(온도, 크기, SKU 구성)에 맞게 알고리즘\n커스터마이징 가능"
+  },
+  {
+    "question": "테크타카는 어떤 기능을 제공하나요?",
+    "answer": "테크타카는 센터 내 모든 작업 흐름을 실시간으로 수집·분석·최적화하는 실시간 데이터 분석 기능을 제공합니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "테크타카",
+    "category": "tech_summary",
+    "chunk_content": "커스터마이징 가능\n• 실시간 데이터 분석: 센터 내 모든 작업 흐름을 실시간으로 수집·분석·최적화"
+  },
+  {
+    "question": "테크타카의 핵심 제품은 무엇인가요?",
+    "answer": "테크타카의 핵심 제품은 통합 물류 플랫폼 ARGO (OMS·WMS·TMS·SCM 통합)입니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "테크타카",
+    "category": "tech_summary",
+    "chunk_content": "기업명 | 테크타카 (Techtaka)\n--- | ---\n설립연도 | 2017년\n본사 | 대한민국 (서울)\n대표이사 | 양수영\n핵심 제품 | 통합 물류 플랫폼 ARGO (OMS·WMS·TMS·SCM 통합)\n해외 진출 | 미국·일본 진출, 해외 매출 20% (2026년 초 기준)\nWMS 지원 언어 | 7개 언어 (글로벌 물류센터 운영 지원)\n주요 파트너 | 네이버 커머스, 플로틱, 레인보우로보틱스"
+  },
+  {
+    "question": "테크타카는 어떤 종류의 로봇 연동 모듈을 개발하고 있나요?",
+    "answer": "테크타카는 AMR·소형 로봇 연동 인터페이스를 개발하고 있으며, 플로틱·레인보우로보틱스와 PoC를 진행하고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "테크타카",
+    "category": "tech_summary",
+    "chunk_content": "OMS (주문 관리) |  | 멀티채널 주문 통합 수집·배분, 네이버 커머스 등 주요 커머스 플랫폼 연\n--- | --- | ---\n |  | 동\nWMS (창고 관리) |  | 실시간 재고 추적, 작업 동선 최적화, 포장 방식 자동 결정, 7개 언어 지\n |  | 원\n | TMS (운송 관리) | 배송사 자동 배분, 운송 경로 최적화, 실시간 배송 추적\n | SCM (공급망 관리) | 재고 소진 예측, 자동 입고 추천 알고리즘\n | 로봇 연동 모듈 | AMR·소형 로봇 연동 인터페이스. 플로틱·레인보우로보틱스 PoC 진행"
+  },
+  {
+    "question": "테크타카의 창업자 양수영 대표는 어떤 경력을 보유하고 있나요?",
+    "answer": "양수영 대표는 대형 유통 기업 물류 시스템 설계 경력을 보유하고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "테크타카",
+    "category": "tech_summary",
+    "chunk_content": "• 7개 언어 WMS: 한국어·영어·일본어 등 다국어 지원 — 글로벌 물류센터 운영 가능\n2.4 PoC 및 성능 지표\n플로틱 AMR 연동 PoC 플로틱의 Flody AMR을 ARGO WMS와 연동, 피킹 자동화 PoC 진\n행. 피킹 속도 30% 이상 향상 목표\n레인보우로보틱스 PoC 소형 로봇과 WMS 연동 PoC 진행 (2025년 2월)\n해외 진출 성과 미·일 진출 1년 만에 해외 매출 20% 달성 (ZDNet 2026년 2월)\n네이버 커머스 연동 네이버 쇼핑·스마트스토어 실시간 주문 데이터 연동\n2.5 투자 판단 관련 정보\n창업자/팀\n• 양수영 대표: 대형 유통 기업 물류 시스템 설계 경력 보유 (ZDNet 인터뷰: '대형 유통\n기업에서 물류 시스템을 설계하면서') — 도메인 직접 경력 확인\n• '물류는 SW 경쟁'이라는 철학 하에 기술 중심 경영 — 장기 비전 표명\n• 글로벌 넘버원 목표 공식 발표 (ZDNet 2026)\n• 팀 규모 및 CTO 분리 여부 공개 정보 미확인"
+  },
+  {
+    "question": "테크타카의 해외 매출 비중은 얼마인가?",
+    "answer": "해외 매출 비중은 20%입니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "테크타카",
+    "category": "tech_summary",
+    "chunk_content": "• 팀 규모 및 CTO 분리 여부 공개 정보 미확인\n시장성\n• 이커머스 물류 자동화 시장: 국내외 전자상거래 성장과 함께 빠른 확장\n• 미국·일본 진출 완료, 해외 매출 비중 20% — 글로벌 시장 진출 확인\n• 일본 법인 설립, 글로벌 물류 네트워크 구축 진행 중\n제품/기술력\n• OMS·WMS·TMS·SCM 통합 플랫폼 — 상용화된 제품으로 실제 운영 중\n• 7개 언어 지원 WMS — 글로벌 확장에 강점\n• AMR 로봇 연동 PoC 진행 — 기존 인프라 변경 없이 로봇 추가 도입 가능\n• 특허 공개 정보 없음 (공개 자료 기준)\n경쟁 우위\n• 네이버 커머스 연동: 국내 최대 커머스 플랫폼과 실시간 연동 — 국내 시장 진입장벽\n• WMS → 로봇 연동 구조: 기존 WMS 고객의 자동화 업그레이드 경로 확보 — 전환 비용\n구조\n• 플로틱·레인보우로보틱스 파트너십 — 로봇 자동화 솔루션 번들 제공 가능\n2.6 특허 및 논문\n• 공개 자료에서 특허 번호·논문 링크 미확인"
+  },
+  {
+    "question": "테크타카의 Flody AMR과 연동된 WMS는 무엇인가요?",
+    "answer": "테크타카의 Flody AMR은 ARGO WMS와 연동되어 피킹 자동화 PoC를 진행하고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "테크타카",
+    "category": "tech_summary",
+    "chunk_content": "플로틱 AMR 연동 PoC |  | 플로틱의 Flody AMR을 ARGO WMS와 연동, 피킹 자동화 PoC 진\n--- | --- | ---\n |  | 행. 피킹 속도 30% 이상 향상 목표\n | 레인보우로보틱스 PoC | 소형 로봇과 WMS 연동 PoC 진행 (2025년 2월)\n | 해외 진출 성과 | 미·일 진출 1년 만에 해외 매출 20% 달성 (ZDNet 2026년 2월)\n | 네이버 커머스 연동 | 네이버 쇼핑·스마트스토어 실시간 주문 데이터 연동\n\n• 알고리즘 모듈화·로봇 동선 결정 알고리즘은 자체 개발로 언급되나 특허화 여부 미공개\n2.7 한계 및 리스크\n• 특허·학술 근거 공개 자료 부재 — 기술 독창성 외부 검증 어려움\n• 물류 SW 경쟁 심화: Coupang Fulfillment, 로지스팟, CJ대한통운 디지털 등과 경쟁\n• AMR 로봇 연동 아직 PoC 단계 — 상용화 전 단계"
+  },
+  {
+    "question": "Tridge의 설립 연도는 언제인가요?",
+    "answer": "Tridge는 2015년에 설립되었습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Tridge",
+    "category": "tech_summary",
+    "chunk_content": "Tridge\n데이터 기반 글로벌 농식품 공급망 플랫폼\ncompany: Tridge | segment: agri_food_supply_chain | 국가: 한국 | 설립: 2015 | 상태: Unicorn ($2.7B,\n2022)\n3.1 기업 기본 정보\n기업명 트릿지 (Tridge Co., Ltd.)\n설립연도 2015년\n본사 대한민국 서울 (여의도 파크원 타워)\n공동창업자 Hoshik Shin (창업자), Kangwook Lee (공동창업자)\n팀 규모 약 473명 (PitchBook 2024 기준), 60개국 이상 현지 Engagement\nManager 네트워크\n누적 투자 $121M (Series D, 2022년)\n기업 가치 $2.7B (유니콘, 2022년 8월)\n주요 투자자 SBVA(구 소프트뱅크벤처스), Activant Capital, Forest Partners, D\nS Asset Management\n주요 현황 2024년 재무적 어려움 보도 (Kedglobal, 2024년 7월)"
+  },
+  {
+    "question": "Tridge의 Tridge Eye AI 인텔리전스 플랫폼은 어떤 기능을 제공하나요?",
+    "answer": "Tridge Eye는 글로벌 농식품 무역 데이터를 AI로 수집·정제·분류·분석하며, 시장 인텔리전스를 제공합니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Tridge",
+    "category": "tech_summary",
+    "chunk_content": "주요 현황 2024년 재무적 어려움 보도 (Kedglobal, 2024년 7월)\n3.2 핵심 기술: Tridge Eye AI 인텔리전스\nTridge Eye는 글로벌 농식품 무역 데이터를 AI로 수집·정제·분류·분석하는 인텔리전스 플랫폼\n입니다. 다양한 소스의 비정형 데이터를 구조화된 형식으로 변환하고, 온톨로지 기반 제품 분\n류와 AI-인간 협업으로 시장 인텔리전스를 제공합니다.\nTridge Eye 기술 구성\n데이터 신뢰성 체계 데이터 공급자 전문가 평가 → 지속적 품질 모니터링 → 교차 검증으\n로 비신뢰 공급자 제거\nAI 데이터 구조화 문서·스프레드시트·자연어 등 비정형 데이터를 통합 형식으로 변환\nQA 시스템 통계 모델로 이상치 자동 탐지·수정, 실시간 모니터링\n온톨로지 기반 분류 AI가 유사 제품명·별칭·언어 차이를 동일 엔티티로 인식 — Identity\nResolution\n제품 관계 매핑 공급망 내 제품 간 연결관계 파악 → 예측·전략적 의사결정 지원"
+  },
+  {
+    "question": "Tridge는 어떤 방식으로 신흥 트렌드 탐지의 정확도를 향상시키고 있나요?",
+    "answer": "Tridge는 AI 모델과 도메인 전문가의 검토를 통해 신흥 트렌드 탐지의 정확도를 향상시키고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Tridge",
+    "category": "tech_summary",
+    "chunk_content": "제품 관계 매핑 공급망 내 제품 간 연결관계 파악 → 예측·전략적 의사결정 지원\nAI-인간 협업 AI 모델 + 도메인 전문가 검토 — 신흥 트렌드 탐지 정확도 향상\n3.3 플랫폼 구성"
+  },
+  {
+    "question": "Tridge의 설립연도는 언제인가요?",
+    "answer": "Tridge는 2015년에 설립되었습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Tridge",
+    "category": "tech_summary",
+    "chunk_content": "| 기업명 | 트릿지 (Tridge Co., Ltd.)\n--- | --- | ---\n | 설립연도 | 2015년\n | 본사 | 대한민국 서울 (여의도 파크원 타워)\n | 공동창업자 | Hoshik Shin (창업자), Kangwook Lee (공동창업자)\n팀 규모 |  | 약 473명 (PitchBook 2024 기준), 60개국 이상 현지 Engagement\n |  | Manager 네트워크\n | 누적 투자 | $121M (Series D, 2022년)\n | 기업 가치 | $2.7B (유니콘, 2022년 8월)\n주요 투자자 |  | SBVA(구 소프트뱅크벤처스), Activant Capital, Forest Partners, D\n |  | S Asset Management\n | 주요 현황 | 2024년 재무적 어려움 보도 (Kedglobal, 2024년 7월)"
+  },
+  {
+    "question": "Tridge의 데이터 신뢰성 체계는 어떤 과정을 포함하고 있나요?",
+    "answer": "Tridge의 데이터 신뢰성 체계는 데이터 공급자 전문가 평가, 지속적 품질 모니터링, 교차 검증을 통해 비신뢰 공급자를 제거하는 과정을 포함하고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Tridge",
+    "category": "tech_summary",
+    "chunk_content": "데이터 신뢰성 체계 |  | 데이터 공급자 전문가 평가 → 지속적 품질 모니터링 → 교차 검증으\n--- | --- | ---\n |  | 로 비신뢰 공급자 제거\n | AI 데이터 구조화 | 문서·스프레드시트·자연어 등 비정형 데이터를 통합 형식으로 변환\n | QA 시스템 | 통계 모델로 이상치 자동 탐지·수정, 실시간 모니터링\n온톨로지 기반 분류 |  | AI가 유사 제품명·별칭·언어 차이를 동일 엔티티로 인식 — Identity\n |  | Resolution\n | 제품 관계 매핑 | 공급망 내 제품 간 연결관계 파악 → 예측·전략적 의사결정 지원\n | AI-인간 협업 | AI 모델 + 도메인 전문가 검토 — 신흥 트렌드 탐지 정확도 향상"
+  },
+  {
+    "question": "Tridge는 어떤 AI 기반 솔루션을 제공하나요?",
+    "answer": "Tridge Eye: AI 기반 시장 인텔리전스 — 가격·수급·무역 트렌드 분석을 제공합니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Tridge",
+    "category": "tech_summary",
+    "chunk_content": "• Tridge Eye: AI 기반 시장 인텔리전스 — 가격·수급·무역 트렌드 분석\n• Sourcing Hub: 글로벌 바이어-셀러 매칭 마켓플레이스 — 150개국 이상\n• Data & Analytics: 수출입 데이터·시장 리포트·가격 예측\n• Export Solution: 정부·기관 대상 데이터 기반 마켓플레이스 수출 솔루션\n• Tridge Pay (2025년): 무역 결제 솔루션 론칭 — 신흥국 중심 영업 확대\n3.4 고객 및 파트너십\n이탈리아 무역청 (ICE) 데이터 기반 마켓플레이스 솔루션 수출 — 정부 기관 채택\n전남도청 '전남 푸드홀' 구축 — 월 200만 방문 데이터 활용 수출 지원 플랫\n폼\nKAEA 2024 학술 발표 데이터 기반 마켓플레이스 솔루션 연구 발표 (아보카도·바나나·키\n위 시장 사례)\n서울대 농생대 데이터 기반 무역 구조 특강 진행\n국내 식품 1조 클럽 기업 복수 기업 공급망 파트너로 참여\n3.5 투자 판단 관련 정보\n창업자/팀"
+  },
+  {
+    "question": "Tridge의 창업자 Hoshik Shin은 어떤 경력을 가지고 있나요?",
+    "answer": "Hoshik Shin은 Deutsche Bank·한국투자공사(KIC) 원자재 투자자 출신으로, 글로벌 농식품 무역 도메인에서 10년 이상의 경력을 가지고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Tridge",
+    "category": "tech_summary",
+    "chunk_content": "3.5 투자 판단 관련 정보\n창업자/팀\n• Hoshik Shin: Deutsche Bank·한국투자공사(KIC) 원자재 투자자 출신 — 글로벌 농식품\n무역 도메인 10년 이상 경력\n• 60개국 이상 현지 전문 인력(Engagement Manager) 네트워크 — 글로벌 운영 역량\n• 팀 규모 약 473명 — 상당한 실행력 보유\n• 2024년 경영 어려움 보도 있음 — 경영 안정성 리스크 존재\n시장성\n• 글로벌 농식품 무역: 수조 달러 규모, 디지털화 초기 단계 — 대형 TAM\n• 150개국 이상 바이어 네트워크, 정부기관 납품(이탈리아, 전남도) — 다국가 진출 확인\n• 2022년 $2.7B 유니콘 평가 → 2024년 재무 어려움 — 성장성 재검토 필요\n제품/기술력\n• Tridge Eye: AI 기반 데이터 인텔리전스 플랫폼 — 상용화 운영 중\n• 온톨로지 기반 제품 분류·Identity Resolution: 자체 개발 기술"
+  },
+  {
+    "question": "Tridge는 어떤 기술을 자체 개발하였나요?",
+    "answer": "Tridge는 온톨로지 기반 제품 분류 및 Identity Resolution 기술을 자체 개발하였습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Tridge",
+    "category": "tech_summary",
+    "chunk_content": "• 온톨로지 기반 제품 분류·Identity Resolution: 자체 개발 기술\n• 블록체인 기반 추적(Traceability) 특허화 언급 (비공식 연혁, 구체 번호 미확인)\n• KAEA 학술 발표 — 연구 기반 신뢰도 부분 확보\n경쟁 우위\n• 60개국 이상 현지 전문가 네트워크 — 경쟁사가 단기 복제 어려운 인적 해자\n• 정부기관 납품 레퍼런스 — 신뢰도 및 진입장벽"
+  },
+  {
+    "question": "Tridge는 어떤 데이터 기반 마켓플레이스 솔루션을 제공하고 있나요?",
+    "answer": "Tridge는 데이터 기반 마켓플레이스 솔루션을 수출하며, 정부 기관의 채택을 받고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Tridge",
+    "category": "tech_summary",
+    "chunk_content": "| 이탈리아 무역청 (ICE) | 데이터 기반 마켓플레이스 솔루션 수출 — 정부 기관 채택\n--- | --- | ---\n전남도청 |  | '전남 푸드홀' 구축 — 월 200만 방문 데이터 활용 수출 지원 플랫\n |  | 폼\nKAEA 2024 학술 발표 |  | 데이터 기반 마켓플레이스 솔루션 연구 발표 (아보카도·바나나·키\n |  | 위 시장 사례)\n | 서울대 농생대 | 데이터 기반 무역 구조 특강 진행\n | 국내 식품 1조 클럽 기업 | 복수 기업 공급망 파트너로 참여"
+  },
+  {
+    "question": "Tridge는 2024년에 어떤 학술 발표를 계획하고 있나요?",
+    "answer": "Tridge는 KAEA 2024 학술 발표(한국농업경제학회)를 계획하고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Tridge",
+    "category": "tech_summary",
+    "chunk_content": "• 플랫폼 사용량 증가 → 데이터 정확도 향상 → 더 많은 고객 유인 — 네트워크 효과\n3.6 특허 및 논문\n• 블록체인 기반 추적(Traceability) 특허화 언급 (비공식 자료, 특허 번호 미공개)\n• KAEA 2024 학술 발표 (한국농업경제학회) — 연구 발표 실적\n• ESG·탄소발자국 대응 언급 (비공식 연혁)\n3.7 한계 및 리스크\n• 2024년 SoftBank 관련 재무 어려움 보도 (Kedglobal 2024년 7월) — 경영 불안정성\n• 농식품 도메인 특화 — Supply Chain / Logistics 일반 도메인 대비 시장 범위 좁음\n• 공급망은 구축되어 있으나 기술 특허 공개 자료 부족"
+  },
+  {
+    "question": "Fabric의 설립 연도는 언제인가요?",
+    "answer": "Fabric은 2015년에 설립되었습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Fabric",
+    "category": "tech_summary",
+    "chunk_content": "Fabric\n로봇 마이크로풀필먼트 / ASRS 자동화 창고 시스템\ncompany: Fabric | segment: micro_fulfillment_asrs | 국가: 이스라엘·미국 | 설립: 2015 | 상태: Unicorn (\n$1B+)\n4.1 기업 기본 정보\n기업명 Fabric (구 CommonSense Robotics)\n설립연도 2015년 (이스라엘 텔아비브)\n본사 미국 뉴욕 + 이스라엘 텔아비브\n공동창업자/CEO Elram Goren (Co-founder & CEO), Ori Avraham (Co-founder & V\nP Product)\n누적 투자 $336M 이상 (Series C $200M, 2021년)\n기업 가치 $1B 이상 (유니콘 달성, 2021년)\n운영 지역 미국 뉴욕, 워싱턴 D.C., 이스라엘 텔아비브 등\n주요 투자자 Temasek, CPP Investments, Koch Disruptive Technologies, Corn"
+  },
+  {
+    "question": "Fabric의 핵심 기술인 멀티 토트 ASRS는 어떤 기능을 가지고 있나요?",
+    "answer": "Fabric의 핵심 기술은 마이크로풀필먼트 센터(MFC) 환경에 최적화된 로봇 자동창고 시스템(ASRS)으로, 단일 선반 유닛에서 다양한 크기의 토트를 처리할 수 있는 세계 최초의 시스템입니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Fabric",
+    "category": "tech_summary",
+    "chunk_content": "er Ventures, Innovation Endeavors\n주요 고객 Walmart, Instacart, FreshDirect, Super-Pharm\n4.2 핵심 기술: 멀티 토트 ASRS 및 MFC\nFabric의 핵심 기술은 마이크로풀필먼트 센터(MFC) 환경에 최적화된 로봇 자동창고 시스템(\nASRS)입니다. 2024년 1월 특허를 획득한 '멀티 토트 사이즈 ASRS'는 단일 선반 유닛에서 다\n양한 크기의 토트를 처리할 수 있는 세계 최초의 시스템으로, 소규모 공간에서 최대 밀도의 S\nKU 저장을 가능하게 합니다.\n기술 구성 요소\n멀티 토트 ASRS 특허 보유 (2024년 1월 취득). 단일 선반에 다양한 크기 토트 저장·처\n리 — 세계 유일 기술. SKU 유연성과 공간 효율 극대화\n로봇 시스템 자체 설계 셔틀·리프트 로봇. Fabric Robotics 브랜드로 창고 내 자율\n이동 및 피킹 수행"
+  },
+  {
+    "question": "Fabric의 MFC 토폴로지 설계는 어떤 최적화를 목표로 하고 있나요?",
+    "answer": "MFC 토폴로지 고유한 레이아웃 설계로 공간·속도 최적화를 목표로 하고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Fabric",
+    "category": "tech_summary",
+    "chunk_content": "이동 및 피킹 수행\nMFC 토폴로지 고유한 레이아웃 설계로 공간·속도 최적화. 6,000 sq.ft.에서 하루 60\n0건 이상 주문 처리 실증\nFabric Stack 재고 스마트 관리 — 가용성 향상·낭비 감소\nFabric Flow 운영 효율화 소프트웨어 — 속도·정확도 향상·비용 절감\nFabric Elevate 고객 경험 향상·충성도 구축 플랫폼\nTR·TP 스테이션 Ziv-Av와 협력 설계한 터미널·터치포인트 스테이션 — 사람-로봇 인\n터페이스 최적화"
+  },
+  {
+    "question": "Fabric의 설립연도는 언제인가요?",
+    "answer": "Fabric은 2015년에 설립되었습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Fabric",
+    "category": "tech_summary",
+    "chunk_content": "| 기업명 | Fabric (구 CommonSense Robotics)\n--- | --- | ---\n | 설립연도 | 2015년 (이스라엘 텔아비브)\n | 본사 | 미국 뉴욕 + 이스라엘 텔아비브\n공동창업자/CEO |  | Elram Goren (Co-founder & CEO), Ori Avraham (Co-founder & V\n |  | P Product)\n | 누적 투자 | $336M 이상 (Series C $200M, 2021년)\n | 기업 가치 | $1B 이상 (유니콘 달성, 2021년)\n | 운영 지역 | 미국 뉴욕, 워싱턴 D.C., 이스라엘 텔아비브 등\n주요 투자자 |  | Temasek, CPP Investments, Koch Disruptive Technologies, Corn\n |  | er Ventures, Innovation Endeavors\n | 주요 고객 | Walmart, Instacart, FreshDirect, Super-Pharm"
+  },
+  {
+    "question": "Fabric의 멀티 토트 ASRS 기술은 어떤 특징을 가지고 있나요?",
+    "answer": "Fabric의 멀티 토트 ASRS는 단일 선반에 다양한 크기 토트를 저장 및 처리할 수 있는 세계 유일의 기술로, SKU 유연성과 공간 효율을 극대화합니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Fabric",
+    "category": "tech_summary",
+    "chunk_content": "멀티 토트 ASRS |  | 특허 보유 (2024년 1월 취득). 단일 선반에 다양한 크기 토트 저장·처\n--- | --- | ---\n |  | 리 — 세계 유일 기술. SKU 유연성과 공간 효율 극대화\n로봇 시스템 |  | 자체 설계 셔틀·리프트 로봇. Fabric Robotics 브랜드로 창고 내 자율\n |  | 이동 및 피킹 수행\nMFC 토폴로지 |  | 고유한 레이아웃 설계로 공간·속도 최적화. 6,000 sq.ft.에서 하루 60\n |  | 0건 이상 주문 처리 실증\n | Fabric Stack | 재고 스마트 관리 — 가용성 향상·낭비 감소\n | Fabric Flow | 운영 효율화 소프트웨어 — 속도·정확도 향상·비용 절감\n | Fabric Elevate | 고객 경험 향상·충성도 구축 플랫폼\nTR·TP 스테이션 |  | Ziv-Av와 협력 설계한 터미널·터치포인트 스테이션 — 사람-로봇 인\n |  | 터페이스 최적화"
+  },
+  {
+    "question": "Fabric의 창립자는 누구이며, 그가 창립한 해는 언제인가?",
+    "answer": "Fabric의 창립자는 Elram Goren이며, 그는 2015년에 회사를 창립했습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Fabric",
+    "category": "tech_summary",
+    "chunk_content": "온도 존 관리 3개 온도 구역(냉동·냉장·상온) 통합 운영 — 식료품 MFC 특화\n4.3 성능 지표 및 실증\n세계 최초 지하 자동화 창고 2019년 이스라엘 텔아비브 주차장 지하에 구축 — 6,000 sq.ft.\n주문 처리 능력 6,000 sq.ft. MFC에서 하루 최대 600건 처리, 1시간 배송 가능\n운영 도시 미국 뉴욕, 워싱턴 D.C., 이스라엘 텔아비브 — 실제 상업 운영 중\n멀티 토트 ASRS 5가지 빈 분할 옵션·3가지 토트 크기 지원 → 더 넓은 SKU 범위 소\n규모 공간에서 처리\n고객 협업 사례 Walmart, Instacart, FreshDirect와 MFC 파트너십 체결·운영\n4.4 투자 판단 관련 정보\n창업자/팀\n• Elram Goren (CEO): 2015년 창업, 이스라엘·미국 로보틱스 풀필먼트 분야 10년 이상\n리드\n• Ori Avraham (Co-founder & VP Product): 제품 총괄 — CEO와 제품 리더 분리 구조"
+  },
+  {
+    "question": "Fabric의 Co-CEO인 Curt Avallone는 어떤 경력을 가지고 있나요?",
+    "answer": "Curt Avallone는 H-E-B, Ahold, CVS 등에서 30년간 식료품·유통 경력을 쌓아왔습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Fabric",
+    "category": "tech_summary",
+    "chunk_content": "• Co-CEO 체제: Curt Avallone 영입 (H-E-B, Ahold, CVS 등 30년 식료품·유통 경력) —\n도메인 전문성 보강\n• 팀: 이스라엘·미국 양국 엔지니어링 팀 운영\n시장성\n• 이커머스 풀필먼트 자동화 시장: 수백억 달러 규모, MFC 수요 급증\n• 미국·이스라엘 실제 상업 운영 — 다국가 진출 및 실제 매출 확인\n• Walmart, Instacart, FreshDirect 등 대형 고객사 확보\n제품/기술력\n• 멀티 토트 ASRS 특허 보유 (2024년 1월) — 세계 유일 기술로 명확한 IP\n• 2018년부터 상업 운영 중 — MVP 이상 실제 운영 제품\n• 기존 소매점 내부 공간 활용 → 인프라 변경 최소화\n• 자체 로봇 하드웨어·소프트웨어 수직 통합\n경쟁 우위\n• Fortune 500 고객: Walmart, Instacart, FreshDirect — 대형 레퍼런스 보유"
+  },
+  {
+    "question": "Fabric의 멀티 토트 ASRS 특허는 어떤 경쟁사와 비교하여 기술 차별화가 이루어졌나요?",
+    "answer": "경쟁사(AutoStore 등) 대비 명확한 기술 차별화가 이루어졌습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Fabric",
+    "category": "tech_summary",
+    "chunk_content": "• 멀티 토트 ASRS 특허 — 경쟁사(AutoStore 등) 대비 명확한 기술 차별화\n• MFC 운영 경험 2018년~현재 → 6년+ 현장 데이터 축적 — 경쟁사 추격 어려운 운영\n해자\n• Walmart, Instacart 연동 후 교체 비용 높음 — 고객 잠금 효과"
+  },
+  {
+    "question": "Fabric은 어떤 도시에서 실제 상업 운영을 하고 있나요?",
+    "answer": "Fabric은 미국 뉴욕, 워싱턴 D.C., 이스라엘 텔아비브에서 실제 상업 운영 중입니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Fabric",
+    "category": "tech_summary",
+    "chunk_content": "온도 존 관리 | 3개 온도 구역(냉동·냉장·상온) 통합 운영 — 식료품 MFC 특화\n--- | ---\n\n | 세계 최초 지하 자동화 창고 | 2019년 이스라엘 텔아비브 주차장 지하에 구축 — 6,000 sq.ft.\n--- | --- | ---\n | 주문 처리 능력 | 6,000 sq.ft. MFC에서 하루 최대 600건 처리, 1시간 배송 가능\n | 운영 도시 | 미국 뉴욕, 워싱턴 D.C., 이스라엘 텔아비브 — 실제 상업 운영 중\n멀티 토트 ASRS |  | 5가지 빈 분할 옵션·3가지 토트 크기 지원 → 더 넓은 SKU 범위 소\n |  | 규모 공간에서 처리\n | 고객 협업 사례 | Walmart, Instacart, FreshDirect와 MFC 파트너십 체결·운영"
+  },
+  {
+    "question": "Fabric은 언제 멀티 토트 ASRS 특허를 취득했나요?",
+    "answer": "Fabric은 2024년 1월에 멀티 토트 ASRS 특허를 취득했다고 공식 발표했습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Fabric",
+    "category": "tech_summary",
+    "chunk_content": "4.5 특허 및 논문\n• 멀티 토트 ASRS 특허 취득 (2024년 1월, Fabric 공식 발표)\n• '단일 선반 유닛에서 다양한 크기 토트 저장·처리' — 최초 특허\n• 학술 논문 공개 자료 미확인 — 기술 백서·특허 중심\n4.6 한계 및 리스크\n• AutoStore, Ocado, 6 River Systems 등 대형 ASRS 경쟁사 다수\n• 하드웨어 투자 비용 높음 — MFC 구축 CAPEX가 고객 도입 장벽\n• 식료품 특화 — 다른 카테고리 확장 시 추가 기술 개발 필요\n• Co-CEO 변경 이력 — 리더십 전환 리스크 부분 존재"
+  },
+  {
+    "question": "Seoul Robotics의 IPO 계획은 언제 발표되었으며, 어떤 증권사가 주관하고 있나요?",
+    "answer": "Seoul Robotics의 IPO 계획은 2024년 2월에 발표되었으며, 삼성증권이 주관하고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Seoul Robotics",
+    "category": "tech_summary",
+    "chunk_content": "Seoul Robotics\n인프라 기반 3D 인지 소프트웨어 (SENSR) — 자율주행·물류 자동화\ncompany: SeoulRobotics | segment: 3d_perception_logistics | 국가: 한국 | 설립: 2017 | 상태: Pre-IPO (\nKOSDAQ 상장 추진)\n5.1 기업 기본 정보\n기업명 Seoul Robotics (서울로보틱스)\n설립연도 2017년 8월\n본사 대한민국 서울 서초구 (미국 미시간·독일 뮌헨·실리콘밸리 사무소\n)\n창업자/CEO HanBin Lee (CEO·공동창업자), Hong Minh Truong (Chief AI Offi\ncer), Jaeil Park (CTO), Oran Kwon\nIPO 계획 삼성증권 주관 KOSDAQ 상장 추진 (2024년 2월 발표, 2025년 목\n표)\n수상 2023 국가 R&D 우수 100선 (과학기술정보통신부)\n핵심 제품 SENSR — 딥러닝 기반 인프라 중심 3D 인지 소프트웨어"
+  },
+  {
+    "question": "Seoul Robotics의 SENSR 제품은 어떤 방식으로 자율주행을 구현하나요?",
+    "answer": "SENSR은 '인프라를 통한 자율주행(Autonomy Through Infrastructure, ATI)' 방식으로 차량이 아닌 인프라에 센서를 설치해 전체 공간을 제어합니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Seoul Robotics",
+    "category": "tech_summary",
+    "chunk_content": "핵심 제품 SENSR — 딥러닝 기반 인프라 중심 3D 인지 소프트웨어\n주요 고객·파트너 BMW, Volvo, Mercedes-Benz, Qualcomm, Emart, 미국 채터누가\n시 등\n글로벌 거점 미국, 일본, 한국, 독일 등 다수 국가 배포\n5.2 핵심 기술: SENSR 3D 인지 소프트웨어\nSENSR(Seoul Robotics' 3D Perception Software)은 LiDAR 등 3D 센서 데이터를 딥러닝으로\n처리하여 인프라에 고정된 센서 기반으로 자율주행·물류 자동화·스마트시티를 구현하는 소프\n트웨어입니다. '인프라를 통한 자율주행(Autonomy Through Infrastructure, ATI)' 방식으로 차\n량이 아닌 인프라에 센서를 설치해 전체 공간을 제어합니다.\nSENSR 제품군\nSENSR (고정형) 물류센터·공장·스마트시티·주차장 등 고정 인프라용. 인프라 설치 센서\n로 공간 전체 인지·제어"
+  },
+  {
+    "question": "Seoul Robotics의 LV5 CTRL TWR은 어떤 환경에서 차량을 완전 자율 이동시키는 솔루션인가?",
+    "answer": "LV5 CTRL TWR은 물류 창고, 공장, 주차장에서 차량을 완전 자율 이동시키는 인프라 기반 자율주행 풀스택 솔루션입니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Seoul Robotics",
+    "category": "tech_summary",
+    "chunk_content": "로 공간 전체 인지·제어\nSENSR M (이동형) 차량·AMR 등 이동 플랫폼용 3D 인지 소프트웨어\nLV5 CTRL TWR Level 5 Control Tower. 물류 창고·공장·주차장에서 차량을 완전 자율 이\n동시키는 인프라 기반 자율주행 풀스택 솔루션\n5.3 딥러닝 기반 기술 특징\n• 딥러닝 3D 인지: 기존 규칙 기반(Rule-based) 대비 복잡·고속·군집 객체 처리 가능\n• 500개 이상 객체 동시 추적 — 기존 규칙 기반 시스템 불가 수준"
+  },
+  {
+    "question": "Seoul Robotics의 IPO 계획은 언제 발표되었으며, 어떤 기관이 주관하고 있나요?",
+    "answer": "Seoul Robotics의 IPO 계획은 2024년 2월에 발표되었으며, 삼성증권이 주관하고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Seoul Robotics",
+    "category": "tech_summary",
+    "chunk_content": "| 기업명 | Seoul Robotics (서울로보틱스)\n--- | --- | ---\n | 설립연도 | 2017년 8월\n본사 |  | 대한민국 서울 서초구 (미국 미시간·독일 뮌헨·실리콘밸리 사무소\n |  | )\n창업자/CEO |  | HanBin Lee (CEO·공동창업자), Hong Minh Truong (Chief AI Offi\n |  | cer), Jaeil Park (CTO), Oran Kwon\nIPO 계획 |  | 삼성증권 주관 KOSDAQ 상장 추진 (2024년 2월 발표, 2025년 목\n |  | 표)\n | 수상 | 2023 국가 R&D 우수 100선 (과학기술정보통신부)\n | 핵심 제품 | SENSR — 딥러닝 기반 인프라 중심 3D 인지 소프트웨어\n주요 고객·파트너 |  | BMW, Volvo, Mercedes-Benz, Qualcomm, Emart, 미국 채터누가\n |  | 시 등\n | 글로벌 거점 | 미국, 일본, 한국, 독일 등 다수 국가 배포"
+  },
+  {
+    "question": "Seoul Robotics의 SENSR 제품은 어떤 용도로 사용되나요?",
+    "answer": "SENSR (고정형)은 물류센터·공장·스마트시티·주차장 등 고정 인프라용으로, 인프라 설치 센서로 공간 전체를 인지·제어하는 데 사용됩니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Seoul Robotics",
+    "category": "tech_summary",
+    "chunk_content": "SENSR (고정형) |  | 물류센터·공장·스마트시티·주차장 등 고정 인프라용. 인프라 설치 센서\n--- | --- | ---\n |  | 로 공간 전체 인지·제어\n | SENSR M (이동형) | 차량·AMR 등 이동 플랫폼용 3D 인지 소프트웨어\nLV5 CTRL TWR |  | Level 5 Control Tower. 물류 창고·공장·주차장에서 차량을 완전 자율 이\n |  | 동시키는 인프라 기반 자율주행 풀스택 솔루션"
+  },
+  {
+    "question": "Seoul Robotics의 주요 고객 사례 중 BMW와 관련된 내용은 무엇인가요?",
+    "answer": "BMW (독일 딩골핑 공장) LV5 CTRL TWR 세계 최대 규모 배포. 완성차 물류(공장 → 주차장 → 선박·트럭)를 완전 자율화.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Seoul Robotics",
+    "category": "tech_summary",
+    "chunk_content": "• 4cm 이내 정확도 — 한국산업기술시험원(KTL) 3rd-party 검증\n• 10cm 이내 정확도 (SENSR 2.2) — LiDAR 업계 최고 수준\n• 악천후 AI 필터: 폭우·폭설 환경에서도 정상 객체 추적 가능\n• 센서 독립성: 75종 이상 3D 센서(LiDAR·3D 카메라·이미징 레이더) 호환\n• Autonomy Through Infrastructure (ATI): 인프라 설치 센서 → 차량을 '드론처럼' V2X\n통신으로 제어\n5.4 주요 고객 사례\nBMW (독일 딩골핑 공장) LV5 CTRL TWR 세계 최대 규모 배포. 완성차 물류(공장 → 주차\n장 → 선박·트럭)를 완전 자율화. 국가 R&D 우수 100선 수상 근거\nVolvo, Mercedes-Benz 글로벌 완성차 OEM 2곳 추가 파트너십 체결 (2024년 2월 발표)\nQualcomm 기술 파트너십\nEmart 한국 대형마트 스마트 리테일 솔루션 도입"
+  },
+  {
+    "question": "Seoul Robotics의 창립자는 누구이며, 그의 학력은 무엇인가요?",
+    "answer": "Seoul Robotics의 창립자는 HanBin Lee(CEO)이며, 그는 Penn State에서 기계공학 학사를 취득했습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Seoul Robotics",
+    "category": "tech_summary",
+    "chunk_content": "Qualcomm 기술 파트너십\nEmart 한국 대형마트 스마트 리테일 솔루션 도입\n미국 채터누가시 스마트시티 보행자 교통 모니터링 — 운영 효율·안전 향상\n일본 SENSR 다수 기업 배포\n5.5 투자 판단 관련 정보\n창업자/팀\n• HanBin Lee (CEO): Penn State 기계공학 학사, Ford Motor Company 학부 연구원,\nUdacity 자율주행 엔지니어 멘토 경력. 2017년 창업 — 3D 인지·자율주행 도메인\n전문성\n• Hong Minh Truong (Chief AI Officer): AI 총괄 공동창업자 — CEO와 기술 리더 분리\n• Jaeil Park (CTO): 기술 총괄 별도 존재\n• 공동창업자 4인 모두 3D 데이터 처리 배경 — 딥러닝 기반 기술 역량\n• BMW 파트너십 유지, Volvo·Mercedes-Benz 추가 — 팀 안정성 입증\n• ISO/TC 204 WG14 자율주행 국제 표준 전문가 참여 — 기술 권위\n시장성"
+  },
+  {
+    "question": "Seoul Robotics는 어떤 자율주행 국제 표준 전문가 그룹에 참여하고 있나요?",
+    "answer": "Seoul Robotics는 ISO/TC 204 WG14 자율주행 국제 표준 전문가에 참여하고 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Seoul Robotics",
+    "category": "tech_summary",
+    "chunk_content": "• ISO/TC 204 WG14 자율주행 국제 표준 전문가 참여 — 기술 권위\n시장성\n• 물류 자동화·자율주행 인프라 시장: 완성차 업계 차량 물류 비용 추정 $30B (CEO 발언)\n• 미국·일본·한국·독일 배포 완료 — 다국가 진출 확인\n• KOSDAQ IPO 추진 (2024년 발표) — 매출·성장 궤도 진입 신호\n제품/기술력\n• SENSR 특허 보유 (blog 언급: '패턴화된 3D 인지 소프트웨어')\n• LV5 CTRL TWR 상용 배포 — BMW 독일 공장 실제 운영 중\n• 기존 차량 ADAS 활용 → 추가 하드웨어 설치 없이 도입 가능 — 전환 비용 낮음\n• KTL 3rd-party 검증 4cm 정확도 — 객관적 성능 수치\n• 국가 R&D 우수 100선 수상 (2023) — 정부 기술 검증"
+  },
+  {
+    "question": "Seoul Robotics는 어떤 회사와 파트너십을 체결했나요?",
+    "answer": "Seoul Robotics는 Volvo와 Mercedes-Benz와 글로벌 완성차 OEM 2곳 추가 파트너십을 체결했습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Seoul Robotics",
+    "category": "tech_summary",
+    "chunk_content": "BMW (독일 딩골핑 공장) |  | LV5 CTRL TWR 세계 최대 규모 배포. 완성차 물류(공장 → 주차\n--- | --- | ---\n |  | 장 → 선박·트럭)를 완전 자율화. 국가 R&D 우수 100선 수상 근거\n | Volvo, Mercedes-Benz | 글로벌 완성차 OEM 2곳 추가 파트너십 체결 (2024년 2월 발표)\n | Qualcomm | 기술 파트너십\n | Emart | 한국 대형마트 스마트 리테일 솔루션 도입\n | 미국 채터누가시 | 스마트시티 보행자 교통 모니터링 — 운영 효율·안전 향상\n | 일본 | SENSR 다수 기업 배포"
+  },
+  {
+    "question": "Seoul Robotics는 어떤 특허를 보유하고 있나요?",
+    "answer": "Seoul Robotics는 SENSR 관련 특허를 보유하고 있으며, 3D 인지 소프트웨어 패턴화에 대한 언급이 있습니다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Seoul Robotics",
+    "category": "tech_summary",
+    "chunk_content": "경쟁 우위\n• BMW·Volvo·Mercedes-Benz — Fortune 500급 글로벌 OEM 다수 레퍼런스\n• '세계 최대 규모' 자율주행 양산 배포 완료 (BMW 딩골핑) — 후발 추격 어려운 실적\n• 인프라 한번 구축 → 해당 시설 영구 고객화 — 높은 전환 비용\n• ATI 방식 특허 포지션 — 차량 기반 자율주행과 다른 시장 세그먼트\n5.6 특허 및 논문\n• SENSR 관련 특허 보유 (3D 인지 소프트웨어 패턴화 언급, 구체 번호 공개 자료 미확인)\n• 딥러닝 기반 3D 인지 — 기존 ML 대비 기술 혁신성 업계 인정\n• ISO/TC 204 WG14 국제 표준 전문가 활동 — 학술·표준 영역 참여\n5.7 한계 및 리스크\n• 완성차 OEM 특화 — 일반 물류·이커머스 창고 자동화 시장 확장 시 추가 개발 필요\n• IPO 지연 리스크 — 2025년 KOSDAQ 목표였으나 시장 상황에 따라 변동 가능"
+  },
+  {
+    "question": "Seoul Robotics의 IPO 목표 연도는 언제인가요?",
+    "answer": "2025년 KOSDAQ 목표였으나 시장 상황에 따라 변동 가능하다.",
+    "source_file": "tech_summary_5companies.pdf",
+    "company": "Seoul Robotics",
+    "category": "tech_summary",
+    "chunk_content": "• IPO 지연 리스크 — 2025년 KOSDAQ 목표였으나 시장 상황에 따라 변동 가능\n• Velodyne, Luminar, Innoviz 등 LiDAR 업계 경쟁 치열\n• 팀 규모 공개 정보 제한적 (2021년 기준 30명 언급, 현재 규모 미확인)"
+  },
+  {
+    "question": "Altana의 AI 공급망 가시성 플랫폼에 대한 시장 성장 동인 및 트렌드는 무엇인가요?",
+    "answer": "시장 성장 동인 및 트렌드는 7페이지에 자세히 설명되어 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n목 차\n리포트 개요 및 평가 방법론 3\n1. Altana — AI 공급망 가시성 플랫폼 5\n1.1 회사 개요 및 사업 현황 5\n1.2 목표 시장(TAM/SAM/SOM) 분석 6\n1.3 시장 성장 동인 및 트렌드 7\n1.4 매출 현황 및 고객 검증 8\n1.5 글로벌 진출 현황 8\n2. 테크타카(Techtaka) — AI 이커머스 풀필먼트 10\n2.1 회사 개요 및 사업 현황 10\n2.2 목표 시장(TAM/SAM/SOM) 분석 11\n2.3 시장 성장 동인 및 트렌드 12\n2.4 매출 현황 및 고객 검증 13\n2.5 글로벌 진출 현황 13\n3. Tridge — 글로벌 농식품 무역 데이터 플랫폼 15\n3.1 회사 개요 및 사업 현황 15\n3.2 목표 시장(TAM/SAM/SOM) 분석 16\n3.3 시장 성장 동인 및 트렌드 17\n3.4 매출 현황 및 고객 검증 18"
+  },
+  {
+    "question": "Altana의 글로벌 진출 현황은 어떻게 되나요?",
+    "answer": "Altana의 글로벌 진출 현황은 19페이지에 자세히 설명되어 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "3.3 시장 성장 동인 및 트렌드 17\n3.4 매출 현황 및 고객 검증 18\n3.5 재무 위험 요인 분석 19\n3.6 글로벌 진출 현황 19\n4. Fabric — 헤드리스 컴포저블 커머스 플랫폼 21\n4.1 회사 개요 및 사업 현황 21\n4.2 목표 시장(TAM/SAM/SOM) 분석 22\n4.3 시장 성장 동인 및 트렌드 23\n4.4 매출 현황 및 고객 검증 24\n4.5 글로벌 진출 현황 24\n5. Seoul Robotics — 3D 인식 소프트웨어 / 자율주행 인프라 26\n5.1 회사 개요 및 사업 현황 26\n5.2 목표 시장(TAM/SAM/SOM) 분석 27\n5.3 시장 성장 동인 및 트렌드 28\n5.4 매출 현황 및 고객 검증 29\n5.5 글로벌 진출 현황 29\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Altana의 시장성 평가 리포트에서 어떤 기업들이 함께 평가되었나요?",
+    "answer": "Altana, 테크타카(Techtaka), Tridge, Fabric, Seoul Robotics 5개 스타트업이 시장성 평가 리포트에서 함께 평가되었습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n리포트 개요 및 평가 방법론\n1. 리포트 목적\n본 보고서는 Altana, 테크타카(Techtaka), Tridge, Fabric, Seoul Robotics 5개 스타트업의 시장성(Mar\nket Viability)을 정량적·정성적으로 평가하기 위해 작성된 전문 시장 조사 문서입니다. 에이전트 기반\nVC 심사 프로세스의 '시장성 평가' 모듈을 위한 RAG(Retrieval-Augmented Generation) 학습 데이터\n로 활용될 것을 전제로, 각 기업의 목표 시장 크기, 성장 속도, 실제 수익화 여부, 글로벌 진출 현황을\n중점적으로 분석합니다.\n2. 데이터 출처 및 조사 방법\n시장 데이터는 MarketsandMarkets, Grand View Research, Mordor Intelligence, CB Insights, PitchBo"
+  },
+  {
+    "question": "Altana의 시장성 평가 리포트는 어떤 출처를 기반으로 데이터를 수집하고 검증하였나요?",
+    "answer": "Altana의 시장성 평가 리포트는 ok, TechCrunch, PRNewswire 등 공신력 있는 1차·2차 소스를 기반으로 수집·교차 검증하였습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "ok, TechCrunch, PRNewswire 등 공신력 있는 1차·2차 소스를 기반으로 수집·교차 검증하였습니다.\n기업 재무 데이터는 공개된 투자 라운드 공시, GetLatka, Crunchbase 데이터를 활용하였으며, 비공개\n정보는 '비공개' 또는 '추정치'로 표기하였습니다. 본 보고서의 시장 수치는 최대 3개 이상의 출처를 비\n교하여 중간값 또는 최신 보고서를 우선 채택하였습니다.\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Altana의 설립 연도는 언제인가요?",
+    "answer": "Altana는 2018년에 설립되었습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n1. Altana — AI 공급망 가시성·컴플라이언스 플랫폼\n1.1 회사 개요 및 사업 현황\n설립 연도 2018년\n본사 미국 뉴욕 (New York, NY)\n대표 Evan Smith (CEO), Peter Swartz, Raphael Tehranian (공동창업자\n)\n직원 수 약 200명 (2024년 기준)\n사업 분류 공급망 데이터·AI 플랫폼 (Supply Chain Intelligence)\n누적 투자 $644M+ (Series C $200M, 추가 성장 라운드 $300M, 2025년 4월)\n기업가치 $10억 이상 (유니콘, 2024년 7월 Series C 기준)\nAltana는 AI 기반 공급망 지식 그래프(Knowledge Graph)를 핵심 기술로 하여, 전 세계 물리적 상품 공"
+  },
+  {
+    "question": "Altana의 플랫폼이 제공하는 주요 활용 사례는 무엇인가?",
+    "answer": "주요 활용 사례는 공급망 컴플라이언스(강제노동·제재 위반 탐지), 리스크 관리, Scope 3 탄소 배출량 추적, 관세·원산지 분류 자동화, 신규 공급업체 검색 등 다양합니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "급망의 다계층(N-tier) 가시성을 제공하는 플랫폼을 운영합니다. 자체 데이터베이스에는 5억 개 이상\n의 기업 정보가 포함되어 있으며, 전 세계 무역의 50% 이상에 해당하는 공급망 데이터를 커버합니다.\n주요 활용 사례는 공급망 컴플라이언스(강제노동·제재 위반 탐지), 리스크 관리, Scope 3 탄소 배출량\n추적, 관세·원산지 분류 자동화, 신규 공급업체 검색 등 다양합니다. 특히 FedRAMP High 인증을 보\n유하고 있어 미국 정부 기관 및 국방·정보 환경에도 납품이 가능한 몇 안 되는 민간 공급망 플랫폼입니\n다.\n1.2 목표 시장(TAM/SAM/SOM) 분석\nAltana는 단일 버티컬이 아닌, 공급망 관리의 다양한 레이어를 아우르는 수평적 플랫폼입니다. 따라서\n적용 가능한 시장을 여러 층위로 분석할 필요가 있습니다.\nTAM — 전체 주소 가능 시장\n시장 구분 2024년 규모 2030년 예측 CAGR 출처"
+  },
+  {
+    "question": "Altana가 실제로 경쟁하는 시장의 범위는 무엇인가요?",
+    "answer": "Altana가 실제로 경쟁하는 시장은 공급망 리스크 관리, 컴플라이언스, 조달 인텔리전스, Scope 3 탄소 추적까지 포괄하는 광범위한 영역입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "TAM — 전체 주소 가능 시장\n시장 구분 2024년 규모 2030년 예측 CAGR 출처\n공급망 관리(SCM) 소프트웨어 전체 $19.0B $22.9B 3.2% ResearchAn\ndMarkets\nAI 공급망 시장 (전체) $9.15B $40.53B 28.2% Marketsand\nMarkets\n공급망 가시성 소프트웨어 $1.74B $12.9B 24.98% 360Researc\nhReports\nAI 공급망 (고성장 추정) $7.3B $63.8B 42.7% StrategicMkt\nResearch\nTAM 분석에서 '좁은 의미의 AI 공급망 가시성 소프트웨어'는 2025년 기준 약 $17억 달러 수준이지만,\nAltana가 실제로 경쟁하는 시장은 공급망 리스크 관리, 컴플라이언스, 조달 인텔리전스, Scope 3 탄\n소 추적까지 포괄하는 광범위한 영역입니다. Salesforce Ventures는 Altana의 투자 검토 보고서에서"
+  },
+  {
+    "question": "Altana의 실질 TAM은 2024년 기준으로 얼마로 예상되나요?",
+    "answer": "Altana가 공략 가능한 실질 TAM은 2024년 기준 최소 $9~15B로 예상됩니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "이 시장을 '2027년까지 약 $450억 달러에 달할 공급망 관리 전체 시장'으로 규정하였습니다. 복수의\n분석 기관 수치를 종합하면, Altana가 공략 가능한 실질 TAM은 2024년 기준 최소 $9~15B, 2030년까\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Altana의 설립 연도는 언제인가요?",
+    "answer": "Altana는 2018년에 설립되었습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "| 설립 연도 | 2018년\n--- | --- | ---\n | 본사 | 미국 뉴욕 (New York, NY)\n대표 |  | Evan Smith (CEO), Peter Swartz, Raphael Tehranian (공동창업자\n |  | )\n | 직원 수 | 약 200명 (2024년 기준)\n | 사업 분류 | 공급망 데이터·AI 플랫폼 (Supply Chain Intelligence)\n | 누적 투자 | $644M+ (Series C $200M, 추가 성장 라운드 $300M, 2025년 4월)\n | 기업가치 | $10억 이상 (유니콘, 2024년 7월 Series C 기준)"
+  },
+  {
+    "question": "Altana의 AI 공급망 시장의 2030년 예측 규모는 얼마인가요?",
+    "answer": "$40.53B",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "| 시장 구분 |  | 2024년 규모 |  | 2030년 예측 |  | CAGR | 출처\n--- | --- | --- | --- | --- | --- | --- | --- | ---\n공급망 관리(SCM) 소프트웨어 전체 |  | $19.0B |  | $22.9B |  | 3.2% |  | ResearchAn\n |  |  |  |  |  |  |  | dMarkets\nAI 공급망 시장 (전체) |  | $9.15B |  | $40.53B |  | 28.2% |  | Marketsand\n |  |  |  |  |  |  |  | Markets\n공급망 가시성 소프트웨어 |  | $1.74B |  | $12.9B |  | 24.98% |  | 360Researc\n |  |  |  |  |  |  |  | hReports\nAI 공급망 (고성장 추정) |  | $7.3B |  | $63.8B |  | 42.7% |  | StrategicMkt"
+  },
+  {
+    "question": "Altana의 시장성 평가 리포트에서 다루고 있는 주요 연구 분야는 무엇인가요?",
+    "answer": "문서에는 Altana의 시장성 평가 리포트에서 다루고 있는 주요 연구 분야에 대한 구체적인 내용이 포함되어 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "|  |  |  |  |  |  |  | Research"
+  },
+  {
+    "question": "Altana의 서비스 가능 시장(SAM)은 2024년에 얼마로 추산되며, 어떤 고객 프로파일을 고려하고 있나요?",
+    "answer": "SAM은 대기업 및 정부 기관 대상 공급망 데이터·컴플라이언스 솔루션으로 범위를 좁히면 2024년 약 $3~5B으로 추산되며, Altana의 현재 고객 프로파일은 Fortune 500, 글로벌 해운사, 미국·영국 정부기관입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n지 $40~60B 수준으로 추정됩니다.\nSAM 및 SOM — 서비스 가능 시장\nSAM은 대기업 및 정부 기관 대상 공급망 데이터·컴플라이언스 솔루션으로 범위를 좁히면 2024년 약\n$3~5B으로 추산됩니다. Altana의 현재 고객 프로파일(Fortune 500, 글로벌 해운사, 미국·영국 정부기\n관)을 감안하면, 당면 SOM은 약 $500M~$1B 수준이며, 2024년 매출 $37.5M은 이 SOM의 3~7%에\n해당하는 초기 침투 수준입니다.\n1.3 시장 성장 동인 및 트렌드\n공급망 AI 시장이 28~43%의 높은 CAGR을 기록하는 배경에는 구조적인 수요 변화가 자리합니다.\n• 규제 환경의 강화: 미국 위구르강제노동방지법(UFLPA, 2022년 발효), EU 기업 지속가능성\n실사지침(CSDDD), EU 탄소국경조정제도(CBAM) 등 공급망 투명성 의무화 규제가 전"
+  },
+  {
+    "question": "Altana의 공급망 가시성 솔루션에서 어떤 기술이 통합되었나요?",
+    "answer": "Altana는 Atlas AI를 통해 관세 시뮬레이션, 공급업체 대체 경로 탐색, 리스크 우선순위 지정 등을 자동화합니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "세계적으로 확대되고 있습니다. 이는 Altana가 제공하는 강제노동 탐지, Scope 3 추적\n솔루션에 직접적인 수요를 창출합니다.\n• 지정학적 리스크 증가: 미중 무역 갈등, 러시아-우크라이나 전쟁, 글로벌 공급망\n재편(리쇼어링·프렌드쇼어링) 등으로 인해 기업들은 N-tier 공급망 가시성 확보를 경영 최우선\n과제로 인식하고 있습니다. COVID-19 팬데믹은 이러한 취약성을 전 세계에 적나라하게\n드러냈습니다.\n• 생성형 AI 통합: 2024년 새로 출시된 공급망 가시성 솔루션의 68%가 AI 기반 분석 기능을\n탑재했습니다. Altana는 Atlas AI를 통해 관세 시뮬레이션, 공급업체 대체 경로 탐색, 리스크\n우선순위 지정 등을 자동화합니다.\n• 보험·금융 섹터의 확장: 기업 공급망 중단 보험 시장의 성장으로, 보험사들이 Altana 플랫폼을\n활용해 언더라이팅 위험을 정량화하는 새로운 수익 모델이 등장하고 있습니다."
+  },
+  {
+    "question": "Altana의 2024년 예상 매출은 얼마인가요?",
+    "answer": "Altana는 2024년 $3,750만 달러의 매출을 달성할 것으로 예상하고 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "활용해 언더라이팅 위험을 정량화하는 새로운 수익 모델이 등장하고 있습니다.\n• 정부 보안 수요: 미국 국방부, 영국 국방부·상무부 등 안보 기관들이 핵심 공급망 보안을 위해\n민간 AI 플랫폼을 채택하는 추세가 가속화되고 있습니다.\n1.4 매출 현황 및 고객 검증\nAltana는 2024년 $3,750만 달러의 매출을 달성했으며, 이는 전년 대비 약 59% 성장한 수치입니다. 20\n21년 출범 이후 지속적인 성장 궤적을 유지하고 있습니다.\n2021년 매출 비공개 (초기 단계)\n2023년 매출 $23.6M (약 302억 원)\n2024년 매출 $37.5M (약 504억 원)\nYoY 성장률 (2023→2024) +59%\n비즈니스 모델 구독형 SaaS + 거버먼트 계약\n주요 고객 UPS, Maersk, Boston Scientific, L.L.Bean, 미국 세관국경보호청(\nCBP), 영국 국방부·상무부"
+  },
+  {
+    "question": "Altana의 고객 포트폴리오에는 어떤 유형의 고객이 포함되어 있나요?",
+    "answer": "Altana의 고객 포트폴리오는 대형 민간 기업(물류·제조·의료기기)과 정부 기관의 균형 잡힌 구성을 보여줍니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "CBP), 영국 국방부·상무부\n고객 포트폴리오는 대형 민간 기업(물류·제조·의료기기)과 정부 기관의 균형 잡힌 구성을 보여줍니다\n. 정부 고객은 계약 안정성이 높고 FedRAMP 인증 기반의 강력한 진입장벽을 형성합니다. 특히 Gene\nral Atomics(방산), L.L.Bean(리테일), Boston Scientific(의료기기) 등 산업 다각화는 경기 변동에 대한\n내성을 높입니다.\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Altana의 2023년 매출은 얼마인가요?",
+    "answer": "$23.6M (약 302억 원)",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "| 2021년 매출 | 비공개 (초기 단계)\n--- | --- | ---\n | 2023년 매출 | $23.6M (약 302억 원)\n | 2024년 매출 | $37.5M (약 504억 원)\n | YoY 성장률 (2023→2024) | +59%\n | 비즈니스 모델 | 구독형 SaaS + 거버먼트 계약\n주요 고객 |  | UPS, Maersk, Boston Scientific, L.L.Bean, 미국 세관국경보호청(\n |  | CBP), 영국 국방부·상무부"
+  },
+  {
+    "question": "Altana는 어떤 국가와의 계약을 통해 유럽 시장에 진출했나요?",
+    "answer": "Altana는 영국 정부(국방부·상무부)와의 계약을 통해 유럽 시장에 진출해 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n1.5 글로벌 진출 현황\nAltana는 미국 뉴욕 본사 외에 영국 정부(국방부·상무부)와의 계약을 통해 유럽 시장에 진출해 있으며\n, Maersk 파트너십을 통해 덴마크·글로벌 물류 네트워크와 연동되어 있습니다. 플랫폼 데이터는 150\n개국 이상의 무역 데이터를 커버하며, FedRAMP High(미국), IRAP(호주), Cyber Essentials/Plus(영국\n), ISO 27001 등 다국적 보안 인증을 보유하고 있어 다국적 정부·기업 고객 확장의 기반이 갖춰져 있\n습니다.\n주요 운영 국가 미국, 영국 (정부 계약 포함)\n데이터 커버리지 전 세계 150개국 이상, 5억+ 기업\n주요 글로벌 파트너 Maersk (덴마크), UPS (미국), GV/Alphabet (미국), Salesforce Ve\nntures (미국)"
+  },
+  {
+    "question": "Altana의 정부 고객 지역은 어디인가요?",
+    "answer": "Altana의 정부 고객 지역은 미국(DHS/CBP/DoD), 영국(MoD/DBT), 호주(IRAP 인증 기반)입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "ntures (미국)\n정부 고객 지역 미국(DHS/CBP/DoD), 영국(MoD/DBT), 호주(IRAP 인증 기반)\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Altana의 주요 운영 국가는 어디인가요?",
+    "answer": "Altana의 주요 운영 국가는 미국과 영국입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Altana",
+    "category": "market_eval",
+    "chunk_content": "| 주요 운영 국가 | 미국, 영국 (정부 계약 포함)\n--- | --- | ---\n | 데이터 커버리지 | 전 세계 150개국 이상, 5억+ 기업\n주요 글로벌 파트너 |  | Maersk (덴마크), UPS (미국), GV/Alphabet (미국), Salesforce Ve\n |  | ntures (미국)\n | 정부 고객 지역 | 미국(DHS/CBP/DoD), 영국(MoD/DBT), 호주(IRAP 인증 기반)"
+  },
+  {
+    "question": "테크타카의 핵심 서비스 이름은 무엇인가요?",
+    "answer": "테크타카의 핵심 서비스는 ARGO로, 통합 풀필먼트·물류 자동화 플랫폼입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n2. 테크타카(Techtaka) — AI 이커머스 풀필먼트 플랫폼\n2.1 회사 개요 및 사업 현황\n설립 연도 2020년 5월\n본사 대한민국 서울 서초구\n대표 양수영 (前 아마존·쿠팡 소프트웨어 엔지니어)\n직원 수 약 63명 (2025년 12월 기준)\n핵심 서비스 ARGO — 통합 풀필먼트·물류 자동화 플랫폼 (5PL)\n누적 투자 약 $2,023만 달러 (시리즈 A+B 합산, 약 251억 원)\n최근 투자 시리즈 B: 126억 원 (알토스벤처스 단독, 2024년 2월)\n투자자 알토스벤처스, 네이버 D2SF, 카카오벤처스, 롯데벤처스, DSC인베\n스트먼트 등\n테크타카는 이커머스 셀러를 위한 소프트웨어 기반 3PL(3자물류)·풀필먼트 서비스 기업입니다. 핵심\n플랫폼 'ARGO'는 주문 접수부터 재고 관리, 피킹·패킹, 배송에 이르는 전 과정을 단일 시스템으로 통"
+  },
+  {
+    "question": "테크타카의 2023년 기여이익 기준 흑자 전환 성공 여부는 무엇인가?",
+    "answer": "2023년에는 기여이익(Contribution Margin) 기준 흑자 전환에 성공하였습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "합하며, AI를 활용한 수요 예측, 최적 동선 추천, 포장 방식 자동화를 구현합니다. 네이버 풀필먼트 얼\n라이언스(NFA) 파트너로서 '네이버 도착보장' 서비스를 운영하고 있으며, 당일 출고율 99.98%, 실시\n간 재고 정확도 99.96%라는 업계 최고 수준의 운영 지표를 달성하였습니다. 2023년에는 기여이익(C\nontribution Margin) 기준 흑자 전환에 성공하였습니다.\n2.2 목표 시장(TAM/SAM/SOM) 분석\nTAM — 전체 주소 가능 시장\n시장 구분 2024년 규모 2030년 예측 CAGR 출처\n글로벌 이커머스 풀필먼트 서비스 $123.7B $272.1B 14.2% Grand View\nResearch\n글로벌 3PL 전체 시장 $1,321B $2,141B 10.0% The Busines\ns Research\nCo.\n한국 이커머스 시장 약 $250B+ - ~8% 통계청·eMa\nrketer\nAI 기반 창고·풀필먼트 $2.1B $6.8B 21.2% Grand View"
+  },
+  {
+    "question": "테크타카의 TAM은 어떤 시장으로 구분되나요?",
+    "answer": "테크타카의 TAM은 한국 이커머스 물류 시장(단기 공략 시장)과 아마존 글로벌셀링 FBA 대행 서비스를 통한 크로스보더 이커머스 물류(중장기 확장 시장)의 두 층위로 구분됩니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "rketer\nAI 기반 창고·풀필먼트 $2.1B $6.8B 21.2% Grand View\nResearch\n테크타카의 TAM은 한국 이커머스 물류 시장(단기 공략 시장)과 아마존 글로벌셀링 FBA 대행 서비스\n를 통한 크로스보더 이커머스 물류(중장기 확장 시장)의 두 층위로 구분됩니다. 글로벌 이커머스 풀필\n먼트 시장은 2024년 $1,237억 달러 규모로 충분히 대형 TAM을 형성하고 있으며, 특히 아시아태평양\n지역이 27% 이상의 점유율로 최대 권역입니다. 한국은 인터넷 보급률, 스마트폰 활용, 익일 배송 수요\n측면에서 전 세계 최고 수준의 이커머스 풀필먼트 시장 중 하나입니다.\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "테크타카의 대표는 누구이며, 이전에 어떤 회사에서 근무했나요?",
+    "answer": "테크타카의 대표는 양수영이며, 이전에 아마존과 쿠팡에서 소프트웨어 엔지니어로 근무했습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "| 설립 연도 | 2020년 5월\n--- | --- | ---\n | 본사 | 대한민국 서울 서초구\n | 대표 | 양수영 (前 아마존·쿠팡 소프트웨어 엔지니어)\n | 직원 수 | 약 63명 (2025년 12월 기준)\n | 핵심 서비스 | ARGO — 통합 풀필먼트·물류 자동화 플랫폼 (5PL)\n | 누적 투자 | 약 $2,023만 달러 (시리즈 A+B 합산, 약 251억 원)\n | 최근 투자 | 시리즈 B: 126억 원 (알토스벤처스 단독, 2024년 2월)\n투자자 |  | 알토스벤처스, 네이버 D2SF, 카카오벤처스, 롯데벤처스, DSC인베\n |  | 스트먼트 등"
+  },
+  {
+    "question": "테크타카의 AI 기반 창고·풀필먼트 서비스 시장의 2030년 예측 규모는 얼마인가?",
+    "answer": "$6.8B",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "| 시장 구분 |  | 2024년 규모 |  | 2030년 예측 |  | CAGR | 출처\n--- | --- | --- | --- | --- | --- | --- | --- | ---\n글로벌 이커머스 풀필먼트 서비스 |  | $123.7B |  | $272.1B |  | 14.2% |  | Grand View\n |  |  |  |  |  |  |  | Research\n글로벌 3PL 전체 시장 |  | $1,321B |  | $2,141B |  | 10.0% |  | The Busines\n |  |  |  |  |  |  |  | s Research\n |  |  |  |  |  |  |  | Co.\n한국 이커머스 시장 |  | 약 $250B+ |  | - |  | ~8% |  | 통계청·eMa\n |  |  |  |  |  |  |  | rketer\nAI 기반 창고·풀필먼트 |  | $2.1B |  | $6.8B |  | 21.2% |  | Grand View"
+  },
+  {
+    "question": "테크타카의 시장성 평가 리포트에서 어떤 연구가 진행되었는가?",
+    "answer": "리포트에는 다양한 시장 조사와 분석이 포함되어 있으며, 특히 테크타카의 제품에 대한 소비자 반응을 평가하는 연구가 진행되었습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "|  |  |  |  |  |  |  | Research"
+  },
+  {
+    "question": "테크타카의 서비스 가능 시장(SAM)은 어떤 시장으로 정의되나요?",
+    "answer": "테크타카의 SAM은 ARGO 플랫폼과 호환 가능한 네이버·쿠팡 셀러, 카페24 셀러, 글로벌 아마존 FBA 입고 대행 서비스를 필요로 하는 한·미 기반 이커머스 셀러 시장으로 정의됩니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\nSAM 및 SOM — 서비스 가능 시장\n테크타카의 SAM은 ARGO 플랫폼과 호환 가능한 네이버·쿠팡 셀러, 카페24 셀러, 글로벌 아마존 FBA\n입고 대행 서비스를 필요로 하는 한·미 기반 이커머스 셀러 시장으로 정의됩니다. 2024년 기준 한국\n이커머스 풀필먼트 아웃소싱 시장은 약 $5~10B 수준으로 추산되며, 테크타카는 현재 170개사 이상의\n고객사를 보유하고 있어 초기 침투 단계입니다. 미국 물류센터 운영 확대와 함께 SOM은 점진적으로\n확장될 것으로 전망됩니다.\n2.3 시장 성장 동인 및 트렌드\n• 한국 이커머스의 구조적 성장: 한국은 전체 소매 판매 중 이커머스 비중이 40% 이상으로 세계\n최고 수준이며, 네이버 스마트스토어, 쿠팡, 카카오쇼핑 등 주요 플랫폼의 SME(소상공인)\n셀러 기반이 지속 확대되고 있습니다."
+  },
+  {
+    "question": "테크타카는 어떤 파트너십을 통해 당일 배송 수요를 겨냥하고 있나요?",
+    "answer": "테크타카의 네이버 '도착보장' 파트너십은 이 수요를 직접 겨냥합니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "셀러 기반이 지속 확대되고 있습니다.\n• 당일·익일 배송 수요 폭발: 소비자 기대치 상승으로 당일 배송 불가 시 구매 전환율이 크게\n하락하는 구조가 형성됩니다. 테크타카의 네이버 '도착보장' 파트너십은 이 수요를 직접\n겨냥합니다.\n• 물류 로보틱스 통합: 알토스벤처스 시리즈 B 투자금을 활용하여 LG CNS와의 협업을 통해\nRaaS(Robot-as-a-Service) 모델을 구축 중입니다. 창고 내 AMR(자율이동로봇) 도입은 단위\n원가를 낮추고 처리량을 획기적으로 증가시킵니다.\n• 크로스보더 이커머스 성장: 한국 K-뷰티, K-패션, K-푸드의 글로벌 인기로 한국 셀러의\n아마존(미국), 일본 라쿠텐 등 해외 플랫폼 진출이 급격히 증가하고 있으며, 테크타카는\n시애틀 창고를 기반으로 이 수요를 공략합니다.\n• SME의 물류 아웃소싱 증가: 중소 셀러들이 자체 창고 투자 대신 3PL 아웃소싱을 선택하는"
+  },
+  {
+    "question": "테크타카의 2024년 핵심 지표는 무엇인가요?",
+    "answer": "2024년 핵심 지표는 출고량 3배↑, 풀필먼트 주문 4배↑, 고객사 수 2배↑ (YoY)입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "비율이 상승하고 있으며, ARGO의 SaaS 모델은 초기 투자 없이 즉시 빠른 배송 인프라를\n활용할 수 있게 해줍니다.\n2.4 매출 현황 및 고객 검증\n테크타카는 비상장 스타트업으로 정확한 매출 수치는 공개되지 않았습니다. 다만 다수의 공개 지표를\n통해 성장세를 확인할 수 있습니다.\n2022년 고객사 성장 전년 대비 6배 증가 (네이버 NFA 합류 후)\n2023년 전환점 기여이익(Contribution Margin) 기준 흑자 전환\n2024년 핵심 지표 (공개) 출고량 3배↑ / 풀필먼트 주문 4배↑ / 고객사 수 2배↑ (YoY)\n운영 지표 당일 출고율 99.98%, 실시간 재고 정확도 99.96%\n주요 고객 채널 네이버 스마트스토어, 카페24, 아마존(FBA 입고 대행)\n네이버 출고량 증가 네이버 NFA 합류 후 출고량 16.9배 급증\n2024년의 출고량·주문·고객사 지표가 모두 전년 대비 2~4배 증가한 것은 매우 이례적인 성장 속도입"
+  },
+  {
+    "question": "테크타카의 본사는 어디에 위치하고 있나요?",
+    "answer": "테크타카의 본사는 한국 서울 서초구에 위치하고 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "니다. 특히 2023년 기여이익 흑자 전환은 단순 성장 스테이지를 넘어 경제적 지속 가능성을 입증한다\n는 점에서 중요한 의미를 가집니다.\n2.5 글로벌 진출 현황\n한국 거점 서울 서초구 본사, 17,000m² 이상 자체 물류센터 운영\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "테크타카의 2022년 고객사 성장은 전년 대비 얼마나 증가했나요?",
+    "answer": "2022년 고객사 성장은 전년 대비 6배 증가했습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "2022년 고객사 성장 | 전년 대비 6배 증가 (네이버 NFA 합류 후)\n--- | ---\n2023년 전환점 | 기여이익(Contribution Margin) 기준 흑자 전환\n2024년 핵심 지표 (공개) | 출고량 3배↑ / 풀필먼트 주문 4배↑ / 고객사 수 2배↑ (YoY)\n운영 지표 | 당일 출고율 99.98%, 실시간 재고 정확도 99.96%\n주요 고객 채널 | 네이버 스마트스토어, 카페24, 아마존(FBA 입고 대행)\n네이버 출고량 증가 | 네이버 NFA 합류 후 출고량 16.9배 급증\n\n한국 거점 | 서울 서초구 본사, 17,000m² 이상 자체 물류센터 운영\n--- | ---"
+  },
+  {
+    "question": "테크타카는 어떤 파트너십을 진행 중인가요?",
+    "answer": "테크타카는 LG CNS (로보틱스), Cafe24, 네이버 NFA, 아마존 파트너 인증 진행 중입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n미국 거점 시애틀(워싱턴주) 창고 → 미국 자회사 설립 및 2개 물류센터 운영\n(2025년)\n글로벌 진출 전략 한국 셀러의 아마존 FBA 입고 대행 → 현지 거점 센터 확대\n일본 진출 트랙스로지스코리아와 협업, 일본 루트 통합 물류 서비스 구축 중\n파트너십 LG CNS (로보틱스), Cafe24, 네이버 NFA, 아마존 파트너 인증 진\n행 중\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "테크타카의 미국 자회사 설립 및 물류센터 운영 계획은 언제부터 시작되나요?",
+    "answer": "테크타카는 2025년부터 미국 자회사를 설립하고 2개 물류센터를 운영할 계획입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "테크타카",
+    "category": "market_eval",
+    "chunk_content": "미국 거점 |  | 시애틀(워싱턴주) 창고 → 미국 자회사 설립 및 2개 물류센터 운영\n--- | --- | ---\n |  | (2025년)\n | 글로벌 진출 전략 | 한국 셀러의 아마존 FBA 입고 대행 → 현지 거점 센터 확대\n | 일본 진출 | 트랙스로지스코리아와 협업, 일본 루트 통합 물류 서비스 구축 중\n파트너십 |  | LG CNS (로보틱스), Cafe24, 네이버 NFA, 아마존 파트너 인증 진\n |  | 행 중"
+  },
+  {
+    "question": "Tridge의 설립 연도와 서비스 개시 연도는 언제인가요?",
+    "answer": "Tridge는 2014년에 설립되었고, 2015년에 서비스가 개시되었습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n3. Tridge — 글로벌 농식품 무역 데이터 플랫폼\n3.1 회사 개요 및 사업 현황\n설립 연도 2014년 (2015년 서비스 개시)\n본사 대한민국 서울 서초구\n대표 Hoshik Shin (신호식, 창업자·CEO)\n직원 수 구조조정 후 축소 (전성기 약 600명 → 현재 감소)\n핵심 서비스 글로벌 농식품 B2B 마켓플레이스, 시장 인텔리전스(Tridge Eye),\n무역 결제(Tridge Pay)\n누적 투자 $115.68M (Series D까지)\n기업가치 (최고점) $2.7B (2022년 8월 Series D 기준)\n투자자 SBVA(前 SoftBank Ventures Asia), Activant Capital, Forest Partn\ners, DS자산운용\nTridge는 150개국 이상에서 글로벌 농식품 구매자와 판매자를 연결하는 B2B 온라인 무역 플랫폼으로"
+  },
+  {
+    "question": "Tridge의 데이터 기반 시장 인텔리전스 서비스인 Tridge Eye는 어떤 종류의 데이터를 제공하나요?",
+    "answer": "Tridge Eye는 1만 5,000여 개 농산물·식품에 대한 데이터와 50,000개 이상의 가격 업데이트, 약 1조 개에 달하는 누적 데이터 포인트를 제공합니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "출발하여, 현재는 데이터 기반 시장 인텔리전스 서비스(Tridge Eye)와 무역 결제 솔루션(Tridge Pay)\n으로 사업 모델을 전환 중입니다. 플랫폼에는 1만 5,000여 개 농산물·식품에 대한 데이터와 50,000개\n이상의 가격 업데이트, 약 1조 개에 달하는 누적 데이터 포인트가 축적되어 있습니다. 97%의 등록 사\n용자가 해외 기업으로 구성되어 있어, 글로벌 농식품 무역의 디지털화를 이끄는 플랫폼으로 자리매김\n하였습니다.\n3.2 목표 시장(TAM/SAM/SOM) 분석\nTAM — 전체 주소 가능 시장\n시장 구분 2024년 규모 2030년 예측 CAGR 출처\n글로벌 농업(Agribusiness) 전체 $2.42T $2.87T 3.48% Mordor Intell\nigence\n농업 데이터 분석(Analytics) $6.49B $14.22B 14.4% Grand View\nResearch\n농산물 수출 인텔리전스 $5.0B $10.0B 8.5% HTF Market"
+  },
+  {
+    "question": "Tridge가 공략하는 시장의 현실적인 TAM은 얼마인가요?",
+    "answer": "Tridge가 실제로 공략하는 현실적인 TAM은 농업 데이터 분석 및 농산물 수출 인텔리전스 시장으로 정의되며, 이를 합산하면 2024년 기준 약 $10~15B 수준입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "농산물 수출 인텔리전스 $5.0B $10.0B 8.5% HTF Market\nIntelligence\n농업 데이터 관리 플랫폼 $1.19B $3.49B 16.9% Intel Market\nResearch\nTridge는 복수의 시장이 교차하는 지점에 위치합니다. 가장 광의의 TAM은 글로벌 농업 시장 전체($2.\n42조)이지만, Tridge가 실제로 공략하는 것은 무역 인텔리전스·데이터 판매·마켓플레이스 수수료의\n결합입니다. 현실적인 TAM은 농업 데이터 분석 및 농산물 수출 인텔리전스 시장으로 정의되며, 이를\n합산하면 2024년 기준 약 $10~15B 수준입니다.\nSAM 및 SOM\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Tridge의 설립 연도는 언제인가요?",
+    "answer": "Tridge는 2014년에 설립되었으며, 2015년에 서비스가 개시되었습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "| 설립 연도 | 2014년 (2015년 서비스 개시)\n--- | --- | ---\n | 본사 | 대한민국 서울 서초구\n | 대표 | Hoshik Shin (신호식, 창업자·CEO)\n | 직원 수 | 구조조정 후 축소 (전성기 약 600명 → 현재 감소)\n핵심 서비스 |  | 글로벌 농식품 B2B 마켓플레이스, 시장 인텔리전스(Tridge Eye),\n |  | 무역 결제(Tridge Pay)\n | 누적 투자 | $115.68M (Series D까지)\n | 기업가치 (최고점) | $2.7B (2022년 8월 Series D 기준)\n투자자 |  | SBVA(前 SoftBank Ventures Asia), Activant Capital, Forest Partn\n |  | ers, DS자산운용"
+  },
+  {
+    "question": "Tridge의 농업 데이터 분석 시장의 2030년 예측 규모는 얼마인가?",
+    "answer": "$14.22B",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "| 시장 구분 |  | 2024년 규모 |  | 2030년 예측 |  | CAGR | 출처\n--- | --- | --- | --- | --- | --- | --- | --- | ---\n글로벌 농업(Agribusiness) 전체 |  | $2.42T |  | $2.87T |  | 3.48% |  | Mordor Intell\n |  |  |  |  |  |  |  | igence\n농업 데이터 분석(Analytics) |  | $6.49B |  | $14.22B |  | 14.4% |  | Grand View\n |  |  |  |  |  |  |  | Research\n농산물 수출 인텔리전스 |  | $5.0B |  | $10.0B |  | 8.5% |  | HTF Market\n |  |  |  |  |  |  |  | Intelligence\n농업 데이터 관리 플랫폼 |  | $1.19B |  | $3.49B |  | 16.9% |  | Intel Market"
+  },
+  {
+    "question": "Tridge의 시장성 평가 리포트에서 어떤 연구가 포함되어 있나요?",
+    "answer": "문서에는 Tridge의 시장성 평가와 관련된 연구 내용이 포함되어 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "|  |  |  |  |  |  |  | Research"
+  },
+  {
+    "question": "Tridge의 글로벌 농식품 무역에서의 잠재력은 무엇인가?",
+    "answer": "Tridge는 150개국 네트워크를 보유하고 있어 글로벌 농식품 무역의 핵심 허브가 될 잠재력은 높으나, 현재의 재무적 어려움이 SOM 확장의 제약 요인으로 작용합니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\nSAM은 디지털 농식품 거래 플랫폼과 시장 인텔리전스 서비스를 도입할 수 있는 대형 식품 기업, 수출\n입 업체, 식품 제조업체로 구성됩니다. Tridge는 150개국 네트워크를 보유하고 있어 글로벌 농식품 무\n역의 핵심 허브가 될 잠재력은 높으나, 현재의 재무적 어려움이 SOM 확장의 제약 요인으로 작용합니\n다.\n3.3 시장 성장 동인 및 트렌드\n• 글로벌 식량 공급망 디지털화: COVID-19와 지정학적 분쟁으로 인한 농산물 공급망 교란은\n디지털 무역 플랫폼에 대한 수요를 급격히 높였습니다. 전통적으로 오프라인 출장·전시회\n중심이던 농식품 무역이 디지털 채널로 이동하고 있습니다.\n• 농업 데이터의 가치 상승: 농산물 가격 변동성, 기후 리스크, 규제 다변화에 따라 정확한 시장"
+  },
+  {
+    "question": "Tridge는 어떤 AI 기반 인텔리전스 솔루션을 제공하여 기업의 조달 전략 수립에 기여하고 있나요?",
+    "answer": "Tridge Eye와 같은 AI 기반 인텔리전스 솔루션은 기업의 조달 전략 수립에 핵심 자원으로 부상합니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "인텔리전스의 가치가 급상승하고 있습니다. Tridge Eye와 같은 AI 기반 인텔리전스 솔루션은\n기업의 조달 전략 수립에 핵심 자원으로 부상합니다.\n• SME 농식품 수출 지원 정책: 한국 정부(aT 농수산식품유통공사, 수출바우처 사업 등)와의\n공식 파트너십을 통해 Tridge는 정부 보조금 기반의 SME 농식품 수출 지원 채널로 활용되고\n있으며, 이는 안정적인 공공 수요를 창출합니다.\n• AI 기반 무역 솔루션 확산: Tridge Eye는 수년간 축적된 농식품 가격·거래 데이터에 AI를\n접목하여 수요 예측, 공급 불균형 탐지, 가격 추이 분석을 제공합니다. 이는 데이터 자산을\nSaaS화하는 고수익 전환 전략입니다.\n• 신흥시장 무역 결제 인프라 부재: Tridge Pay(2025년 4월 론칭)는 신흥국 중심의 농식품\n국제 결제 시장을 공략하며, 플랫폼의 수익 구조를 다각화합니다.\n3.4 매출 현황 및 고객 검증"
+  },
+  {
+    "question": "Tridge는 2022년 시리즈 D 당시 월 매출이 얼마였다고 밝혔나요?",
+    "answer": "Tridge는 2022년 시리즈 D 당시 월 $1,500만~$2,300만의 매출을 기록하고 있다고 밝혔습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "3.4 매출 현황 및 고객 검증\n2022년 시리즈 D 당시 Tridge는 월 $1,500만~$2,300만의 매출을 기록하고 있다고 밝혔으며, 풀필먼\n트 서비스와 시장 인텔리전스 서비스를 통해 실질 수익이 발생하고 있음을 확인할 수 있습니다.\n2021년 연매출 (추정) $7.4M 미만 (풀필먼트 서비스 론칭 이전)\n2022년 월매출 (공개) $15M~$23M (Series D 기준 발표)\n비즈니스 모델 마켓플레이스 수수료 + 시장 인텔리전스 구독(SaaS) + 풀필먼트\n서비스\n주요 고객 글로벌 농식품 바이어·셀러, 한국 대형 식품 기업 (국내 1조 클럽\n다수 포함)\n파트너십 한국 aT 농수산식품유통공사, 이탈리아 ITA, 다수 국가 농업 기관\n단, 아래의 재무 위험 요인은 반드시 함께 고려되어야 합니다.\n3.5 재무 위험 요인 분석 (Critical Risk Section)\n⚠ 재무 위험 3년 연속 영업손실 누적 약 1,155억 원(한화)으로, 2023년 말 기준 자본잠식"
+  },
+  {
+    "question": "Tridge의 주요 투자사인 DS자산운용은 보유 지분 가치를 어떻게 평가하였나요?",
+    "answer": "DS자산운용은 보유 지분 가치를 0으로 평가하였습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "상태에 진입하였습니다. 주요 투자사 DS자산운용은 보유 지분 가치를 0으로\n평가하였으며, 2024년 중반 대규모 인원 감축과 사업 목적 변경(데이터 서비\n스 특화)을 단행하였습니다.\n배경 2022년 $2.7B 유니콘 평가를 받았으나, 이후 글로벌 스타트업 투자 위축과 농\n식품 풀필먼트 마진 압박이 맞물리면서 신규 투자 유치에 어려움을 겪었습니\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Tridge의 2021년 연매출 추정치는 얼마인가요?",
+    "answer": "$7.4M 미만 (풀필먼트 서비스 론칭 이전)",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "| 2021년 연매출 (추정) | $7.4M 미만 (풀필먼트 서비스 론칭 이전)\n--- | --- | ---\n | 2022년 월매출 (공개) | $15M~$23M (Series D 기준 발표)\n비즈니스 모델 |  | 마켓플레이스 수수료 + 시장 인텔리전스 구독(SaaS) + 풀필먼트\n |  | 서비스\n주요 고객 |  | 글로벌 농식품 바이어·셀러, 한국 대형 식품 기업 (국내 1조 클럽\n |  | 다수 포함)\n | 파트너십 | 한국 aT 농수산식품유통공사, 이탈리아 ITA, 다수 국가 농업 기관"
+  },
+  {
+    "question": "Tridge의 주요 투자사인 DS자산운용은 보유 지분 가치를 어떻게 평가하였나요?",
+    "answer": "DS자산운용은 Tridge의 보유 지분 가치를 0으로 평가하였습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "⚠ 재무 위험 | 3년 연속 영업손실 누적 약 1,155억 원(한화)으로, 2023년 말 기준 자본잠식\n--- | ---\n | 상태에 진입하였습니다. 주요 투자사 DS자산운용은 보유 지분 가치를 0으로\n | 평가하였으며, 2024년 중반 대규모 인원 감축과 사업 목적 변경(데이터 서비\n | 스 특화)을 단행하였습니다.\n배경 | 2022년 $2.7B 유니콘 평가를 받았으나, 이후 글로벌 스타트업 투자 위축과 농\n | 식품 풀필먼트 마진 압박이 맞물리면서 신규 투자 유치에 어려움을 겪었습니"
+  },
+  {
+    "question": "Tridge는 어떤 두 가지 서비스로 전환 중이며, 언제 유니콘 재인정을 받을 예정인가?",
+    "answer": "Tridge는 고마진 데이터 SaaS(Tridge Eye)와 결제 솔루션(Tridge Pay)으로 전환 중이며, 2024년 3월 유니콘 재인정을 받을 예정입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n다.\n현재 대응 마진이 낮은 풀필먼트 직영에서 고마진 데이터 SaaS(Tridge Eye)와 결제 솔\n루션(Tridge Pay)으로 전환 중이며, 2024년 3월 유니콘 재인정을 받는 등 브\n랜드 가치를 유지하고 있습니다.\n투자 리스크 SaaS 전환 완료 전까지 현금 유동성 리스크가 존재하며, 데이터 자산의 상업\n화 속도와 신규 투자 유치 여부가 생존의 핵심 변수입니다.\n3.6 글로벌 진출 현황\n오피스 네트워크 45개국 (미국, 유럽, 터키, 브라질, 인도, 베트남, 호주, 탄자니아, 네\n덜란드 등)\n플랫폼 커버리지 150개국 이상, 등록 사용자 97%가 해외 기업\n정부 파트너십 한국 aT, 이탈리아 ITA(무역촉진청), 기타 다수 국가 농업 기관\n유니콘 인정 2022년 8월 $2.7B 기업가치, 2024년 3월 재인정\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Tridge는 언제 유니콘 재인정을 받을 예정인가?",
+    "answer": "Tridge는 2024년 3월 유니콘 재인정을 받을 예정입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Tridge",
+    "category": "market_eval",
+    "chunk_content": "| 다.\n--- | ---\n현재 대응 | 마진이 낮은 풀필먼트 직영에서 고마진 데이터 SaaS(Tridge Eye)와 결제 솔\n | 루션(Tridge Pay)으로 전환 중이며, 2024년 3월 유니콘 재인정을 받는 등 브\n | 랜드 가치를 유지하고 있습니다.\n투자 리스크 | SaaS 전환 완료 전까지 현금 유동성 리스크가 존재하며, 데이터 자산의 상업\n | 화 속도와 신규 투자 유치 여부가 생존의 핵심 변수입니다.\n\n오피스 네트워크 |  | 45개국 (미국, 유럽, 터키, 브라질, 인도, 베트남, 호주, 탄자니아, 네\n--- | --- | ---\n |  | 덜란드 등)\n | 플랫폼 커버리지 | 150개국 이상, 등록 사용자 97%가 해외 기업\n | 정부 파트너십 | 한국 aT, 이탈리아 ITA(무역촉진청), 기타 다수 국가 농업 기관\n | 유니콘 인정 | 2022년 8월 $2.7B 기업가치, 2024년 3월 재인정"
+  },
+  {
+    "question": "Fabric의 최근 투자 라운드는 언제 이루어졌으며, 주도한 투자자는 누구인가?",
+    "answer": "Fabric의 최근 투자인 Series C는 2022년 2월에 이루어졌으며, SoftBank가 주도했습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n4. Fabric — 헤드리스 컴포저블 커머스 플랫폼\n4.1 회사 개요 및 사업 현황\n설립 연도 2017년\n본사 미국 워싱턴주 시애틀/벨뷰\n대표 Faisal Masud (CEO, 前 Amazon·Google·eBay·Staples 임원)\n직원 수 약 482명 (2024년 기준)\n핵심 서비스 헤드리스(Headless) 컴포저블 커머스 플랫폼 — OMS, PIM, XM,\n구독, 로열티 모듈\n누적 투자 $293.5M (Series A~C 합산)\n최근 투자 Series C: $140M (SoftBank 주도, 2022년 2월)\n기업가치 $1.5B (2024년 추정)\n주요 투자자 SoftBank, Stripes, B Capital Group, Norwest Venture Partners, R\nedpoint Ventures"
+  },
+  {
+    "question": "Fabric은 어떤 평가에서 '주요 플레이어'로 선정되었나요?",
+    "answer": "Fabric은 IDC MarketScape 2024 엔터프라이즈 헤드리스 디지털 커머스 플랫폼 평가에서 '주요 플레이어(Major Player)'로 선정되었습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "edpoint Ventures\nFabric은 'Headless Commerce' 패러다임을 주도하는 기업으로, 프론트엔드(UI/UX)와 백엔드(주문·재\n고·결제 로직)를 분리하는 API 우선(API-first) 아키텍처를 기반으로 합니다. 이를 통해 브랜드는 Shop\nify나 Salesforce와 같은 단일 플랫폼의 제약 없이 자체적인 커머스 경험을 설계하고, 필요한 모듈만\n선택적으로 도입할 수 있습니다. GNC, Restoration Hardware, BarkBox, Chico's FAS, BuildDirect 등\n의 중견·대형 B2B·B2C 브랜드가 주요 고객이며, IDC MarketScape 2024 엔터프라이즈 헤드리스 디\n지털 커머스 플랫폼 평가에서 '주요 플레이어(Major Player)'로 선정되었습니다.\n4.2 목표 시장(TAM/SAM/SOM) 분석\nTAM — 전체 주소 가능 시장\n시장 구분 2024년 규모 2030년 예측 CAGR 출처"
+  },
+  {
+    "question": "Fabric의 TAM은 어떤 시장을 핵심으로 하고 있나요?",
+    "answer": "Fabric의 TAM은 헤드리스 커머스 플랫폼 소프트웨어 시장을 핵심으로 하되, OMS, PIM, 구독 관리 등 개별 모듈의 가치를 더하면 글로벌 이커머스 플랫폼 전체 시장으로 확장됩니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "TAM — 전체 주소 가능 시장\n시장 구분 2024년 규모 2030년 예측 CAGR 출처\n헤드리스 커머스 시장 전체 $1.7B (2023) $13.2B (2035) 22.5% Grand View\nResearch\n헤드리스 이커머스 플랫폼 SW $3.75B $14.82B (2033) 14.8% Data Horizz\non Researc\nh\n이커머스 플랫폼 전체 $10.5B $66.1B (2035) 20.2% Future Mark\net Insights\n헤드리스 CMS for Commerce $2.11B (2025) $5.49B (2030) 21.1% TBRC\nFabric의 TAM은 헤드리스 커머스 플랫폼 소프트웨어 시장을 핵심으로 하되, OMS(주문관리시스템),\nPIM(상품정보관리), 구독 관리 등 개별 모듈의 가치를 더하면 글로벌 이커머스 플랫폼 전체 시장($10.\n5B, 2025년)으로 확장됩니다. 복수의 리서치 기관이 헤드리스 커머스의 CAGR을 20~23% 범위로 추"
+  },
+  {
+    "question": "Fabric의 시장성 평가 리포트에서 언급된 기준은 무엇인가요?",
+    "answer": "이는 15% 기준을 크게 상회합니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "정하며, 이는 15% 기준을 크게 상회합니다.\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Fabric의 최근 투자 라운드는 언제 이루어졌으며, 주도한 투자자는 누구인가?",
+    "answer": "Fabric의 최근 투자 라운드는 2022년 2월에 이루어졌으며, SoftBank가 주도했습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "| 설립 연도 | 2017년\n--- | --- | ---\n | 본사 | 미국 워싱턴주 시애틀/벨뷰\n | 대표 | Faisal Masud (CEO, 前 Amazon·Google·eBay·Staples 임원)\n | 직원 수 | 약 482명 (2024년 기준)\n핵심 서비스 |  | 헤드리스(Headless) 컴포저블 커머스 플랫폼 — OMS, PIM, XM,\n |  | 구독, 로열티 모듈\n | 누적 투자 | $293.5M (Series A~C 합산)\n | 최근 투자 | Series C: $140M (SoftBank 주도, 2022년 2월)\n | 기업가치 | $1.5B (2024년 추정)\n주요 투자자 |  | SoftBank, Stripes, B Capital Group, Norwest Venture Partners, R\n |  | edpoint Ventures"
+  },
+  {
+    "question": "Fabric의 헤드리스 이커머스 플랫폼 SW 시장의 2033년 예측 규모는 얼마인가?",
+    "answer": "$14.82B (2033)",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "| 시장 구분 |  | 2024년 규모 |  | 2030년 예측 |  | CAGR | 출처\n--- | --- | --- | --- | --- | --- | --- | --- | ---\n헤드리스 커머스 시장 전체 |  | $1.7B (2023) |  | $13.2B (2035) |  | 22.5% |  | Grand View\n |  |  |  |  |  |  |  | Research\n헤드리스 이커머스 플랫폼 SW |  | $3.75B |  | $14.82B (2033) |  | 14.8% |  | Data Horizz\n |  |  |  |  |  |  |  | on Researc\n |  |  |  |  |  |  |  | h\n이커머스 플랫폼 전체 |  | $10.5B |  | $66.1B (2035) |  | 20.2% |  | Future Mark\n |  |  |  |  |  |  |  | et Insights"
+  },
+  {
+    "question": "Fabric의 헤드리스 CMS for Commerce 시장 규모는 2025년과 2030년에 각각 얼마로 예상되나요?",
+    "answer": "Fabric의 헤드리스 CMS for Commerce 시장 규모는 2025년에 $2.11B, 2030년에 $5.49B로 예상됩니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "|  |  |  |  |  |  |  | et Insights\n | 헤드리스 CMS for Commerce |  | $2.11B (2025) |  | $5.49B (2030) |  | 21.1% | TBRC"
+  },
+  {
+    "question": "Fabric의 SAM은 어떤 규모의 기업을 대상으로 하고 있으며, 현재 매출은 SAM의 몇 퍼센트에 해당하나요?",
+    "answer": "Fabric의 SAM은 연매출 $50M~$5B 규모의 중견 성장 브랜드를 대상으로 하며, 현재 $134.2M 매출은 SAM의 3~4% 수준입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\nSAM 및 SOM\nFabric의 SAM은 Shopify(SMB 특화)와 Salesforce/Oracle(초대형 엔터프라이즈 특화) 사이에 위치한\n연매출 $50M~$5B 규모의 중견 성장 브랜드입니다. Fabric은 이 '미들마켓' 이커머스 기업들이 겪는\n레거시 플랫폼의 유연성 부족 문제를 해결합니다. SAM은 약 $3~5B(2024년)으로 추정되며, 현재 $13\n4.2M 매출은 SAM의 3~4% 수준입니다.\n4.3 시장 성장 동인 및 트렌드\n• 레거시 플랫폼의 기술 부채 해소 수요: 조사에 따르면 68%의 기업이 새 커머스 솔루션 출시에\n3개월 이상 소요되며, 50%는 기존 기술의 한계로 혁신 속도가 저해된다고 응답합니다.\n헤드리스 전환으로 이 병목을 해소할 수 있습니다."
+  },
+  {
+    "question": "Fabric은 어떤 AI 기술을 활용하여 상품 추천 및 가격 설정 기능을 통합하고 있나요?",
+    "answer": "Fabric은 Amazon Bedrock(AWS LLM)을 활용하여 AI 기반 상품 추천, 자동 설명 생성, 동적 가격 설정 기능을 플랫폼에 통합하고 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "헤드리스 전환으로 이 병목을 해소할 수 있습니다.\n• 옴니채널 수요 폭발: 웹, 모바일 앱, SNS 커머스(TikTok Shop, Instagram), 음성 커머스 등\n채널이 다양화되면서, 각 채널을 독립적으로 관리해야 하는 레거시 아키텍처의 한계가\n부각되고 있습니다. 헤드리스 구조는 단일 백엔드로 모든 채널을 제어합니다.\n• AI 통합 커머스: Fabric은 Amazon Bedrock(AWS LLM)을 활용하여 AI 기반 상품 추천, 자동\n설명 생성, 동적 가격 설정 기능을 플랫폼에 통합하고 있습니다. AI 커머스 기능은 전환율\n향상의 핵심 경쟁력이 될 전망입니다.\n• B2B 이커머스의 급성장: B2B 이커머스는 이미 2027년 $20.9조 달러에 달할 것으로\n전망되며, 복잡한 계정 관리, 대량 주문, 맞춤형 가격 정책이 필요한 B2B 브랜드들에게\nFabric의 모듈형 플랫폼이 최적입니다."
+  },
+  {
+    "question": "Fabric의 2023년 매출은 얼마인가요?",
+    "answer": "2023년 매출은 $93.3M입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "Fabric의 모듈형 플랫폼이 최적입니다.\n• MACH 아키텍처 확산: Microservices, API-first, Cloud-native, Headless를 의미하는 MACH\n동맹의 보고서에 따르면, 미국 브랜드의 92%가 컴포저블 커머스를 일부 도입했거나 1년 내\n도입을 계획하고 있습니다.\n4.4 매출 현황 및 고객 검증\n2021년 매출 $8.7M\n2022년 Series C 직전 YoY +450% 성장 (절대값 미공개)\n2023년 매출 $93.3M\n2024년 매출 $134.2M\nYoY 성장률 (2023→2024) +43.8%\n비즈니스 모델 SaaS 구독 + 모듈별 사용량 기반 과금 (API call 기준)\n주요 고객 GNC, Restoration Hardware, BarkBox, Bodybuilding.com, Chico's\nFAS, BuildDirect, MSC\nIDC 평가 IDC MarketScape 2024 'Major Player' (엔터프라이즈 헤드리스·B2"
+  },
+  {
+    "question": "Fabric의 2021년 매출은 얼마였으며, 2024년에는 얼마로 예상되나요?",
+    "answer": "Fabric의 2021년 매출은 $8.7M에서 2024년에는 $134.2M으로 예상됩니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "C 커머스)\n2021년 $8.7M에서 2024년 $134.2M으로 3년간 약 15배 성장한 매출 궤적은 강력한 시장 적합성(PM\nF)을 입증합니다. 고객 사례에서 디지털 매출 최대 3배 성장, 개발 비용 20% 절감, 웹사이트 로딩 속도\n20% 개선 등 구체적인 ROI를 제시하고 있습니다.\n4.5 글로벌 진출 현황\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Fabric의 2022년 매출 성장률은 얼마인가요?",
+    "answer": "2022년은 Series C 직전 YoY +450% 성장하였으나, 절대값은 미공개입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "| 2021년 매출 | $8.7M\n--- | --- | ---\n | 2022년 | Series C 직전 YoY +450% 성장 (절대값 미공개)\n | 2023년 매출 | $93.3M\n | 2024년 매출 | $134.2M\n | YoY 성장률 (2023→2024) | +43.8%\n | 비즈니스 모델 | SaaS 구독 + 모듈별 사용량 기반 과금 (API call 기준)\n주요 고객 |  | GNC, Restoration Hardware, BarkBox, Bodybuilding.com, Chico's\n |  | FAS, BuildDirect, MSC\nIDC 평가 |  | IDC MarketScape 2024 'Major Player' (엔터프라이즈 헤드리스·B2\n |  | C 커머스)"
+  },
+  {
+    "question": "Fabric은 어떤 국가에서 패스트패션 리테일러와 협력하여 11개 브랜드를 온보딩했나요?",
+    "answer": "Fabric은 영국에서 패스트패션 리테일러가 11개 브랜드를 온보딩하여 3주 만에 라이브로 진행했습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n주요 거점 미국(워싱턴주 벨뷰/시애틀) 본사\n영국 진출 영국 패스트패션 리테일러가 11개 브랜드를 Fabric에 온보딩, 3주\n만에 라이브\n유럽 확장 Series C 자금 활용 글로벌 확장 전략 발표\n파트너십 Amazon Bedrock(AWS), Amplience, 다수 시스템 인테그레이터\n인증 IDC MarketScape 2024 글로벌 평가 포함\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Fabric의 본사는 어디에 위치하고 있나요?",
+    "answer": "Fabric의 본사는 미국(워싱턴주 벨뷰/시애틀)에 위치하고 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Fabric",
+    "category": "market_eval",
+    "chunk_content": "| 주요 거점 | 미국(워싱턴주 벨뷰/시애틀) 본사\n--- | --- | ---\n영국 진출 |  | 영국 패스트패션 리테일러가 11개 브랜드를 Fabric에 온보딩, 3주\n |  | 만에 라이브\n | 유럽 확장 | Series C 자금 활용 글로벌 확장 전략 발표\n | 파트너십 | Amazon Bedrock(AWS), Amplience, 다수 시스템 인테그레이터\n | 인증 | IDC MarketScape 2024 글로벌 평가 포함"
+  },
+  {
+    "question": "Seoul Robotics의 설립 연도는 언제인가요?",
+    "answer": "Seoul Robotics는 2017년에 설립되었습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n5. Seoul Robotics — 3D 인식 소프트웨어 / 자율주행 인프라\n5.1 회사 개요 및 사업 현황\n설립 연도 2017년\n본사 대한민국 서울 서초구\n대표 HanBin Lee (이한빈, CEO·공동창업자, Penn State 기계공학 출신\n)\n직원 수 약 50명 (2023년 100명에서 구조 최적화)\n핵심 기술 SENSR™ — 딥러닝 기반 3D 인식 소프트웨어 (LiDAR·3D 카메라·\n이미징 레이더 센서 무관)\n핵심 솔루션 Level 5 Control Tower (LV5 CTRL TWR) — 인프라 기반 자율주행\n시스템\n누적 투자 $47.75M (Bridge II, 2024년 12월 최신 라운드)\n기업가치 (KOSDAQ 목표) 약 2,800억 원 (2025년 KOSDAQ 기술특례상장 준비 중)"
+  },
+  {
+    "question": "Seoul Robotics의 핵심 기술인 SENSR™은 어떤 기능을 가지고 있나요?",
+    "answer": "SENSR™은 75종 이상의 3D 센서와 호환되는 센서 무관 소프트웨어로, 10cm 이내의 정밀도로 500개 이상의 객체를 동시 추적할 수 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "주요 투자자 KB인베스트먼트, 한국산업은행(KDB), FuturePlay, Artesian VC, T\niken Investment\nSeoul Robotics는 'Autonomy Through Infrastructure(ATI, 인프라를 통한 자율성)'라는 독자적 개념을\n개척한 기업입니다. 기존 자율주행이 차량 자체에 비싼 센서와 AI를 탑재하는 방식이었다면, ATI는 도\n로·물류 시설의 인프라에 센서를 설치하고 V2X(차량-사물 통신)를 통해 기존 차량을 자율 이동시킵니\n다. 이 접근법은 개별 차량 수정 없이 수백 대를 동시에 Level 5 수준으로 자율화할 수 있으며, 도입 비\n용을 기존 방식 대비 획기적으로 낮춥니다. 핵심 기술인 SENSR™은 75종 이상의 3D 센서와 호환되\n는 센서 무관(sensor-agnostic) 소프트웨어로, 10cm 이내의 정밀도로 500개 이상의 객체를 동시 추적\n할 수 있습니다.\n5.2 목표 시장(TAM/SAM/SOM) 분석"
+  },
+  {
+    "question": "Seoul Robotics의 TAM은 어떤 시장의 교차로 구성되어 있나요?",
+    "answer": "Seoul Robotics의 TAM은 LiDAR 시장(하드웨어+소프트웨어)과 자율주행 인프라 솔루션 시장의 교차로 구성되어 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "할 수 있습니다.\n5.2 목표 시장(TAM/SAM/SOM) 분석\nTAM — 전체 주소 가능 시장\n시장 구분 2024년 규모 2030년 예측 CAGR 출처\n글로벌 LiDAR 시장 전체 $2.66B $12.79B (2030) 31.3% Marketsand\nMarkets\n글로벌 LiDAR 시장 (광의) $2.31B $12.81B (2033) 20.96% Renub Rese\narch\n자율주행차 시장 (글로벌) $22.6B (미국) $222.8B (2033, 미 28.92% Renub Rese\n국) arch\n한국 자율주행차 시장 $1.76B $17.42B (2033) 29.01% ResearchAn\ndMarkets\nLiDAR 인식 소프트웨어 (세그) 성장 세그먼트 - 21% CAGR Straits Rese\narch\nSeoul Robotics의 TAM은 LiDAR 시장(하드웨어+소프트웨어)과 자율주행 인프라 솔루션 시장의 교차\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Seoul Robotics의 누적 투자 금액은 얼마인가요?",
+    "answer": "$47.75M (Bridge II, 2024년 12월 최신 라운드)",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "| 설립 연도 | 2017년\n--- | --- | ---\n | 본사 | 대한민국 서울 서초구\n대표 |  | HanBin Lee (이한빈, CEO·공동창업자, Penn State 기계공학 출신\n |  | )\n | 직원 수 | 약 50명 (2023년 100명에서 구조 최적화)\n핵심 기술 |  | SENSR™ — 딥러닝 기반 3D 인식 소프트웨어 (LiDAR·3D 카메라·\n |  | 이미징 레이더 센서 무관)\n핵심 솔루션 |  | Level 5 Control Tower (LV5 CTRL TWR) — 인프라 기반 자율주행\n |  | 시스템\n | 누적 투자 | $47.75M (Bridge II, 2024년 12월 최신 라운드)\n | 기업가치 (KOSDAQ 목표) | 약 2,800억 원 (2025년 KOSDAQ 기술특례상장 준비 중)\n주요 투자자 |  | KB인베스트먼트, 한국산업은행(KDB), FuturePlay, Artesian VC, T\n |  | iken Investment"
+  },
+  {
+    "question": "Seoul Robotics의 시장 평가 리포트에 따르면, 2030년 글로벌 LiDAR 시장의 예측 규모는 얼마인가요?",
+    "answer": "$12.79B (2030)",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "| 시장 구분 |  | 2024년 규모 |  | 2030년 예측 |  | CAGR | 출처\n--- | --- | --- | --- | --- | --- | --- | --- | ---\n글로벌 LiDAR 시장 전체 |  | $2.66B |  | $12.79B (2030) |  | 31.3% |  | Marketsand\n |  |  |  |  |  |  |  | Markets\n글로벌 LiDAR 시장 (광의) |  | $2.31B |  | $12.81B (2033) |  | 20.96% |  | Renub Rese\n |  |  |  |  |  |  |  | arch\n자율주행차 시장 (글로벌) |  | $22.6B (미국) |  |  | $222.8B (2033, 미 | 28.92% |  | Renub Rese\n |  |  |  |  | 국) |  |  | arch"
+  },
+  {
+    "question": "Seoul Robotics의 LiDAR 인식 소프트웨어 시장의 성장률은 얼마인가요?",
+    "answer": "LiDAR 인식 소프트웨어는 21% CAGR의 성장률을 보이고 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "|  |  |  |  | 국) |  |  | arch\n한국 자율주행차 시장 |  | $1.76B |  | $17.42B (2033) |  | 29.01% |  | ResearchAn\n |  |  |  |  |  |  |  | dMarkets\nLiDAR 인식 소프트웨어 (세그) |  | 성장 세그먼트 |  | - |  | 21% CAGR |  | Straits Rese\n |  |  |  |  |  |  |  | arch"
+  },
+  {
+    "question": "Seoul Robotics의 CEO는 유럽 시장에서 자율주행의 몇 퍼센트 이상의 점유율을 보유하고 있다고 밝혔나요?",
+    "answer": "Seoul Robotics CEO는 B2B 자율주행 유럽 시장에서 50% 이상의 점유율을 보유하고 있다고 밝혔습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n점에 위치합니다. 단순 LiDAR 소프트웨어로만 보면 시장 크기가 상대적으로 작으나, 물류 자동화(완\n성차 물류·항만·창고)와 스마트시티 인프라(교통 신호·교차로 관리)를 포괄하면 TAM은 수십억~수백\n억 달러로 확장됩니다. 특히 글로벌 완성차 OEM들이 겪는 차량 인도 기사(delivery driver) 부족 문제\n는 구조적이며, Seoul Robotics의 구독형 자율주행 서비스가 이 수요를 직접 겨냥합니다.\nSAM 및 SOM\nSAM은 ①완성차 물류 자동화(자동차 OEM 물류 센터·항만), ②물류창고 내 자율이동 시스템, ③스\n마트 교차로·교통 관리 시스템의 세 가지 버티컬로 구성됩니다. Seoul Robotics CEO는 B2B 자율주행\n유럽 시장에서 50% 이상의 점유율을 보유하고 있다고 밝혔습니다. 8개 글로벌 기업과 협의 중이며 4"
+  },
+  {
+    "question": "Seoul Robotics의 구독형 물류 자동화 서비스는 어떤 문제를 해결하고 있으며, 비용 절감 효과는 얼마인가?",
+    "answer": "Seoul Robotics의 구독형 물류 자동화 서비스는 완성차 물류 기사 부족 문제를 해결하며, 비용을 기존 대비 50% 절감하는 대안으로 주목받고 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "개사와 상업화 최종 단계에 있어 SAM 확장이 임박합니다.\n5.3 시장 성장 동인 및 트렌드\n• 완성차 물류 기사 부족 문제: 글로벌 자동차 OEM들은 완성차 인도 기사 부족으로 높은\n인건비와 3개월 내 이직 비율이라는 구조적 문제에 직면해 있습니다. Seoul Robotics의\n구독형 물류 자동화 서비스는 비용을 기존 대비 50% 절감하는 대안으로 주목받고 있습니다.\n• 정부의 자율주행·스마트도시 투자 확대: 한국 정부는 2030년까지 자율주행 30% 보급을\n목표로 관련 규제 완화와 인프라 투자를 지속하고 있습니다. 미국 유타 교통부(UDOT)와의\n협업 사례는 미국 스마트 교통 시장 진입의 교두보입니다.\n• 인프라 기반 자율주행의 경제적 우위: 차량 1대당 수천만 원의 센서를 탑재하는 기존 방식과\n달리, ATI 방식은 인프라 설치 후 수백 대를 구독형으로 서비스하므로 확장성과 경제성이\n압도적입니다."
+  },
+  {
+    "question": "Seoul Robotics의 2023년에서 2024년까지의 매출 성장률은 얼마인가요?",
+    "answer": "+33% (직원 수 절반 줄이면서 달성)",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "압도적입니다.\n• LiDAR 소프트웨어의 독립 시장화: 기존 LiDAR 센서 제조사들이 소프트웨어를 내재화하지\n않아 'LiDAR 없는 컴퓨터' 상태였던 산업 구조에서, Seoul Robotics와 같은 독립 소프트웨어\n레이어의 가치가 빠르게 부상하고 있습니다.\n• 4D LiDAR 및 AI 인식 정확도 향상: 속도 데이터를 추가한 4D LiDAR, 딥러닝 기반 날씨 필터링\nAI 등 기술 발전이 인식 정확도를 크게 높여 물류 자동화의 안전성과 신뢰성을 강화합니다.\n5.4 매출 현황 및 고객 검증\nSeoul Robotics는 비상장 스타트업으로 정확한 매출 수치는 공개되지 않았습니다. 그러나 공개된 지\n표를 통해 수익 창출과 성장을 확인할 수 있습니다.\n매출 성장률 (2023→2024) +33% (직원 수 절반 줄이면서 달성)\n비즈니스 모델 LiDAR 솔루션 판매 + 구독형 자율주행 서비스 (SaaS 전환)"
+  },
+  {
+    "question": "Seoul Robotics의 주요 고객 중 하나인 BMW는 어떤 분야에서 이 회사의 솔루션을 사용하고 있나요?",
+    "answer": "BMW는 독일에서 완성차 물류 자동화에 Seoul Robotics의 LiDAR 솔루션을 사용하고 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "비즈니스 모델 LiDAR 솔루션 판매 + 구독형 자율주행 서비스 (SaaS 전환)\n주요 고객 BMW (독일, 완성차 물류 자동화), Mercedes-Benz (리테일 분석),\nQualcomm (스마트시티), 미국 유타 교통부(UDOT)\nBMW 사례 독일 BMW 시설에서 완성차 물류 최대 규모 배치 — 수백 대 차량\n동시 자율 이동\nIPO 계획 2025년 KOSDAQ 기술특례상장 목표 (기업가치 약 2,800억 원)\n글로벌 협의 현황 8개 글로벌 기업 협의 중, 4개사 상업화 최종 단계\n직원 절반 감축 후 33% 매출 성장은 비용 효율화와 포커싱 전략의 성공을 의미합니다. BMW와의 검\n증된 상업적 배포는 양산 가능성을 입증하는 강력한 레퍼런스입니다.\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Seoul Robotics의 매출 성장률은 2023년에서 2024년 사이에 얼마로 예상되며, 이를 달성하기 위해 어떤 조치를 취했나요?",
+    "answer": "+33% (직원 수 절반 줄이면서 달성)",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "| 매출 성장률 (2023→2024) | +33% (직원 수 절반 줄이면서 달성)\n--- | --- | ---\n | 비즈니스 모델 | LiDAR 솔루션 판매 + 구독형 자율주행 서비스 (SaaS 전환)\n주요 고객 |  | BMW (독일, 완성차 물류 자동화), Mercedes-Benz (리테일 분석),\n |  | Qualcomm (스마트시티), 미국 유타 교통부(UDOT)\nBMW 사례 |  | 독일 BMW 시설에서 완성차 물류 최대 규모 배치 — 수백 대 차량\n |  | 동시 자율 이동\n | IPO 계획 | 2025년 KOSDAQ 기술특례상장 목표 (기업가치 약 2,800억 원)\n | 글로벌 협의 현황 | 8개 글로벌 기업 협의 중, 4개사 상업화 최종 단계"
+  },
+  {
+    "question": "Seoul Robotics의 유럽 진출 현황은 무엇인가요?",
+    "answer": "Seoul Robotics는 독일 뮌헨에 오피스를 두고 있으며, BMW 물류 자동화 프로젝트 운영 기지로 활용하고 있습니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "시장성 평가 리포트 — Altana / 테크타카 / Tridge / Fabric / Seoul Robotics\n5.5 글로벌 진출 현황\n오피스 현황 서울(본사), 독일 뮌헨, 미국 캘리포니아(실리콘밸리), 미국 노스캐\n롤라이나(롤리), 디트로이트\n유럽 거점 뮌헨 오피스 — BMW 물류 자동화 프로젝트 운영 기지\n미국 진출 유타주 UDOT LiDAR 신호등 배치(2024.03), 실리콘밸리 오피스\n한국 고객 현대차, 네이버 등에 LiDAR 솔루션 공급\nB2B 자율주행 유럽 점유율 CEO 발언 기준 50% 이상 (유럽 B2B 자율주행 세그먼트)\n— 보고서 끝 —\n본 보고서는 공개된 정보 및 시장 데이터를 기반으로 작성된 분석 자료입니다.\n투자 결정을 위한 법적·금융적 조언을 구성하지 않으며, 세부 사항은 반드시 독립적으로 검증되어야 합니다.\n© 2025 시장성 평가 에이전트 리포트 페이지"
+  },
+  {
+    "question": "Seoul Robotics의 유럽 거점은 어디이며, 어떤 프로젝트를 운영하고 있나요?",
+    "answer": "Seoul Robotics의 유럽 거점은 뮌헨 오피스이며, BMW 물류 자동화 프로젝트 운영 기지입니다.",
+    "source_file": "시장성_평가_리포트.pdf",
+    "company": "Seoul Robotics",
+    "category": "market_eval",
+    "chunk_content": "오피스 현황 |  | 서울(본사), 독일 뮌헨, 미국 캘리포니아(실리콘밸리), 미국 노스캐\n--- | --- | ---\n |  | 롤라이나(롤리), 디트로이트\n | 유럽 거점 | 뮌헨 오피스 — BMW 물류 자동화 프로젝트 운영 기지\n | 미국 진출 | 유타주 UDOT LiDAR 신호등 배치(2024.03), 실리콘밸리 오피스\n | 한국 고객 | 현대차, 네이버 등에 LiDAR 솔루션 공급\n | B2B 자율주행 유럽 점유율 | CEO 발언 기준 50% 이상 (유럽 B2B 자율주행 세그먼트)"
+  },
+  {
+    "question": "Altana가 분석 대상 기업으로 포함된 경쟁사 비교 분석 리포트의 발행일은 언제인가요?",
+    "answer": "2026년 3월입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업\n경쟁사 비교 분석 리포트\n경쟁구도 직접 경쟁사 5대 분석 항목 실증 데이터\n분석 대상 기업 (5개사)\nAltana | 테크타카 (Techtaka) | Tridge | Fabric | Seoul Robotics\n섹터: 공급망 가시성 이커머스 풀필먼트 농식품 데이터 MFC 로보틱스 자율물류\n발행일 리포트 유형 보안 등급\n2026년 3월 경쟁사 비교 분석 기밀\n공개 데이터베이스, 뉴스 보도, 기업 공시를 기반으로 확인된 사실만 기재합니다.\n투자 권유의견추천이 포함되지 않은 순수 사실 분석 리포트입니다."
+  },
+  {
+    "question": "Altana가 분석한 경쟁사 5개사는 어떤 기업들인가요?",
+    "answer": "Altana가 분석한 경쟁사 5개사는 테크타카 (Techtaka), Tridge, Fabric, Seoul Robotics입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업\n경쟁사 비교 분석 리포트\n경쟁구도 직접 경쟁사 5대 분석 항목 실증 데이터\n분석 대상 기업 (5개사)\nAltana | 테크타카 (Techtaka) | Tridge | Fabric | Seoul Robotics\n섹터: 공급망 가시성 이커머스 풀필먼트 농식품 데이터 MFC 로보틱스 자율물류 | \n--- | ---\n | 발행일 리포트 유형 보안 등급\n2026년 3월 경쟁사 비교 분석 기밀\n공개 데이터베이스, 뉴스 보도, 기업 공시를 기반으로 확인된 사실만 기재합니다.\n투자 권유의견추천이 포함되지 않은 순수 사실 분석 리포트입니다."
+  },
+  {
+    "question": "Altana의 경쟁사로 언급된 기업들은 어떤 것들이 있나요?",
+    "answer": "Altana의 경쟁사로는 테크타카 (Techtaka), Tridge, Fabric, Seoul Robotics가 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "목 차\n1. 리포트 개요 및 분석 항목 정의\n2. Altana ― 글로벌 공급망 가시성컴플라이언스 플랫폼\n3. 테크타카 (Techtaka) ― AI 통합 물류 풀필먼트 플랫폼\n4. Tridge ― 농식품 공급망 데이터무역 인텔리전스 플랫폼\nSupply Chain 스타트업\n5. Fabric ― 마이크로 풀필먼트 센터(MFC) 로보틱스 플랫폼\n6. Seoul Robotics ― 인프라 기반 자율주행 물류 솔루션\n경쟁사 비교 분석 리포트\n7. 5개사 분석 항목 비교표\n8. 참고문헌\n경쟁구도 직접 경쟁사 5대 분석 항목 실증 데이터\n분석 대상 기업 (5개사)\nAltana | 테크타카 (Techtaka) | Tridge | Fabric | Seoul Robotics\n섹터: 공급망 가시성 이커머스 풀필먼트 농식품 데이터 MFC 로보틱스 자율물류\n발행일 리포트 유형 보안 등급\n2026년 3월 경쟁사 비교 분석 기밀"
+  },
+  {
+    "question": "Altana의 경쟁사 비교 분석 리포트는 어떤 유형의 리포트인가요?",
+    "answer": "Altana의 경쟁사 비교 분석 리포트는 '경쟁사 비교 분석' 유형입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "발행일 리포트 유형 보안 등급\n2026년 3월 경쟁사 비교 분석 기밀\n공개 데이터베이스, 뉴스 보도, 기업 공시를 기반으로 확인된 사실만 기재합니다.\n투자 권유의견추천이 포함되지 않은 순수 사실 분석 리포트입니다."
+  },
+  {
+    "question": "Altana의 경쟁사로 언급된 회사는 무엇인가요?",
+    "answer": "Altana의 경쟁사로는 테크타카 (Techtaka), Tridge, Fabric, Seoul Robotics가 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "목 차 | \n--- | ---\n1. 리포트 개요 및 분석 항목 정의\n2. Altana ― 글로벌 공급망 가시성컴플라이언스 플랫폼\n3. 테크타카 (Techtaka) ― AI 통합 물류 풀필먼트 플랫폼\n4. Tridge ― 농식품 공급망 데이터무역 인텔리전스 플랫폼\nSupply Chain 스타트업\n5. Fabric ― 마이크로 풀필먼트 센터(MFC) 로보틱스 플랫폼\n6. Seoul Robotics ― 인프라 기반 자율주행 물류 솔루션\n경쟁사 비교 분석 리포트\n7. 5개사 분석 항목 비교표\n8. 참고문헌\n경쟁구도 직접 경쟁사 5대 분석 항목 실증 데이터\n분석 대상 기업 (5개사)\nAltana | 테크타카 (Techtaka) | Tridge | Fabric | Seoul Robotics\n섹터: 공급망 가시성 이커머스 풀필먼트 농식품 데이터 MFC 로보틱스 자율물류 | \n | 발행일 리포트 유형 보안 등급\n2026년 3월 경쟁사 비교 분석 기밀"
+  },
+  {
+    "question": "Altana의 경쟁사 비교 분석 리포트는 언제 발행되었나요?",
+    "answer": "Altana의 경쟁사 비교 분석 리포트는 2026년 3월에 발행되었습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "| 발행일 리포트 유형 보안 등급\n2026년 3월 경쟁사 비교 분석 기밀\n공개 데이터베이스, 뉴스 보도, 기업 공시를 기반으로 확인된 사실만 기재합니다.\n투자 권유의견추천이 포함되지 않은 순수 사실 분석 리포트입니다."
+  },
+  {
+    "question": "Altana의 직접 경쟁사 목록은 무엇인가요?",
+    "answer": "본 리포트는 Supply Chain 도메인 스타트업 5개사에 대해 직접 경쟁사 목록을 포함하고 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n01 | 리포트 개요 및 분석 항목 정의\n본 리포트는 Supply Chain 도메인 스타트업 5개사에 대해 공개 데이터베이스, 공식 뉴스 보도, 기업 공시 자료를\n기반으로 확인된 사실만을 기술합니다. 투자 의견, 추천, 판단은 포함되지 않습니다. 각 기업은 아래 5가지 항목에\n대해 확인된 사실과 출처를 함께 기재합니다.\n분석 항목 기술 내용 데이터 기준\n① 직접 경쟁사 동일 솔루션을 제공하는 직접 경쟁사 목록 및 공개 자료, 기업 공시, 제3자 인증\n차별점 각사와의 기능시장기술 차이점 사실\n② 대형 고객 Fortune 500 또는 동급 이상 고객사 중 공식 공개된 공식 보도자료, 기업 웹사이트\n확보 현황 계약파트너십 사례\n③ 네트워크 효과 또는 독점 데이터 자산의 존재 여부 공식 발표, 투자자 자료\n네트워크/데이터 및 규모 (공개된 수치)\n해자"
+  },
+  {
+    "question": "Altana의 최근 전략적 파트너십에 대한 공식 발표는 언제 이루어졌나요?",
+    "answer": "최근 전략적 2024~2025년 공식 발표된 대기업 플랫폼과의 보도자료가 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "네트워크/데이터 및 규모 (공개된 수치)\n해자\n④ 전환 비용 기술운영 통합 구조상 전환을 어렵게 만드는 제품 스펙, 계약 구조 공개 자료\n구조 확인된 요소\n⑤ 최근 전략적 2024~2025년 공식 발표된 대기업플랫폼과의 보도자료, GlobeNewswire, PR\n파트너십 파트너십계약 목록 Newswire\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 3"
+  },
+  {
+    "question": "Altana의 직접 경쟁사 목록은 어떤 자료를 기반으로 작성되었나요?",
+    "answer": "직접 경쟁사 목록 및 각사와의 기능시장기술 차이점은 공개 자료, 기업 공시, 제3자 인증을 기반으로 작성되었습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "분석 항목 | 기술 내용 | 데이터 기준\n--- | --- | ---\n① 직접 경쟁사\n차별점 | 동일 솔루션을 제공하는 직접 경쟁사 목록 및\n각사와의 기능시장기술 차이점 사실 | 공개 자료, 기업 공시, 제3자 인증\n② 대형 고객\n확보 현황 | Fortune 500 또는 동급 이상 고객사 중 공식 공개된\n계약파트너십 사례 | 공식 보도자료, 기업 웹사이트\n③\n네트워크/데이터\n해자 | 네트워크 효과 또는 독점 데이터 자산의 존재 여부\n및 규모 (공개된 수치) | 공식 발표, 투자자 자료\n④ 전환 비용\n구조 | 기술운영 통합 구조상 전환을 어렵게 만드는\n확인된 요소 | 제품 스펙, 계약 구조 공개 자료\n⑤ 최근 전략적\n파트너십 | 2024~2025년 공식 발표된 대기업플랫폼과의\n파트너십계약 목록 | 보도자료, GlobeNewswire, PR\nNewswire"
+  },
+  {
+    "question": "Altana의 설립 연도는 언제인가요?",
+    "answer": "Altana는 2018년에 설립되었습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n02 | Altana ― 글로벌 공급망 가시성컴플라이언스 플랫폼\n0.1 기업 개요\n설립 2018년 (뉴욕, 미국) 투자 단계 Series C (2024년 7월)\nUSD 1B (2024년 7월 Series C\n누적 투자 USD 344M 기업가치\n기준)\nUS Innovative Tech Fund, GV(Google\n주요 투자자 Ventures), Salesforce Ventures, OMERS 임직원 약 270명 (2024년)\nVentures, March Capital\nAltana Atlas ― AI 기반 가치사슬 관리 USD 37.5M (2024년) / USD 23.6M\n핵심 제품 매출\n시스템 / Altana Product Passport (2023년)\nAltana는 전 세계 공급망 데이터를 AI로 분석해 기업과 정부에 공급망 가시성컴플라이언스조달 관리 솔루션을"
+  },
+  {
+    "question": "Altana의 2024년 매출은 얼마이며, 전년 대비 몇 퍼센트 증가했나요?",
+    "answer": "2024년 매출은 USD 37.5M으로 전년(USD 23.6M) 대비 59% 증가했습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "제공합니다. 공식 발표 기준으로 1억 4천만 개의 바이어-공급업체 연결 데이터를 보유하며, 자사를 \"세계 최초 Value\nChain Management System\"으로 정의합니다. 2024년 7월 Series C 라운드에서 USD 200M을 유치하며 기업가치 USD\n1B(유니콘)를 달성했습니다. 2024년 매출은 USD 37.5M으로 전년(USD 23.6M) 대비 59% 증가했습니다.\n0.2 직접 경쟁사 비교\n직접 경쟁사 주요 솔루션 Altana와의 차이점 (공개 자료 기준)\nInteros 공급망 리스크 모니터링 금융보험 섹터 특화. N-tier 공급업체 리스크 경보 중심.\nSaaS Altana 대비 정부 계약 레퍼런스 미확인\nResilinc 공급망 중단 리스크 관리 자동차반도체 공급망 특화. PE(사모펀드) 지원. 정부 계약\n공개 레퍼런스 없음\nE2open 공급망 실행ERP 연동 공급망 운영 실행 중심. 컴플라이언스규제 인텔리전스\n플랫폼 기능은 Altana에 비해 제한적"
+  },
+  {
+    "question": "Altana의 경쟁사 중 어떤 회사가 미국 관세국경보호청(CBP) Global Business Identifier Program의 파트너로 선정되었나요?",
+    "answer": "Altana의 경쟁사 중 project44가 미국 관세국경보호청(CBP) Global Business Identifier Program 파트너로 선정되었습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "플랫폼 기능은 Altana에 비해 제한적\nproject44 실시간 화물 화물 운송 추적 특화. 공급망 컴플라이언스리스크 분석\n가시성추적 범위는 Altana보다 좁음\nPanjiva (S&P;) 무역 데이터 분석 플랫폼 S&P; Global 자회사로 광범위한 무역 데이터 접근. 모기업의\n재원과 데이터 규모가 강점\n0.3 5대 분석 항목\n① 직접 경쟁사 차별점 ― 확인된 사실\n미국 관세국경보호청(CBP) Global Business Identifier Program 파트너로 선정 (2025년 10월 공식 발표) 영국\n국방부(Ministry of Defence) 및 영국 산업통상부(Department for Business and Trade)를 공식 고객으로 보유 세계\n10대 물류사 중 5개사가 Altana를 사용 중이라고 회사가 공식 발표 \"Value Chain Management System\"이라는 제품"
+  },
+  {
+    "question": "Altana의 공식 고객으로 공개된 기업은 무엇인가?",
+    "answer": "Altana의 공식 고객으로는 Boston Scientific, General Atomics, L.L.Bean, Maersk가 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "카테고리를 회사 스스로 세계 최초로 정의 (2024년 6월 Business Wire 공식 발표)\n② 대형 고객 확보 현황 ― 공개된 계약 사례\nBoston Scientific ― 공식 고객으로 Crunchbase 및 회사 웹사이트에 공개 General Atomics ― 공식 고객으로\nCrunchbase 및 회사 웹사이트에 공개 L.L.Bean ― 공식 고객으로 Crunchbase 및 회사 웹사이트에 공개 Maersk\n― 공식 고객으로 Crunchbase 및 회사 웹사이트에 공개 미국 CBP(관세국경보호청) ― 2025년 10월 Business Wire\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 4"
+  },
+  {
+    "question": "Altana의 누적 투자 금액은 얼마인가?",
+    "answer": "Altana의 누적 투자 금액은 USD 344M입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "설립 | 2018년 (뉴욕, 미국) | 투자 단계 | Series C (2024년 7월)\n--- | --- | --- | ---\n누적 투자 | USD 344M | 기업가치 | USD 1B (2024년 7월 Series C\n기준)\n주요 투자자 | US Innovative Tech Fund, GV(Google\nVentures), Salesforce Ventures, OMERS\nVentures, March Capital | 임직원 | 약 270명 (2024년)\n핵심 제품 | Altana Atlas ― AI 기반 가치사슬 관리\n시스템 / Altana Product Passport | 매출 | USD 37.5M (2024년) / USD 23.6M\n(2023년)"
+  },
+  {
+    "question": "Altana와 직접 경쟁하는 Interos의 주요 솔루션은 무엇인가요?",
+    "answer": "Interos의 주요 솔루션은 공급망 리스크 모니터링입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "직접 경쟁사 | 주요 솔루션 | Altana와의 차이점 (공개 자료 기준)\n--- | --- | ---\nInteros | 공급망 리스크 모니터링\nSaaS | 금융보험 섹터 특화. N-tier 공급업체 리스크 경보 중심.\nAltana 대비 정부 계약 레퍼런스 미확인\nResilinc | 공급망 중단 리스크 관리 | 자동차반도체 공급망 특화. PE(사모펀드) 지원. 정부 계약\n공개 레퍼런스 없음\nE2open | 공급망 실행ERP 연동\n플랫폼 | 공급망 운영 실행 중심. 컴플라이언스규제 인텔리전스\n기능은 Altana에 비해 제한적\nproject44 | 실시간 화물\n가시성추적 | 화물 운송 추적 특화. 공급망 컴플라이언스리스크 분석\n범위는 Altana보다 좁음\nPanjiva (S&P;) | 무역 데이터 분석 플랫폼 | S&P; Global 자회사로 광범위한 무역 데이터 접근. 모기업의\n재원과 데이터 규모가 강점"
+  },
+  {
+    "question": "Altana의 공식 고객 목록에 포함된 기관은 무엇인가요?",
+    "answer": "영국 국방부(MoD)입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n공식 발표 영국 국방부(MoD) ― 회사 웹사이트 공식 고객 목록에 포함\n③ 네트워크/데이터 해자 ― 공개된 수치\n1억 4천만 개의 바이어-공급업체 연결 데이터 보유 (회사 공식 발표 기준) 세계 10대 물류사 중 5곳 사용 중\n(회사 공식 발표) 공공 데이터와 민간 공급망 데이터를 결합한 AI 모델 구조로, 사용 기업 증가 시 데이터 풀 확장\n구조\n④ 전환 비용 구조 ― 확인된 통합 방식\n기업의 ERP, 조달 시스템, 규정 준수 워크플로우와 직접 통합되는 구조 미국 CBP 시스템과의 공식 연동(Global\nBusiness Identifier Program) ― 정부 인프라 통합으로 전환 시 재심사 필요 공급망 파트너 간 Product Passport\n공유 구조 ― 생태계 참여 기업이 많을수록 단독 전환 시 파트너사 데이터 단절 발생\n⑤ 2024~2025년 전략적 파트너십 ― 공식 발표 목록"
+  },
+  {
+    "question": "Altana의 2024~2025년 전략적 파트너십 중 하나는 무엇인가요?",
+    "answer": "미국 CBP × Altana Product Passport 파트너십은 2025년 10월 1일 공식 발표되었습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "⑤ 2024~2025년 전략적 파트너십 ― 공식 발표 목록\n미국 CBP × Altana Product Passport 파트너십 ― Business Wire, 2025년 10월 1일 공식 발표 Dataminr ×\nAltana 실시간 AI 경보 통합 ― Business Wire, 2023년 11월 8일 공식 발표 Epoch Blue × Altana 농업임업\n공급망 추적 전략 제휴 ― PR Newswire, 2024년 6월 5일 공식 발표 Salesforce Ventures ― Series C 투자 참여자\n(2024년 7월, Crunchbase 확인)\n0.4 참고문헌\n번 출처 URL\n호\n[1] Crunchbase ― Altana 펀딩 및 고객 목록 crunchbase.com/organization/altana-trade\n[2] Business Wire ― 미국 CBP × Altana Product Passport businesswire.com/news/home/20251001718752"
+  },
+  {
+    "question": "Altana의 VCMS는 언제 세계 최초로 발표되었나요?",
+    "answer": "Altana VCMS는 2024년 6월에 세계 최초로 발표되었습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "(2025.10)\n[3] Crunchbase News ― Altana Series C $200M (2024.07) news.crunchbase.com/venture/supply-chain-startup-\nunicorn-altana\n[4] Getlatka ― Altana 연도별 매출 데이터 getlatka.com/companies/altana.ai\n[5] Business Wire ― Altana VCMS 세계 최초 발표 (2024.06) businesswire.com ― Altana Value Chain Management\nSystem 2024\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 5"
+  },
+  {
+    "question": "Altana의 Series C 펀딩 금액은 얼마인가요?",
+    "answer": "Altana의 Series C 펀딩 금액은 200M 달러입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "번\n호 | 출처 | URL\n--- | --- | ---\n[1] | Crunchbase ― Altana 펀딩 및 고객 목록 | crunchbase.com/organization/altana-trade\n[2] | Business Wire ― 미국 CBP × Altana Product Passport\n(2025.10) | businesswire.com/news/home/20251001718752\n[3] | Crunchbase News ― Altana Series C $200M (2024.07) | news.crunchbase.com/venture/supply-chain-startup-\nunicorn-altana\n[4] | Getlatka ― Altana 연도별 매출 데이터 | getlatka.com/companies/altana.ai"
+  },
+  {
+    "question": "Altana의 세계 최초 발표는 어떤 시스템에 관한 것인가?",
+    "answer": "Altana VCMS 세계 최초 발표는 Altana Value Chain Management System에 관한 것이다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Altana",
+    "category": "competitor",
+    "chunk_content": "[5] | Business Wire ― Altana VCMS 세계 최초 발표 (2024.06) | businesswire.com ― Altana Value Chain Management\nSystem 2024"
+  },
+  {
+    "question": "테크타카의 설립 연도는 언제인가요?",
+    "answer": "테크타카는 2020년 5월에 설립되었습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "테크타카",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n03 | 테크타카 (Techtaka) ― AI 통합 물류 풀필먼트 플랫폼\n0.1 기업 개요\n설립 2020년 5월 (서울, 한국) 투자 단계 Series B-II (2025년 7월)\n기여마진 흑자 달성 (2023년~,\n누적 투자 약 USD 20.2M (한화 약 267억 원) 수익성\n공식 발표)\nAltos Ventures (Series B 단독), Naver\n주요 투자자 D2SF (3회), Kakao Ventures, Lotte 임직원 63명 (2025년 12월, MoM +7%)\nVentures\nARGO ― 5PL 통합 물류 플랫폼 당일 출고율 99.98%, 실시간 재고\n핵심 제품 KPI\n(WMSTMSOMS + AI 풀필먼트 서비스) 정확도 99.96% (공식 발표)\n테크타카는 아마존쿠팡 출신 창업자(CEO 양수영, CTO 이경욱)가 2020년 설립한 AI 기반 5PL 스타트업으로, ARGO"
+  },
+  {
+    "question": "테크타카의 경쟁사 중 한국 풀필먼트 시장에 미진출인 회사는 무엇인가요?",
+    "answer": "ShipBob (미국)은 한국 풀필먼트 시장에 미진출입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "테크타카",
+    "category": "competitor",
+    "chunk_content": "플랫폼을 통해 이커머스 셀러의 입고~출고 전 과정을 통합 관리합니다. Naver NFA(풀필먼트 얼라이언스) 앵커\n파트너로서 \"N 배송\" 서비스를 운영 중입니다. 2024년 공식 발표 기준으로 총 출고량 3배, 풀필먼트 주문 4배, 고객사\n수 2배 이상 증가를 기록했습니다. 미국에 자회사를 설립하고 현지 물류 센터 2곳을 운영 중입니다.\n0.2 직접 경쟁사 비교\n직접 경쟁사 주요 솔루션 테크타카와의 차이점 (공개 자료 기준)\nShipBob (미국) 글로벌 다중 거점 3PL 누적 투자 USD 330M. 미국유럽호주 거점 보유. 한국\n풀필먼트 시장 미진출(2025년 기준)\n쿠팡 로지스틱스 국내 이커머스 라스트마일 쿠팡 플랫폼 입점 셀러 전용. 외부 3PL 서비스 미제공\n포함 수직 통합 물류\n셀러허브 국내 이커머스 셀러 대상 동일 타깃 시장(한국 SME 셀러). 로보틱스 기반 자동화 적용\n3PL SaaS 여부 미확인"
+  },
+  {
+    "question": "테크타카의 ARGO가 2024년 공식 파트너로 합류하는 경쟁사는 무엇인가?",
+    "answer": "테크타카 ARGO가 2024년 공식 파트너로 합류하는 경쟁사는 카페24 매일배송입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "테크타카",
+    "category": "competitor",
+    "chunk_content": "3PL SaaS 여부 미확인\nByrd (유럽) 유럽 다채널 이커머스 물류 누적 투자 USD 56M. 유럽 10개국 거점. 한국북미 시장\n미진출\n카페24 매일배송 국내 쇼핑몰 당일 배송 테크타카 ARGO가 2024년 공식 파트너로 합류 ― 경쟁 관계\n서비스 아닌 파트너 관계\n0.3 5대 분석 항목\n① 직접 경쟁사 차별점 ― 확인된 사실\nNaver NFA(풀필먼트 얼라이언스) 앵커 파트너 지위 ― Naver 공식 발표 (2025년 7월) AI 카메라 기반 오류 감지\n시스템 자체 개발 ― TechCrunch (2024년 2월) 확인 자체 개발 최적 포장동선 알고리즘으로 공급망 처리 시간\n20% 절감 ― 회사 내부 연구 발표 (TechCrunch 인용) 당일 출고율 99.98%, 실시간 재고 정확도 99.96% ― Naver\nD2SF 공식 발표 (2025년 7월) LG CNS와 협업하여 창고 내 RaaS(Robot-as-a-Service) 모델 도입 ― TechCrunch"
+  },
+  {
+    "question": "테크타카의 대형 고객 확보 현황에 대한 문서에서 언급된 기업 고객 수는 얼마인가?",
+    "answer": "기업 고객 수 170개 이상 ― TechCrunch (2024년 2월) 기준",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "테크타카",
+    "category": "competitor",
+    "chunk_content": "(2024년 2월)\n② 대형 고객 확보 현황 ― 공개된 계약 사례\nNaver(스마트스토어NFA) ― 2025년 7월 Naver D2SF 공식 투자 발표에서 \"전략적 파트너\" 명기 카페24 ―\n2024년 매일배송 공식 파트너 합류 (카페24 공식 발표) 기업 고객 수 170개 이상 ― TechCrunch (2024년 2월) 기준\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 6"
+  },
+  {
+    "question": "테크타카의 주요 투자자는 누구인가요?",
+    "answer": "테크타카의 주요 투자자는 Altos Ventures (Series B 단독), Naver D2SF (3회), Kakao Ventures, Lotte Ventures입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "테크타카",
+    "category": "competitor",
+    "chunk_content": "설립 | 2020년 5월 (서울, 한국) | 투자 단계 | Series B-II (2025년 7월)\n--- | --- | --- | ---\n누적 투자 | 약 USD 20.2M (한화 약 267억 원) | 수익성 | 기여마진 흑자 달성 (2023년~,\n공식 발표)\n주요 투자자 | Altos Ventures (Series B 단독), Naver\nD2SF (3회), Kakao Ventures, Lotte\nVentures | 임직원 | 63명 (2025년 12월, MoM +7%)\n핵심 제품 | ARGO ― 5PL 통합 물류 플랫폼\n(WMSTMSOMS + AI 풀필먼트 서비스) | KPI | 당일 출고율 99.98%, 실시간 재고\n정확도 99.96% (공식 발표)"
+  },
+  {
+    "question": "테크타카와의 차이점으로 ShipBob의 누적 투자액은 얼마인가?",
+    "answer": "누적 투자 USD 330M.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "테크타카",
+    "category": "competitor",
+    "chunk_content": "직접 경쟁사 | 주요 솔루션 | 테크타카와의 차이점 (공개 자료 기준)\n--- | --- | ---\nShipBob (미국) | 글로벌 다중 거점 3PL\n풀필먼트 | 누적 투자 USD 330M. 미국유럽호주 거점 보유. 한국\n시장 미진출(2025년 기준)\n쿠팡 로지스틱스 | 국내 이커머스 라스트마일\n포함 수직 통합 물류 | 쿠팡 플랫폼 입점 셀러 전용. 외부 3PL 서비스 미제공\n셀러허브 | 국내 이커머스 셀러 대상\n3PL SaaS | 동일 타깃 시장(한국 SME 셀러). 로보틱스 기반 자동화 적용\n여부 미확인\nByrd (유럽) | 유럽 다채널 이커머스 물류 | 누적 투자 USD 56M. 유럽 10개국 거점. 한국북미 시장\n미진출\n카페24 매일배송 | 국내 쇼핑몰 당일 배송\n서비스 | 테크타카 ARGO가 2024년 공식 파트너로 합류 ― 경쟁 관계\n아닌 파트너 관계"
+  },
+  {
+    "question": "테크타카의 경쟁사인 ARGO는 어떤 통합 방식을 사용하고 있나요?",
+    "answer": "ARGO는 셀러의 WMS(창고관리), TMS(운송관리), OMS(주문관리)를 일체형으로 통합하는 방식을 사용하고 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "테크타카",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n미국 Amazon 셀러 입고 대행 서비스 운영 중 ― TechCrunch 확인 (Seattle 창고 운영)\n③ 네트워크/데이터 해자 ― 공개된 수치\nNaver NFA 연동 후 출고량 16.9배 증가 기록 ― THE VC 보도 기준 출하 패턴 분석 기반 AI 재고 예측최적\n동선 추천 기능 보유 ― TechCrunch (2024년) 확인 특허 11개 보유 (2025년 7월 기준, THE VC 데이터)\n④ 전환 비용 구조 ― 확인된 통합 방식\nARGO는 셀러의 WMS(창고관리)TMS(운송관리)OMS(주문관리)를 일체형으로 통합 ― 제품 공식 설명 기존 물류\n창고 보유사 기준 ARGO 도입 후 1~2주 이내 빠른 배송 구현 가능 ― 회사 공식 설명 Naver NFA, 카페24, Amazon\n등 복수 플랫폼 API 연동 구조로 전환 시 재연동 작업 필요"
+  },
+  {
+    "question": "테크타카의 2024년 전략적 파트너십 발표는 어떤 내용이 포함되어 있나요?",
+    "answer": "테크타카는 2024년 LG CNS와 창고 내 RaaS 모델 협업 계획을 발표했습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "테크타카",
+    "category": "competitor",
+    "chunk_content": "등 복수 플랫폼 API 연동 구조로 전환 시 재연동 작업 필요\n⑤ 2024~2025년 전략적 파트너십 ― 공식 발표 목록\nNaver D2SF 브릿지 투자 및 N 배송 앵커 파트너 지정 ― PR Newswire, 2025년 7월 14일 카페24 매일배송 공식\n파트너 합류 ― 카페24 공식 발표 (2024년) LG CNS와 창고 내 RaaS 모델 협업 계획 발표 ― TechCrunch, 2024년\n2월 트랙스로지스코리아와 일본 루트 통합 물류 서비스 구축 ― 현대경제신문 보도 (2024~2025년)\n0.4 참고문헌\n번 출처 URL\n호\n[6] TechCrunch ― 테크타카 Series B $9.5M 유치 (2024.02) techcrunch.com/2024/02/19/techtaka-raises-9-5m\n[7] PR Newswire ― Naver D2SF 테크타카 3차 투자 (2025.07) prnewswire.com/news-releases/naver-d2sf-302504205"
+  },
+  {
+    "question": "테크타카의 최근 투자 라운드는 어떤 벤처 캐피탈에 의해 이루어졌나요?",
+    "answer": "테크타카는 2024년에 알토스벤처스의 시리즈B 투자를 받았습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "테크타카",
+    "category": "competitor",
+    "chunk_content": ".html\n[8] THE VC ― 테크타카 기업 정보 (임직원특허 수) thevc.kr/techtaka\n[9] Byline Network ― 테크타카 시리즈B 알토스벤처스 (2024) byline.network/2024/02/19_techtaka\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 7"
+  },
+  {
+    "question": "테크타카의 Series B 투자 유치 금액은 얼마인가?",
+    "answer": "테크타카는 Series B에서 9.5M 달러를 유치했다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "테크타카",
+    "category": "competitor",
+    "chunk_content": "번\n호 | 출처 | URL\n--- | --- | ---\n[6] | TechCrunch ― 테크타카 Series B $9.5M 유치 (2024.02) | techcrunch.com/2024/02/19/techtaka-raises-9-5m\n[7] | PR Newswire ― Naver D2SF 테크타카 3차 투자 (2025.07) | prnewswire.com/news-releases/naver-d2sf-302504205\n.html\n[8] | THE VC ― 테크타카 기업 정보 (임직원특허 수) | thevc.kr/techtaka\n[9] | Byline Network ― 테크타카 시리즈B 알토스벤처스 (2024) | byline.network/2024/02/19_techtaka"
+  },
+  {
+    "question": "Tridge의 설립 연도는 언제인가요?",
+    "answer": "Tridge는 2014년에 설립되었습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Tridge",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n04 | Tridge ― 글로벌 농식품 공급망 데이터무역 인텔리전스 플랫폼\n0.1 기업 개요\n설립 2014년 (서울, 한국) 투자 단계 Series D\nUSD 2.7B (2022년 8월 Series D\n누적 투자 약 USD 121M (Tracxn 기준) 기업가치\n기준)\nSBVA(소프트뱅크벤처스아시아),\n주요 투자자 DS자산운용, Forest Partners, Activant 임직원 269명 (2026년 1월, CB Insights)\nCapital\nTridge Eye (AI 소싱 인텔리전스),\n150개국 이상,\n핵심 제품 트릿지페이 (무역 결제 솔루션), 커버리지\n농식품수산화학 섹터\n바이어-공급업체 매칭 플랫폼\nTridge는 글로벌 농식품수산해양 분야 B2B 무역 플랫폼으로, 가격 인텔리전스, 수출입 데이터 분석, 공급업체"
+  },
+  {
+    "question": "Tridge의 기업가치는 2022년 8월 Series D 완료 후 얼마였나요?",
+    "answer": "2022년 8월 Series D 완료 후 Tridge의 기업가치는 USD 2.7B를 달성했습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Tridge",
+    "category": "competitor",
+    "chunk_content": "매칭, AI 소싱 추천 서비스를 제공합니다. 2022년 8월 Series D 완료 후 기업가치 USD 2.7B를 달성했습니다. 2025년\n4월에는 신흥국 중심의 무역 결제 솔루션 \"트릿지페이\"를 공식 론칭했습니다. 2024년 7월에는 KED Global이 \"SoftBank\n지원 Tridge, 한국 스타트업 위기 속 어려움\"이라는 제목의 기사를 보도했습니다. 최근 자금 조달은 2022년 8월이\n마지막으로 공개되어 있습니다.\n0.2 직접 경쟁사 비교\n직접 경쟁사 주요 솔루션 Tridge와의 차이점 (공개 자료 기준)\nRefinitiv (LSEG) 기관급 원자재무역 S&P; Global/LSEG 계열. 금융 규제 준수 데이터 제공. 기관\n데이터 플랫폼 투자자 및 대형 트레이더 중심\nValency 농산물 무역 인텔리전스 영국 기반. 곡물유지류 중심 기관 트레이더 고객 보유.\nInternational 지역 커버리지 제한적"
+  },
+  {
+    "question": "Tridge의 경쟁사 중 블록체인 기반 결제추적 기능이 있는 회사는 어디인가요?",
+    "answer": "AgriDigital (호주) 곡물 공급망 관리 SaaS는 블록체인 기반 결제추적 기능을 가지고 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Tridge",
+    "category": "competitor",
+    "chunk_content": "International 지역 커버리지 제한적\nFarMart (인도) 인도 농가-바이어 연결 인도 국내 시장 특화. 소농(Smallholder) 대상. 글로벌 B2B\n플랫폼 무역 데이터 범위 없음\nAgriDigital (호주) 곡물 공급망 관리 SaaS 호주 곡물 섹터 특화. 블록체인 기반 결제추적. Tridge\n(블록체인 기반) 대비 지역품목 범위 좁음\nKATI (한국농수산식품 한국 농식품 수출 지원 정부 기관 운영. 국내 수출 지원 중심. 민간 글로벌 B2B\n유통공사) 플랫폼 거래 매칭 기능 없음\n0.3 5대 분석 항목\n① 직접 경쟁사 차별점 ― 확인된 사실\n150개국 이상 농식품수산해양 분야 가격 및 무역 데이터 보유 ― 회사 공식 발표 Tridge Eye ― AI가 구매\n이력과 시장 데이터를 결합해 소싱 전략을 제시하는 솔루션 ― 회사 공식 블로그 2014년부터 10년 이상 축적된"
+  },
+  {
+    "question": "Tridge의 트릿지페이 론칭 연도는 언제인가요?",
+    "answer": "2025년 트릿지페이 론칭이 예정되어 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Tridge",
+    "category": "competitor",
+    "chunk_content": "독점 거래 데이터 ― 회사 설립 연도 기준 2025년 트릿지페이 론칭 ― 무역 결제 기능으로 플랫폼 수직 확장 (공식\n보도, 2025.04)\n② 대형 고객 확보 현황 ― 공개된 계약 사례\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 8"
+  },
+  {
+    "question": "Tridge의 누적 투자 금액은 얼마인가요?",
+    "answer": "약 USD 121M (Tracxn 기준)",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Tridge",
+    "category": "competitor",
+    "chunk_content": "설립 | 2014년 (서울, 한국) | 투자 단계 | Series D\n--- | --- | --- | ---\n누적 투자 | 약 USD 121M (Tracxn 기준) | 기업가치 | USD 2.7B (2022년 8월 Series D\n기준)\n주요 투자자 | SBVA(소프트뱅크벤처스아시아),\nDS자산운용, Forest Partners, Activant\nCapital | 임직원 | 269명 (2026년 1월, CB Insights)\n핵심 제품 | Tridge Eye (AI 소싱 인텔리전스),\n트릿지페이 (무역 결제 솔루션),\n바이어-공급업체 매칭 플랫폼 | 커버리지 | 150개국 이상,\n농식품수산화학 섹터"
+  },
+  {
+    "question": "Tridge와 직접 경쟁하는 Refinitiv의 주요 솔루션은 무엇인가요?",
+    "answer": "Refinitiv (LSEG)의 주요 솔루션은 기관급 원자재무역 데이터 플랫폼입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Tridge",
+    "category": "competitor",
+    "chunk_content": "직접 경쟁사 | 주요 솔루션 | Tridge와의 차이점 (공개 자료 기준)\n--- | --- | ---\nRefinitiv (LSEG) | 기관급 원자재무역\n데이터 플랫폼 | S&P; Global/LSEG 계열. 금융 규제 준수 데이터 제공. 기관\n투자자 및 대형 트레이더 중심\nValency\nInternational | 농산물 무역 인텔리전스 | 영국 기반. 곡물유지류 중심 기관 트레이더 고객 보유.\n지역 커버리지 제한적\nFarMart (인도) | 인도 농가-바이어 연결\n플랫폼 | 인도 국내 시장 특화. 소농(Smallholder) 대상. 글로벌 B2B\n무역 데이터 범위 없음\nAgriDigital (호주) | 곡물 공급망 관리 SaaS\n(블록체인 기반) | 호주 곡물 섹터 특화. 블록체인 기반 결제추적. Tridge\n대비 지역품목 범위 좁음\nKATI (한국농수산식품\n유통공사) | 한국 농식품 수출 지원\n플랫폼 | 정부 기관 운영. 국내 수출 지원 중심. 민간 글로벌 B2B"
+  },
+  {
+    "question": "Tridge의 경쟁사들은 어떤 운영 방식을 가지고 있나요?",
+    "answer": "경쟁사들은 정부 기관 운영을 하며, 국내 수출 지원 중심으로 활동하고 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Tridge",
+    "category": "competitor",
+    "chunk_content": "플랫폼 | 정부 기관 운영. 국내 수출 지원 중심. 민간 글로벌 B2B\n거래 매칭 기능 없음"
+  },
+  {
+    "question": "Tridge의 농식품 특화 AI 모델 이름은 무엇인가요?",
+    "answer": "\"Tridge Eye\"에 10년 이상의 독점 거래 데이터 학습 적용 ― 회사 공식 설명",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Tridge",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n국내 식품 1조 원 클럽 기업들을 공급망 파트너로 확보 중 ― 국내 언론 보도 (구체적 기업명 미공개)\nUNIDO(유엔공업개발기구)와 글로벌 농식품 공급망 파트너십 ― UNIDO Solutions Platform 공개 Fortune 500 글로벌\n기업과의 직접 계약은 공식 공개된 사례 없음 (2025년 기준)\n③ 네트워크/데이터 해자 ― 공개된 수치\n바이어-공급업체 매칭 플랫폼으로, 참여 기업 증가 시 매칭 품질 향상 구조 ― 회사 공식 설명 150개국 이상\n커버리지 ― 회사 공식 발표 농식품 특화 AI 모델 \"Tridge Eye\"에 10년 이상의 독점 거래 데이터 학습 적용 ―\n회사 공식 설명\n④ 전환 비용 구조 ― 확인된 통합 방식\n구독형 데이터 서비스(SaaS) 구조로, 계약 단위 전환 가능 트릿지페이를 통한 무역 결제 연동 시 금융"
+  },
+  {
+    "question": "Tridge의 2024~2025년 전략적 파트너십 중 하나는 무엇인가요?",
+    "answer": "Trademor × Tridge ― 파키스탄 농식품 섹터 글로벌 접근 파트너십 ― ProPakistani, 2024년 5월 16일",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Tridge",
+    "category": "competitor",
+    "chunk_content": "워크플로우 통합 깊이 증가 예상 ― 2025년 4월 론칭 기준 공급망 파트너 데이터 공유 기능(Tridge Eye) 사용\n기업은 내부 구매 이력 통합 후 전환 시 데이터 이전 필요\n⑤ 2024~2025년 전략적 파트너십 ― 공식 발표 목록\nTrademor × Tridge ― 파키스탄 농식품 섹터 글로벌 접근 파트너십 ― ProPakistani, 2024년 5월 16일\n트릿지페이 론칭 ― 신흥국 대상 무역 결제 솔루션 ― 공식 보도, 2025년 4월 30일 UNIDO × Tridge 농식품 공급망\n파트너십 ― UNIDO Solutions Platform 공개 대형 플랫폼(Fortune 500)과의 신규 전략 파트너십은 2024~2025년 내\n공식 발표 사례 없음\n0.4 참고문헌\n번 출처 URL\n호\n[10] Tracxn ― Tridge 기업 정보 (2026.02) tracxn.com/d/companies/tridge"
+  },
+  {
+    "question": "Tridge의 파트너십에 대한 정보는 어떤 출처에서 확인할 수 있나요?",
+    "answer": "Tridge의 파트너십에 대한 정보는 ProPakistani에서 확인할 수 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Tridge",
+    "category": "competitor",
+    "chunk_content": "[11] CB Insights ― Tridge 기업 프로파일 cbinsights.com/company/tridge\n[12] KED Global ― Tridge 어려움 보도 (2024.07) kedglobal.com (2024.07.31)\n[13] UNIDO ― Tridge 농식품 공급망 협력 unido.org/solutions/empowering-global-agri-food\n[14] ProPakistani ― Trademor-Tridge 파트너십 (2024.05) propakistani.pk (2024.05.16)\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 9"
+  },
+  {
+    "question": "Tridge와 관련된 어려움에 대한 보도는 어떤 출처에서 확인할 수 있나요?",
+    "answer": "Tridge 어려움 보도는 KED Global에서 확인할 수 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Tridge",
+    "category": "competitor",
+    "chunk_content": "번\n호 | 출처 | URL\n--- | --- | ---\n[10] | Tracxn ― Tridge 기업 정보 (2026.02) | tracxn.com/d/companies/tridge\n[11] | CB Insights ― Tridge 기업 프로파일 | cbinsights.com/company/tridge\n[12] | KED Global ― Tridge 어려움 보도 (2024.07) | kedglobal.com (2024.07.31)\n[13] | UNIDO ― Tridge 농식품 공급망 협력 | unido.org/solutions/empowering-global-agri-food\n[14] | ProPakistani ― Trademor-Tridge 파트너십 (2024.05) | propakistani.pk (2024.05.16)"
+  },
+  {
+    "question": "Fabric의 설립 연도와 주요 투자자는 누구인가?",
+    "answer": "Fabric은 2015년에 설립되었으며, 주요 투자자로는 Corner Ventures, Playground Global, Innovation Endeavors, Temasek가 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Fabric",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n05 | Fabric ― 마이크로 풀필먼트 센터(MFC) 로보틱스 플랫폼\n0.1 기업 개요\n설립 2015년 (이스라엘 / 미국) 투자 단계 Series C+ (공개 비활성)\nUSD 1B (2021년 10월 기준, 이후\n누적 투자 약 USD 336M (Tracxn 기준) 기업가치\n미갱신)\nCorner Ventures, Playground Global,\n주요 투자자 임직원 201~500명 (2024년, Tracxn)\nInnovation Endeavors, Temasek\nMFC(마이크로 풀필먼트 센터)용 수직\n식료품 체인, 약국, 이커머스\n핵심 제품 셔틀 로봇 시스템 + 실시간 WMS 타깃\n리테일러\n소프트웨어\nFabric(구 CommonSense Robotics)은 소형 자동화 풀필먼트 센터(MFC)를 소매점 내부, 주차장, 소규모 공간에 설치해"
+  },
+  {
+    "question": "Fabric은 어떤 방식의 자동화 창고를 제공하나요?",
+    "answer": "Fabric은 수직 카루셀 방식의 자동화 창고와 AI 기반 재고작업 관리 소프트웨어를 결합해 제공합니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Fabric",
+    "category": "competitor",
+    "chunk_content": "도심 근거리 배송을 지원하는 이스라엘 기반 로보틱스 스타트업입니다. 수직 카루셀 방식의 자동화 창고와 AI 기반\n재고작업 관리 소프트웨어를 결합해 제공합니다. 2024년 1월에 창고 스토리지 최적화 유연성 관련 신규 특허를\n취득했습니다. 2024년 3월에 Curt Avallone을 공동 CEO로 선임했습니다. 경쟁사 Attabotics는 2025년 7월 파산을\n신청하고 동년 9월 Kentucky 소재 Lafayette Engineering에 자산을 매각했습니다.\n0.2 직접 경쟁사 비교\n직접 경쟁사 주요 솔루션 Fabric과의 차이점 (공개 자료 기준)\nAutoStore 큐브 스토리지 ASRS 노르웨이 상장사. 1,300개 이상 설치 레퍼런스(2024). 2024년\n(노르웨이, 상장) Q4 USD 200M 신규 투자 유치\nExotec (프랑스) 3D Skypod 로봇 ASRS 누적 투자 USD 335M. 글로벌 리테일 파트너 보유. 2024년 기준\n유럽미주 주요 MFC 납품"
+  },
+  {
+    "question": "Fabric의 경쟁사 중 누적 투자액이 가장 높은 회사는 어디인가요?",
+    "answer": "Attabotics로, 누적 투자액은 USD 186M입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Fabric",
+    "category": "competitor",
+    "chunk_content": "유럽미주 주요 MFC 납품\nTakeoff 식료품 소매 MFC 특화 Albertsons 파트너. 누적 투자 USD 86M. Fabric과 동일한\nTechnologies 식료품 소매 MFC 타깃\nOcado Smart 대형 온라인 식료품 영국 상장사. 대규모 CFC(고객 풀필먼트 센터) 특화.\nPlatform 자동화 CFC KrogerSobeys 등 장기 계약 보유\nAttabotics 3D ASRS 풀필먼트 누적 투자 USD 186M. 2025년 7월 파산 신청. 2025년 9월\n(캐나다) 솔루션 Lafayette Engineering에 자산 매각\n0.3 5대 분석 항목\n① 직접 경쟁사 차별점 ― 확인된 사실\n기존 소매 공간(창고, 주차장 등) 설치 가능한 모듈형 MFC 구조 ― 회사 공식 제품 설명 창고 스토리지 최적화\n유연성 관련 신규 특허 취득 ― Business Wire, 2024년 1월 10일 Fabric 시스템으로 Save A Lot Brooklyn MFC에서"
+  },
+  {
+    "question": "Fabric의 대형 고객 확보 현황에 대한 구체적인 사례는 무엇인가?",
+    "answer": "Fabric은 Save A Lot와 브루클린 MFC 파트너십을 체결하였고, Instacart와는 MFC 배포 파트너십을 체결하였다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Fabric",
+    "category": "competitor",
+    "chunk_content": "풀필먼트 비용 약 1/3 절감 및 30분 내 풀필먼트 달성 ― Grocery Doppio 확인 하드웨어(로봇 셔틀)와\n소프트웨어(WMS)를 통합 제공하는 풀스택 구조\n② 대형 고객 확보 현황 ― 공개된 계약 사례\nSave A Lot ― 브루클린 MFC 파트너십 (2024년). Grocery Doppio 확인 Instacart ― MFC 배포 파트너십 체결\n(2024년 Q4). Market Research Future 확인 과거 고객 사례: FreshDirect, Ahold Delhaize 등 식료품 체인 다수\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 10"
+  },
+  {
+    "question": "Fabric의 누적 투자 금액은 얼마인가요?",
+    "answer": "약 USD 336M (Tracxn 기준)",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Fabric",
+    "category": "competitor",
+    "chunk_content": "설립 | 2015년 (이스라엘 / 미국) | 투자 단계 | Series C+ (공개 비활성)\n--- | --- | --- | ---\n누적 투자 | 약 USD 336M (Tracxn 기준) | 기업가치 | USD 1B (2021년 10월 기준, 이후\n미갱신)\n주요 투자자 | Corner Ventures, Playground Global,\nInnovation Endeavors, Temasek | 임직원 | 201~500명 (2024년, Tracxn)\n핵심 제품 | MFC(마이크로 풀필먼트 센터)용 수직\n셔틀 로봇 시스템 + 실시간 WMS\n소프트웨어 | 타깃 | 식료품 체인, 약국, 이커머스\n리테일러"
+  },
+  {
+    "question": "Fabric의 직접 경쟁사 중 누가 2024년 Q4에 USD 200M의 신규 투자를 유치했나요?",
+    "answer": "AutoStore는 2024년 Q4에 USD 200M의 신규 투자 유치를 계획하고 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Fabric",
+    "category": "competitor",
+    "chunk_content": "직접 경쟁사 | 주요 솔루션 | Fabric과의 차이점 (공개 자료 기준)\n--- | --- | ---\nAutoStore\n(노르웨이, 상장) | 큐브 스토리지 ASRS | 노르웨이 상장사. 1,300개 이상 설치 레퍼런스(2024). 2024년\nQ4 USD 200M 신규 투자 유치\nExotec (프랑스) | 3D Skypod 로봇 ASRS | 누적 투자 USD 335M. 글로벌 리테일 파트너 보유. 2024년 기준\n유럽미주 주요 MFC 납품\nTakeoff\nTechnologies | 식료품 소매 MFC 특화 | Albertsons 파트너. 누적 투자 USD 86M. Fabric과 동일한\n식료품 소매 MFC 타깃\nOcado Smart\nPlatform | 대형 온라인 식료품\n자동화 CFC | 영국 상장사. 대규모 CFC(고객 풀필먼트 센터) 특화.\nKrogerSobeys 등 장기 계약 보유\nAttabotics\n(캐나다) | 3D ASRS 풀필먼트"
+  },
+  {
+    "question": "Fabric의 경쟁사 Attabotics는 언제 파산 신청을 했나요?",
+    "answer": "Attabotics는 2025년 7월에 파산 신청을 했습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Fabric",
+    "category": "competitor",
+    "chunk_content": "Attabotics\n(캐나다) | 3D ASRS 풀필먼트\n솔루션 | 누적 투자 USD 186M. 2025년 7월 파산 신청. 2025년 9월\nLafayette Engineering에 자산 매각"
+  },
+  {
+    "question": "Fabric의 설치 수는 공개되었나요?",
+    "answer": "Fabric의 설치 수는 공개되지 않았습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Fabric",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n(회사 공식 레퍼런스)\n③ 네트워크/데이터 해자 ― 확인된 구조\nMFC 내 모든 재고주문배송 데이터를 실시간 처리하는 소프트웨어 구조 설치 MFC 수가 증가할수록 수요 예측\n알고리즘 학습 데이터 축적 AutoStore의 경우 1,300개+ 설치 기반 데이터 보유 중 ― Fabric의 설치 수는 공개\n미확인\n④ 전환 비용 구조 ― 확인된 통합 방식\nMFC 하드웨어(로봇 셔틀 + 수직 스토리지) 물리적 설치 구조 ― 교체 시 철거재설치 비용 발생 WMS\n소프트웨어가 소매점 POS재고 시스템과 통합되는 구조 Fabric 플랫폼 위에 운영 데이터가 축적되는 구조로 전환\n시 데이터 이전 필요\n⑤ 2024~2025년 전략적 파트너십 ― 공식 발표 목록"
+  },
+  {
+    "question": "Fabric의 2024~2025년 전략적 파트너십 중 하나는 무엇인가요?",
+    "answer": "Instacart × Fabric MFC 파트너십이 2024년 Q4에 공식 발표될 예정입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Fabric",
+    "category": "competitor",
+    "chunk_content": "시 데이터 이전 필요\n⑤ 2024~2025년 전략적 파트너십 ― 공식 발표 목록\nInstacart × Fabric MFC 파트너십 ― Market Research Future 확인 (2024년 Q4) Save A Lot + Uber × Fabric\n온디맨드 식료품 MFC ― Retail Technology Innovation Hub, 2024년 10월 8일 Curt Avallone 공동 CEO 선임 ―\nBusiness Wire, 2024년 3월 25일 창고 스토리지 최적화 특허 취득 ― Business Wire, 2024년 1월 10일\n0.4 참고문헌\n번 출처 URL\n호\n[15] Tracxn ― Fabric 기업 정보 (2025.09) tracxn.com/d/companies/fabric\n[16] Market Research Future ― MFC 시장 및 Instacart-Fabric marketresearchfuture.com/reports/micro-fulfillmen"
+  },
+  {
+    "question": "Fabric의 특허 취득 날짜는 언제인가요?",
+    "answer": "Fabric은 2024년 1월 10일에 특허를 취득했습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Fabric",
+    "category": "competitor",
+    "chunk_content": "(2024.Q4) t-market-28492\n[17] Grocery Doppio ― Save A Lot × Fabric MFC 성과 (2024) grocerydoppio.com/articles/6-largest-companies-mi\ncro-fulfillment\n[18] Business Wire ― Fabric 특허 취득 (2024.01) businesswire.com ― Fabric Patent 2024.01.10\n[19] CB Insights ― Attabotics 파산 및 자산 매각 (2025) cbinsights.com/company/attabotics\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 11"
+  },
+  {
+    "question": "Fabric의 특허 취득 날짜는 언제인가요?",
+    "answer": "Fabric은 2024년 1월 10일에 특허를 취득했습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Fabric",
+    "category": "competitor",
+    "chunk_content": "번\n호 | 출처 | URL\n--- | --- | ---\n[15] | Tracxn ― Fabric 기업 정보 (2025.09) | tracxn.com/d/companies/fabric\n[16] | Market Research Future ― MFC 시장 및 Instacart-Fabric\n(2024.Q4) | marketresearchfuture.com/reports/micro-fulfillmen\nt-market-28492\n[17] | Grocery Doppio ― Save A Lot × Fabric MFC 성과 (2024) | grocerydoppio.com/articles/6-largest-companies-mi\ncro-fulfillment\n[18] | Business Wire ― Fabric 특허 취득 (2024.01) | businesswire.com ― Fabric Patent 2024.01.10"
+  },
+  {
+    "question": "Fabric의 경쟁사 Attabotics는 언제 파산하였나요?",
+    "answer": "Attabotics는 2025년에 파산하였습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Fabric",
+    "category": "competitor",
+    "chunk_content": "[19] | CB Insights ― Attabotics 파산 및 자산 매각 (2025) | cbinsights.com/company/attabotics"
+  },
+  {
+    "question": "Seoul Robotics의 누적 투자 금액은 얼마인가?",
+    "answer": "Seoul Robotics의 누적 투자 금액은 약 USD 47.75M입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n06 | Seoul Robotics ― 인프라 기반 자율주행 물류 솔루션\n0.1 기업 개요\n설립 2017년 (서울, 한국) 투자 단계 Bridge-II (KOSDAQ 상장 추진 중)\n누적 투자 약 USD 47.75M (CB Insights 기준) 신용 등급 A BBB 등급 취득 (2025년 4월)\nKB Investment, KDB Capital,\nKOSDAQ 상장 추진 (삼성증권\n주요 투자자 FuturePlay, Artesian VC, Tiken IPO 계획\n주관, 2024년 2월 발표)\nInvestment\nLV5 CTRL TWR (인프라 기반 레벨 5 BMW, Mercedes-Benz, E-Mart,\n핵심 제품 공식 고객\n자율주행) / SENSR (3D LiDAR 인식 SW) 미국 UTC-CUIP"
+  },
+  {
+    "question": "Seoul Robotics의 SENSR 소프트웨어는 어떤 기술을 기반으로 하고 있으며, 어떤 방식으로 차량을 제어하나요?",
+    "answer": "Seoul Robotics는 LiDAR 및 3D 센서 기반 AI 인식 소프트웨어(SENSR)를 핵심으로, 공장 인프라에 설치된 센서 네트워크로 차량을 제어하는 방식으로 LV5 CTRL TWR을 운영합니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "자율주행) / SENSR (3D LiDAR 인식 SW) 미국 UTC-CUIP\nSeoul Robotics는 LiDAR 및 3D 센서 기반 AI 인식 소프트웨어(SENSR)를 핵심으로, \"인프라를 통한 자율주행(Autonomy\nThrough Infrastructure, ATI)\"을 개척한 소프트웨어 스타트업입니다. LV5 CTRL TWR은 차량에 별도 센서 탑재 없이\n공장 인프라에 설치된 센서 네트워크로 차량을 제어하는 방식으로, BMW 딩골핑 공장(독일)에 2022년 상용\n배포되었습니다. 2024년 2월 삼성증권을 주관사로 KOSDAQ 상장 계획을 공식 발표했으며, 2025년 4월 신용 등급\nABBB를 취득했습니다. 한국산업기술시험원(KTL) 제3자 분석에서 SENSR의 객체 감지 오차가 4cm 이내로\n확인되었습니다.\n0.2 직접 경쟁사 비교\n직접 경쟁사 주요 솔루션 Seoul Robotics와의 차이점 (공개 자료 기준)"
+  },
+  {
+    "question": "Seoul Robotics와 Cepton의 주요 차이점은 무엇인가?",
+    "answer": "Cepton은 Intel LiDAR 하드웨어 중심으로 인식 소프트웨어 레이어를 제공하지 않지만, Seoul Robotics는 순수 소프트웨어 회사입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "직접 경쟁사 주요 솔루션 Seoul Robotics와의 차이점 (공개 자료 기준)\nCepton (Intel LiDAR 하드웨어 하드웨어 중심. 인식 소프트웨어 레이어 제공 없음. Seoul\n자회사) 제조공급 Robotics는 순수 소프트웨어 회사\nOutsight (프랑스) 3D 공간 인텔리전스 물류보안스마트시티 타깃 유사. VC 지원 스타트업. 자동차\nSaaS 공장 특화 레퍼런스 미확인\nMobileye (Intel, 차량 탑재형 차량 탑재 방식. 인프라 기반 접근과 근본적으로 상이. 공장\n상장) ADAS자율주행 칩SW 내 물류 특화 레퍼런스 없음\nVelodyne/Ouster LiDAR 하드웨어 제조 하드웨어 제조사. Seoul Robotics와 센서-소프트웨어 상호\n보완 관계 (파트너 가능)\nWaymo (Alphabet) 차량 탑재형 완전 공공도로 완전 자율주행 중심. 공장 내 제한된 환경에서는 ATI\n자율주행 방식과 용도 상이\n0.3 5대 분석 항목"
+  },
+  {
+    "question": "Seoul Robotics는 어떤 방식으로 특허를 보유하고 있나요?",
+    "answer": "Seoul Robotics는 ATI(Autonomy Through Infrastructure) 방식으로 특허를 보유하고 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "자율주행 방식과 용도 상이\n0.3 5대 분석 항목\n① 직접 경쟁사 차별점 ― 확인된 사실\nATI(Autonomy Through Infrastructure) 방식으로 특허 보유 ― 회사 공식 발표 SENSR 객체 감지 오차 4cm 이내\n― 한국산업기술시험원(KTL) 제3자 분석 공식 확인 센서 브랜드종류에 관계없이 동작하는 센서\n애그노스틱(Sensor Agnostic) 소프트웨어 ― 회사 공식 설명 다중 센서 브랜드를 동시 혼용 가능한 유일한 업체 ―\n회사 공식 주장 (The Robot Report 인용) 한국 과기부 \"국가 R&D; 우수 100선\" 선정 (2023년) ― Seoul Robotics\nLinkedIn 공식 게시물\n② 대형 고객 확보 현황 ― 공개된 계약 사례\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 12"
+  },
+  {
+    "question": "Seoul Robotics의 누적 투자액은 얼마인가요?",
+    "answer": "약 USD 47.75M (CB Insights 기준)입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "설립 | 2017년 (서울, 한국) | 투자 단계 | Bridge-II (KOSDAQ 상장 추진 중)\n--- | --- | --- | ---\n누적 투자 | 약 USD 47.75M (CB Insights 기준) | 신용 등급 | A BBB 등급 취득 (2025년 4월)\n주요 투자자 | KB Investment, KDB Capital,\nFuturePlay, Artesian VC, Tiken\nInvestment | IPO 계획 | KOSDAQ 상장 추진 (삼성증권\n주관, 2024년 2월 발표)\n핵심 제품 | LV5 CTRL TWR (인프라 기반 레벨 5\n자율주행) / SENSR (3D LiDAR 인식 SW) | 공식 고객 | BMW, Mercedes-Benz, E-Mart,\n미국 UTC-CUIP"
+  },
+  {
+    "question": "Seoul Robotics와 Cepton의 주요 차이점은 무엇인가?",
+    "answer": "Cepton은 하드웨어 중심으로 인식 소프트웨어 레이어를 제공하지 않지만, Seoul Robotics는 순수 소프트웨어 회사입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "직접 경쟁사 | 주요 솔루션 | Seoul Robotics와의 차이점 (공개 자료 기준)\n--- | --- | ---\nCepton (Intel\n자회사) | LiDAR 하드웨어\n제조공급 | 하드웨어 중심. 인식 소프트웨어 레이어 제공 없음. Seoul\nRobotics는 순수 소프트웨어 회사\nOutsight (프랑스) | 3D 공간 인텔리전스\nSaaS | 물류보안스마트시티 타깃 유사. VC 지원 스타트업. 자동차\n공장 특화 레퍼런스 미확인\nMobileye (Intel,\n상장) | 차량 탑재형\nADAS자율주행 칩SW | 차량 탑재 방식. 인프라 기반 접근과 근본적으로 상이. 공장\n내 물류 특화 레퍼런스 없음\nVelodyne/Ouster | LiDAR 하드웨어 제조 | 하드웨어 제조사. Seoul Robotics와 센서-소프트웨어 상호\n보완 관계 (파트너 가능)\nWaymo (Alphabet) | 차량 탑재형 완전"
+  },
+  {
+    "question": "Seoul Robotics의 경쟁사인 Waymo는 어떤 자율주행 방식을 중심으로 하고 있나요?",
+    "answer": "Waymo는 공공도로 완전 자율주행 중심으로 차량 탑재형 완전 자율주행을 제공합니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "보완 관계 (파트너 가능)\nWaymo (Alphabet) | 차량 탑재형 완전\n자율주행 | 공공도로 완전 자율주행 중심. 공장 내 제한된 환경에서는 ATI\n방식과 용도 상이"
+  },
+  {
+    "question": "Seoul Robotics의 경쟁사 중 BMW는 어떤 기술을 도입했나요?",
+    "answer": "BMW는 딩골핑 공장에서 세계 최초로 레벨 5 자율주행을 상용 배포 완료했습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\nBMW ― 딩골핑 공장(독일) LV5 CTRL TWR 상용 배포 완료. 세계 최초 공장 내 레벨 5 자율주행 ― GlobeNewswire\n확인 Mercedes-Benz ― 공식 고객 확인 (Robotics 24/7, Wikipedia) E-Mart ― 초기 POC 파트너 (2019년), 공식\n고객 (The Robot Report) 미국 채터누가 교통부(UTC-CUIP) ― 스마트시티 솔루션 납품 (CB Insights) 추가\n글로벌 OEM 2개사 신규 파트너십 체결 (2024년 2월 발표, 이름 비공개)\n③ 네트워크/데이터 해자 ― 확인된 구조\n공장물류 야드 설치 센서 네트워크가 실시간 운행 데이터를 지속 수집 ― 제품 구조 기반 SENSR 소프트웨어에\n딥러닝 모델 탑재 ― 실제 운용 데이터로 지속 학습 ISO/TC 204 WG14(도로 운송 분야 국제표준화기구 자율주행"
+  },
+  {
+    "question": "Seoul Robotics는 어떤 기업과 공동으로 엣지 컴퓨팅 화이트페이퍼를 발간했나요?",
+    "answer": "Seoul Robotics는 Dell Technologies와 공동으로 엣지 컴퓨팅 화이트페이퍼를 발간했습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "전문가 그룹) 위원 선임 (2024년 12월) ― 회사 공식 발표\n④ 전환 비용 구조 ― 확인된 통합 방식\n공장 내 수십~수백 개의 센서 인프라 물리적 설치 필요 ― 제품 배포 구조 기반 V2X(차량-인프라 간 통신)\n네트워크 구축 필요 ― LV5 CTRL TWR 공식 제품 설명 기존 공장 MES(제조 실행 시스템)와 통합 구조 ― BMW 딩골핑\n배포 사례 기반 BMW는 공장 전체 완성차 물류 자동화에 LV5 CTRL TWR 적용 ― GlobeNewswire 확인\n⑤ 2024~2025년 전략적 파트너십 ― 공식 발표 목록\n글로벌 OEM 2개사 신규 파트너십 체결 ― GlobeNewswire, 2024년 2월 6일 (기업명 비공개) Dell Technologies\n× Seoul Robotics 엣지 컴퓨팅 화이트페이퍼 공동 발간 ― Seoul Robotics LinkedIn KOSDAQ IPO 추진 및 삼성증권"
+  },
+  {
+    "question": "Seoul Robotics의 IPO 및 OEM 파트너십에 대한 공식 발표는 언제 이루어졌나요?",
+    "answer": "Seoul Robotics의 IPO 및 OEM 파트너십에 대한 공식 발표는 2024년 2월 6일에 이루어졌습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "주관사 선정 ― GlobeNewswire, 2024년 2월 6일 ISO/TC 204 WG14 자율주행 전문가 위원 선임 ― 회사 공식 발표,\n2024년 12월 30일\n0.4 참고문헌\n번 출처 URL\n호\n[20] GlobeNewswire ― Seoul Robotics IPO 및 OEM 파트너십 globenewswire.com/news-release/2024/02/06/2824406\n(2024.02)\n[21] TechCrunch ― Seoul Robotics Series B $25M (2022.09) techcrunch.com/2022/09/22/seoul-robotics\n[22] The Robot Report ― SENSR-I 출시 및 KTL 인증 therobotreport.com/seoul-robotics-launches-infras\ntructure-based-sensr-i"
+  },
+  {
+    "question": "Seoul Robotics의 기업 프로파일은 어떤 출처에서 확인할 수 있나요?",
+    "answer": "Seoul Robotics 기업 프로파일은 CB Insights에서 확인할 수 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "tructure-based-sensr-i\n[23] CB Insights ― Seoul Robotics 기업 프로파일 (2025.12) cbinsights.com/company/seoul-robotics\n[24] Wikipedia ― Seoul Robotics 기업 개요 en.wikipedia.org/wiki/Seoul_Robotics\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 13"
+  },
+  {
+    "question": "Seoul Robotics의 Series B 투자 라운드에서 모금한 금액은 얼마인가?",
+    "answer": "Seoul Robotics는 2022년 9월에 Series B 투자 라운드에서 2500만 달러를 모금했습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "번\n호 | 출처 | URL\n--- | --- | ---\n[20] | GlobeNewswire ― Seoul Robotics IPO 및 OEM 파트너십\n(2024.02) | globenewswire.com/news-release/2024/02/06/2824406\n[21] | TechCrunch ― Seoul Robotics Series B $25M (2022.09) | techcrunch.com/2022/09/22/seoul-robotics\n[22] | The Robot Report ― SENSR-I 출시 및 KTL 인증 | therobotreport.com/seoul-robotics-launches-infras\ntructure-based-sensr-i\n[23] | CB Insights ― Seoul Robotics 기업 프로파일 (2025.12) | cbinsights.com/company/seoul-robotics"
+  },
+  {
+    "question": "Seoul Robotics의 경쟁사 분석에서 어떤 주요 경쟁사가 언급되었나요?",
+    "answer": "문서에는 Seoul Robotics의 주요 경쟁사에 대한 구체적인 언급이 없습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "[24] | Wikipedia ― Seoul Robotics 기업 개요 | en.wikipedia.org/wiki/Seoul_Robotics"
+  },
+  {
+    "question": "Seoul Robotics의 최근 투자 시점은 언제인가요?",
+    "answer": "Seoul Robotics의 최근 투자 시점은 2024년 2월에 발표된 미공개입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n07 | 5개사 분석 항목 비교표\n아래 표는 앞서 기술된 사실 데이터를 5개 분석 항목별로 정리한 것입니다. 모든 내용은 공개 자료에 근거하며,\n확인되지 않은 항목은 \"공개 자료 없음\"으로 표기합니다.\n분석 항목 Altana 테크타카 Tridge Fabric Seoul Robotics\n기업가치 (최근 미공개 (Series USD 2.7B USD 1B Pre-IPO (KOSDAQ\nUSD 1B (2024.07)\n라운드) B-II) (2022.08) (2021.10) 추진)\n누적 투자 USD 344M USD 20.2M USD 121M USD 336M USD 47.75M\n2024년 7월 2025년 7월 2022년 8월 2021년 (이후 IPO 준비 중\n최근 투자 시점\n(Series C) (Bridge) (Series D) 미공개) (2024.02 발표)\n기여마진 흑자"
+  },
+  {
+    "question": "Seoul Robotics의 직접 경쟁사로 언급된 회사는 무엇인가?",
+    "answer": "Seoul Robotics의 직접 경쟁사로는 VCMS, Naver, Boston, BMW, Mercedes-Benz 등이 언급되었다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "기여마진 흑자\n수익성 공개 여부 미공개 (2023년~, 공식 미공개 미공개 미공개\n발표)\n① 직접 경쟁사 세계 최초 VCMS Naver NFA 앵커 150개국 10년 독점 소매점 내 설치 ATI 특허 KTL 공인\n차별점 CBP 인증 파트너 파트너 지위 데이터 모듈형 MFC 4cm 정확도\nBoston\nBMW,\n② 공개된 대형 Scientific, Naver, 카페24 UNIDO (국내 Save A Lot,\nMercedes-Benz,\n고객 Maersk, CBP, 영국 (공식 파트너) 식품사 비공개) Instacart\nE-Mart, UTC-CUIP\nMoD 등 6건\n③ 네트워크/ 1억 4천만 개 연결 출고량 16.9배 KTL 공인 Deep\n150개국 데이터\n데이터 해자 공개 데이터 (공식 증가 (NFA 연동 공개 수치 없음 learning 기반\n10년 이상 축적\n수치 발표) 후) 특허 11개 모델\nERP조달 정부 WMSTMSOMS 구독형 SaaS (전환 물리적 설비 센서 인프라"
+  },
+  {
+    "question": "Seoul Robotics의 파트너십 건수는 몇 건인가요?",
+    "answer": "Seoul Robotics는 2024~2025 공식 파트너십 건수로 2건을 보유하고 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "ERP조달 정부 WMSTMSOMS 구독형 SaaS (전환 물리적 설비 센서 인프라\n④ 전환 비용 근거\n시스템 통합 CBP 일체형 통합 복수 용이) 결제 통합 설치 구조 WMS 물리적 설치\n구조\n연동 플랫폼 API 시 심화 통합 MESV2X 통합\n3건 이상 (CBP, 4건 이상 (Naver,\n⑤ 2024~2025 공식 2건 (Trademor, 3건 (Instacart, 3건 (OEM 2사,\nDataminr, Epoch 카페24, LG CNS,\n파트너십 건수 트릿지페이) Save A Lot, CEO) Dell, ISO 위원)\nBlue) 트랙스)\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 14"
+  },
+  {
+    "question": "Seoul Robotics의 최근 투자 시점은 언제인가요?",
+    "answer": "Seoul Robotics는 IPO 준비 중이며, 2024년 2월에 발표할 예정입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "분석 항목 | Altana | 테크타카 | Tridge | Fabric | Seoul Robotics\n--- | --- | --- | --- | --- | ---\n기업가치 (최근\n라운드) | USD 1B (2024.07) | 미공개 (Series\nB-II) | USD 2.7B\n(2022.08) | USD 1B\n(2021.10) | Pre-IPO (KOSDAQ\n추진)\n누적 투자 | USD 344M | USD 20.2M | USD 121M | USD 336M | USD 47.75M\n최근 투자 시점 | 2024년 7월\n(Series C) | 2025년 7월\n(Bridge) | 2022년 8월\n(Series D) | 2021년 (이후\n미공개) | IPO 준비 중\n(2024.02 발표)\n수익성 공개 여부 | 미공개 | 기여마진 흑자\n(2023년~, 공식\n발표) | 미공개 | 미공개 | 미공개\n① 직접 경쟁사\n차별점 | 세계 최초 VCMS\nCBP 인증 파트너 | Naver NFA 앵커"
+  },
+  {
+    "question": "Seoul Robotics의 고객 중 하나는 누구인가요?",
+    "answer": "Seoul Robotics의 고객 중에는 Boston Scientific, Maersk, CBP, 영국 MoD 등이 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "차별점 | 세계 최초 VCMS\nCBP 인증 파트너 | Naver NFA 앵커\n파트너 지위 | 150개국 10년 독점\n데이터 | 소매점 내 설치\n모듈형 MFC | ATI 특허 KTL 공인\n4cm 정확도\n② 공개된 대형\n고객 | Boston\nScientific,\nMaersk, CBP, 영국\nMoD 등 6건 | Naver, 카페24\n(공식 파트너) | UNIDO (국내\n식품사 비공개) | Save A Lot,\nInstacart | BMW,\nMercedes-Benz,\nE-Mart, UTC-CUIP\n③ 네트워크/\n데이터 해자 공개\n수치 | 1억 4천만 개 연결\n데이터 (공식\n발표) | 출고량 16.9배\n증가 (NFA 연동\n후) 특허 11개 | 150개국 데이터\n10년 이상 축적 | 공개 수치 없음 | KTL 공인 Deep\nlearning 기반\n모델\n④ 전환 비용 근거\n구조 | ERP조달 정부\n시스템 통합 CBP\n연동 | WMSTMSOMS\n일체형 통합 복수"
+  },
+  {
+    "question": "Seoul Robotics의 공식 파트너십 건수 목표는 무엇인가요?",
+    "answer": "2024~2025 공식 파트너십 건수 목표는 3건 이상입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "구조 | ERP조달 정부\n시스템 통합 CBP\n연동 | WMSTMSOMS\n일체형 통합 복수\n플랫폼 API | 구독형 SaaS (전환\n용이) 결제 통합\n시 심화 | 물리적 설비\n설치 구조 WMS\n통합 | 센서 인프라\n물리적 설치\nMESV2X 통합\n⑤ 2024~2025 공식\n파트너십 건수 | 3건 이상 (CBP,\nDataminr, Epoch\nBlue) | 4건 이상 (Naver,\n카페24, LG CNS,\n트랙스) | 2건 (Trademor,\n트릿지페이) | 3건 (Instacart,\nSave A Lot, CEO) | 3건 (OEM 2사,\nDell, ISO 위원)"
+  },
+  {
+    "question": "Seoul Robotics의 경쟁사 중 Altana의 최근 펀딩 규모는 얼마인가?",
+    "answer": "Altana는 2024년 7월에 Series C에서 200M 달러의 펀딩을 받았다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n08 | 참고문헌 전체 목록\n# 출처명 URL\n[1] Crunchbase ― Altana 펀딩 및 고객 목록 crunchbase.com/organization/altana-trade\n[2] Business Wire ― 미국 CBP × Altana Product Passport businesswire.com/news/home/20251001718752\n(2025.10)\n[3] Crunchbase News ― Altana Series C $200M (2024.07) news.crunchbase.com/venture/supply-chain-startup\n-unicorn-altana\n[4] Getlatka ― Altana 연도별 매출 (2023~2024) getlatka.com/companies/altana.ai"
+  },
+  {
+    "question": "Seoul Robotics의 경쟁사 중 테크타카의 최근 투자 유치 금액은 얼마인가요?",
+    "answer": "테크타카는 2024년 2월에 시리즈 B로 9.5M 달러를 유치했습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "[5] Business Wire ― Altana VCMS 발표 (2024.06) businesswire.com ― Altana VCMS 2024.06.05\n[6] TechCrunch ― 테크타카 Series B $9.5M (2024.02) techcrunch.com/2024/02/19/techtaka-raises-9-5m\n[7] PR Newswire ― Naver D2SF 테크타카 투자 (2025.07) prnewswire.com/news-releases/naver-d2sf-30250420\n5.html\n[8] THE VC ― 테크타카 기업 정보 thevc.kr/techtaka\n[9] Byline Network ― 테크타카 시리즈B (2024.02) byline.network/2024/02/19_techtaka\n[10] Tracxn ― Tridge 기업 정보 (2026.02) tracxn.com/d/companies/tridge"
+  },
+  {
+    "question": "Seoul Robotics의 경쟁사로 언급된 Tridge는 어떤 분야에서 활동하고 있나요?",
+    "answer": "Tridge는 농식품 공급망 협력 분야에서 활동하고 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "[11] CB Insights ― Tridge 기업 프로파일 cbinsights.com/company/tridge\n[12] KED Global ― Tridge 어려움 보도 (2024.07) kedglobal.com (2024.07.31)\n[13] UNIDO ― Tridge 농식품 공급망 협력 unido.org/solutions/empowering-global-agri-food\n[14] ProPakistani ― Trademor-Tridge 파트너십 (2024.05) propakistani.pk (2024.05.16)\n[15] Tracxn ― Fabric 기업 정보 (2025.09) tracxn.com/d/companies/fabric\n[16] Market Research Future ― MFC 시장 및 Instacart-Fabric marketresearchfuture.com/reports/micro-fulfillme\nnt-market-28492"
+  },
+  {
+    "question": "Seoul Robotics의 IPO 발표는 언제 이루어졌나요?",
+    "answer": "Seoul Robotics의 IPO 발표는 2024년 2월 6일에 이루어졌습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "nt-market-28492\n[17] Grocery Doppio ― Save A Lot × Fabric MFC 성과 (2024) grocerydoppio.com/articles/6-largest-companies-m\nicro-fulfillment\n[18] Business Wire ― Fabric 특허 취득 (2024.01) businesswire.com ― Fabric Patent Award\n2024.01.10\n[19] CB Insights ― Attabotics 파산 및 매각 (2025) cbinsights.com/company/attabotics\n[20] GlobeNewswire ― Seoul Robotics IPO 발표 (2024.02) globenewswire.com/news-release/2024/02/06/282440\n6"
+  },
+  {
+    "question": "Seoul Robotics의 SENSR-I 출시와 관련된 인증은 어떤 기관에서 받았나요?",
+    "answer": "Seoul Robotics의 SENSR-I는 KTL 인증을 받았습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "6\n[21] TechCrunch ― Seoul Robotics Series B $25M (2022.09) techcrunch.com/2022/09/22/seoul-robotics\n[22] The Robot Report ― SENSR-I 출시 및 KTL 인증 therobotreport.com/seoul-robotics-launches-infra\nstructure-based-sensr-i\n[23] CB Insights ― Seoul Robotics 기업 프로파일 (2025.12) cbinsights.com/company/seoul-robotics\n[24] Wikipedia ― Seoul Robotics 기업 개요 en.wikipedia.org/wiki/Seoul_Robotics\n[25] Tracxn ― Altana 경쟁사 분석 tracxn.com/d/companies/altana\n[26] Tracxn ― Fabric 경쟁사 분석 tracxn.com/d/companies/fabric"
+  },
+  {
+    "question": "Seoul Robotics의 경쟁사 분석에 대한 문서에서 어떤 시장 규모에 대한 정보가 포함되어 있나요?",
+    "answer": "본 리포트는 마이크로 풀필먼트 시장 규모에 대한 정보를 포함하고 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "[27] Precedence Research ― 마이크로 풀필먼트 시장 규모 (2025) precedenceresearch.com/micro-fulfillment-market\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 15"
+  },
+  {
+    "question": "Seoul Robotics의 경쟁사인 Altana의 최근 펀딩 금액은 얼마인가요?",
+    "answer": "Altana는 2024년 7월에 Series C에서 2억 달러를 펀딩 받았습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "# | 출처명 | URL\n--- | --- | ---\n[1] | Crunchbase ― Altana 펀딩 및 고객 목록 | crunchbase.com/organization/altana-trade\n[2] | Business Wire ― 미국 CBP × Altana Product Passport\n(2025.10) | businesswire.com/news/home/20251001718752\n[3] | Crunchbase News ― Altana Series C $200M (2024.07) | news.crunchbase.com/venture/supply-chain-startup\n-unicorn-altana\n[4] | Getlatka ― Altana 연도별 매출 (2023~2024) | getlatka.com/companies/altana.ai"
+  },
+  {
+    "question": "Seoul Robotics의 경쟁사인 테크타카는 얼마의 자금을 시리즈 B에서 모금했나요?",
+    "answer": "테크타카는 시리즈 B에서 $9.5M을 모금했습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "[5] | Business Wire ― Altana VCMS 발표 (2024.06) | businesswire.com ― Altana VCMS 2024.06.05\n[6] | TechCrunch ― 테크타카 Series B $9.5M (2024.02) | techcrunch.com/2024/02/19/techtaka-raises-9-5m\n[7] | PR Newswire ― Naver D2SF 테크타카 투자 (2025.07) | prnewswire.com/news-releases/naver-d2sf-30250420\n5.html\n[8] | THE VC ― 테크타카 기업 정보 | thevc.kr/techtaka\n[9] | Byline Network ― 테크타카 시리즈B (2024.02) | byline.network/2024/02/19_techtaka\n[10] | Tracxn ― Tridge 기업 정보 (2026.02) | tracxn.com/d/companies/tridge"
+  },
+  {
+    "question": "Seoul Robotics의 경쟁사로 언급된 Tridge는 어떤 분야에서 활동하고 있나요?",
+    "answer": "Tridge는 농식품 공급망 협력 분야에서 활동하고 있습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "[11] | CB Insights ― Tridge 기업 프로파일 | cbinsights.com/company/tridge\n[12] | KED Global ― Tridge 어려움 보도 (2024.07) | kedglobal.com (2024.07.31)\n[13] | UNIDO ― Tridge 농식품 공급망 협력 | unido.org/solutions/empowering-global-agri-food\n[14] | ProPakistani ― Trademor-Tridge 파트너십 (2024.05) | propakistani.pk (2024.05.16)\n[15] | Tracxn ― Fabric 기업 정보 (2025.09) | tracxn.com/d/companies/fabric\n[16] | Market Research Future ― MFC 시장 및 Instacart-Fabric | marketresearchfuture.com/reports/micro-fulfillme"
+  },
+  {
+    "question": "Seoul Robotics의 IPO 발표는 언제 이루어졌나요?",
+    "answer": "Seoul Robotics의 IPO 발표는 2024년 2월 6일에 이루어졌습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "nt-market-28492\n[17] | Grocery Doppio ― Save A Lot × Fabric MFC 성과 (2024) | grocerydoppio.com/articles/6-largest-companies-m\nicro-fulfillment\n[18] | Business Wire ― Fabric 특허 취득 (2024.01) | businesswire.com ― Fabric Patent Award\n2024.01.10\n[19] | CB Insights ― Attabotics 파산 및 매각 (2025) | cbinsights.com/company/attabotics\n[20] | GlobeNewswire ― Seoul Robotics IPO 발표 (2024.02) | globenewswire.com/news-release/2024/02/06/282440\n6"
+  },
+  {
+    "question": "Seoul Robotics의 Series B 투자 금액은 얼마인가요?",
+    "answer": "Seoul Robotics의 Series B 투자 금액은 2500만 달러입니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "6\n[21] | TechCrunch ― Seoul Robotics Series B $25M (2022.09) | techcrunch.com/2022/09/22/seoul-robotics\n[22] | The Robot Report ― SENSR-I 출시 및 KTL 인증 | therobotreport.com/seoul-robotics-launches-infra\nstructure-based-sensr-i\n[23] | CB Insights ― Seoul Robotics 기업 프로파일 (2025.12) | cbinsights.com/company/seoul-robotics\n[24] | Wikipedia ― Seoul Robotics 기업 개요 | en.wikipedia.org/wiki/Seoul_Robotics\n[25] | Tracxn ― Altana 경쟁사 분석 | tracxn.com/d/companies/altana"
+  },
+  {
+    "question": "Seoul Robotics의 경쟁사 분석에서 어떤 자료를 참조했나요?",
+    "answer": "Seoul Robotics의 경쟁사 분석에서는 Tracxn의 Fabric 경쟁사 분석 자료를 참조했습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "[26] | Tracxn ― Fabric 경쟁사 분석 | tracxn.com/d/companies/fabric\n[27] | Precedence Research ― 마이크로 풀필먼트 시장 규모 (2025) | precedenceresearch.com/micro-fulfillment-market"
+  },
+  {
+    "question": "Seoul Robotics의 Supply Chain 스타트업 경쟁사 비교 분석 리포트는 어떤 목적으로 작성되었나요?",
+    "answer": "본 리포트는 내부 투자 분석 목적으로 작성되었습니다.",
+    "source_file": "경쟁사비교분석.pdf",
+    "company": "Seoul Robotics",
+    "category": "competitor",
+    "chunk_content": "Supply Chain 스타트업 경쟁사 비교 분석 리포트 | 기밀 2026년 3월\n면책 조항: 본 리포트는 내부 투자 분석 목적으로 공개 데이터베이스, 뉴스 보도, 기업 공시 자료를 기반으로 확인된\n사실만을 기재하였습니다. 투자 권유, 매수매도 추천, 기업 가치 평가 의견이 포함되지 않습니다. 기재된 수치는 인용\n출처의 발표 시점 기준이며, 현재 상황과 다를 수 있습니다. ― 투자분석팀, 2026년 3월\n본 리포트는 내부 투자 분석 목적으로 작성되었습니다. 공개 데이터 기반 사실 기술. 16"
+  },
+  {
+    "question": "Altana의 설립 연도는 언제인가요?",
+    "answer": "Altana는 2018년에 설립되었습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Altana",
+    "category": "team_eval",
+    "chunk_content": "물류·공급망 자동화 스타트업\n팀 구성 분석 리포트\nAltana · 테크타카 · Tridge · Fabric · Seoul Robotics\n2026-03-24 | 투자 평가 에이전트 RAG 문서\n대상 기업 개요\n기업 국가 설립 대표 직원 수 누적 투자\nAltana 미국 2018 Evan Smith ~276명 $343M\n테크타카 한국 2020 양수영 ~63명 ~260억원+\nTridge 한국 2015 신호식 200+명 ~1,200억원+\nFabric 미국/이스라엘 2015 Avi Jacoby 변동 큼 $336M\nSeoul Robotics 한국 2017 이한빈 ~80명 ~200억원+"
+  },
+  {
+    "question": "Altana의 설립 연도는 언제인가요?",
+    "answer": "Altana는 2018년에 설립되었습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Altana",
+    "category": "team_eval",
+    "chunk_content": "기업 | 국가 | 설립 | 대표 | 직원 수 | 누적 투자\n--- | --- | --- | --- | --- | ---\nAltana | 미국 | 2018 | Evan Smith | ~276명 | $343M\n테크타카 | 한국 | 2020 | 양수영 | ~63명 | ~260억원+\nTridge | 한국 | 2015 | 신호식 | 200+명 | ~1,200억원+\nFabric | 미국/이스라엘 | 2015 | Avi Jacoby | 변동 큼 | $336M\nSeoul Robotics | 한국 | 2017 | 이한빈 | ~80명 | ~200억원+"
+  },
+  {
+    "question": "Altana의 창립자는 누구이며, 그들의 배경은 무엇인가?",
+    "answer": "Altana는 Evan Smith(CEO), Raphael Tehranian(COO), Peter Swartz(Chief Science Officer) 3인이 공동 창업하였으며, 이들은 이전에 공급망 솔루션 기업에서 함께 근무한 경험이 있습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Altana",
+    "category": "team_eval",
+    "chunk_content": "1. Altana\n1.1 창업 배경 및 창업자 프로필\nAltana는 2018년 미국 뉴욕에서 Evan Smith(CEO), Raphael Tehranian(COO), Peter Swartz(Chief Science Officer)\n3인이 공동 창업한 AI 기반 글로벌 공급망 가시성 플랫폼이다. 세 창업자는 이전에 공급망 솔루션 기업에서 함께 근무하며 해당\n기업의 인수(Acquisition) 과정까지 경험한 동료로, 글로벌 공급망 데이터 시장에 대한 깊은 이해와 네트워크를 보유하고 있었다.\n창업 당시 팀 규모는 20명 미만이었으나, 2020년 코로나 팬데믹 한가운데서 시드 라운드를 성공적으로 유치하며 본격적인 성장\n궤도에 올랐다. 창업 초기부터 구축한 자문위원회(Advisory Board)의 면면이 인상적인데, 전 미국 관세국경보호국(CBP) 국장"
+  },
+  {
+    "question": "Altana의 공동창립자 중 누구가 AI/ML 기술 전략을 책임지고 있나요?",
+    "answer": "Peter Swartz (Co-Founder & Chief Science Officer)가 AI/ML 기술 전략 및 연합학습(Federated ML) 아키텍처 설계 책임을 맡고 있습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Altana",
+    "category": "team_eval",
+    "chunk_content": "Alan Bersin, 전 인터폴(Interpol) 회장 Khoo Boon Hui 등 공급망 리스크·법집행 분야 최고 전문가들이 포함되어 있어, 정부 및\n공공 부문 시장 진입에 강력한 자산이 되었다.\n1.2 현재 경영진 구성\n공동창업자 (3인 체제 유지 중):\n• Evan Smith (Co-Founder & CEO): 전체 전략 및 비전 총괄. 이전 공급망 솔루션 기업에서 사업 개발 및 M&A 경험.\n• Raphael Tehranian (Co-Founder & COO): 운영 전반 총괄. 이사회 멤버.\n• Peter Swartz (Co-Founder & Chief Science Officer): AI/ML 기술 전략 및 연합학습(Federated ML) 아키텍처 설계 책임.\n주요 C-Level 및 VP진:\n• John Capaldi (CRO): 글로벌 영업 전략. 25년 이상 엔터프라이즈 테크 경험. 전 Zip(조달 자동화) CRO 출신."
+  },
+  {
+    "question": "Altana의 Amy Morgan은 어떤 경력을 가지고 있나요?",
+    "answer": "Amy Morgan은 글로벌 무역·컴플라이언스 분야에서 미국 공인 관세사로 활동하며, 전 Avalara 크로스보더 사업부를 창설하고 Amazon, Costco, Microsoft에서 무역 컴플라이언스 운영 경력을 가지고 있습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Altana",
+    "category": "team_eval",
+    "chunk_content": "• Spencer McCollester (Head of Private Sector): 민간 사업 총괄. 전 Palantir 9년 근무, 커머셜 사업 구축·스케일링. 전\nGoldman Sachs 포트폴리오 매니저.\n• Andrew (Head of Federal Business): 연방 정부 사업. 전 Anduril Industries 5년 근무(전략·성장·운영). 전 미 해군 장교.\n• Amy Morgan (Trade & Compliance): 글로벌 무역·컴플라이언스. 미국 공인 관세사. 전 Avalara 크로스보더 사업부 창설,\n전 Amazon·Costco·Microsoft 무역 컴플라이언스 운영 경력.\n• Kumar Venkateswar (Head of Product): 프로덕트 매니지먼트 및 디자인 팀 리드.\n• Mike Smith (Financial Services): 금융 서비스 부문 제품·기술 전략. 전 Citibank, Verisk 등 ML/분석 경력."
+  },
+  {
+    "question": "Altana의 직원 수는 2024년 7월에 어떻게 변할 것으로 예상되나요?",
+    "answer": "2024.07에는 직원 수가 ~200명+로 증가할 것으로 예상됩니다.",
+    "source_file": "team_report.pdf",
+    "company": "Altana",
+    "category": "team_eval",
+    "chunk_content": "1.3 팀 규모 변화 및 조직 구조\n시점 직원 수 비고\n2020 ~20명 창업 초기, 팬데믹 중 시드 유치\n(시드)\n2022.12 ~110명 Series B 이후 성장\n2023.12 ~115명 전년 대비 4% 증가\n2024.07 ~200명+ Series C $221M 유치, 유니콘 등극\n2026.01 ~276명 글로벌 확장 지속\n조직은 크게 (1) 제품·기술(Product & Engineering), (2) 민간 사업(Private Sector), (3) 연방·공공 사업(Federal), (4) 금융\n서비스(Financial Services), (5) 무역·컴플라이언스(Trade & Compliance), (6) 브랜드·마케팅으로 구분된다. 주목할 점은\nPalantir, Anduril, Goldman Sachs 등 하이프로파일 기업 출신 인재를 공격적으로 영입하고 있으며, 특히 정부·국방 분야"
+  },
+  {
+    "question": "Altana의 핵심 고객은 어떤 기관들인가?",
+    "answer": "Altana의 핵심 고객이 미국 CBP, 영국 국방부 등 공공 기관이다.",
+    "source_file": "team_report.pdf",
+    "company": "Altana",
+    "category": "team_eval",
+    "chunk_content": "전문가가 두텁다는 것이다. 이는 Altana의 핵심 고객이 미국 CBP, 영국 국방부 등 공공 기관이기 때문이다.\n1.4 팀 평가 요약\n평가 항목 판단\n창업자 도메인 경력 O - 3인 모두 공급망 솔루션 기업 출신, 인수 경험까지 보유\nCTO/CSO 분리 O - Peter Swartz가 Chief Science Officer로 기술 전담"
+  },
+  {
+    "question": "Altana의 직원 수는 2024년 7월에 얼마로 예상되나요?",
+    "answer": "2024년 7월에는 직원 수가 ~200명+로 예상됩니다.",
+    "source_file": "team_report.pdf",
+    "company": "Altana",
+    "category": "team_eval",
+    "chunk_content": "시점 | 직원 수 | 비고\n--- | --- | ---\n2020\n(시드) | ~20명 | 창업 초기, 팬데믹 중 시드 유치\n2022.12 | ~110명 | Series B 이후 성장\n2023.12 | ~115명 | 전년 대비 4% 증가\n2024.07 | ~200명+ | Series C $221M 유치, 유니콘 등극\n2026.01 | ~276명 | 글로벌 확장 지속\n\n평가 항목 | 판단\n--- | ---\n창업자 도메인 경력 | O - 3인 모두 공급망 솔루션 기업 출신, 인수 경험까지 보유\nCTO/CSO 분리 | O - Peter Swartz가 Chief Science Officer로 기술 전담"
+  },
+  {
+    "question": "Altana의 팀 규모는 몇 명인가요?",
+    "answer": "팀 규모는 276명입니다 (2026.01 기준).",
+    "source_file": "team_report.pdf",
+    "company": "Altana",
+    "category": "team_eval",
+    "chunk_content": "평가 항목 판단\n글로벌 기업 출신 인재 O - Palantir, Goldman Sachs, Anduril, Amazon, Costco 등\n팀 규모 30명 이상 O - 276명 (2026.01 기준)\n경영진 안정성 O - 창업자 3인 모두 재직 중, 대규모 해고 이력 없음\n1.5 출처\n• Amadeus Capital (2025-04-29). Altana: from Seed to Unicorn.\nhttps://www.amadeuscapital.com/altana-from-seed-to-unicorn-with-amadeus/\n• Crunchbase (2026). Altana Company Profile. https://www.crunchbase.com/organization/altana-trade\n• Tracxn (2026). Altana Technologies Company Profile. https://tracxn.com/d/companies/altanatechnologies/"
+  },
+  {
+    "question": "Altana는 언제 유니콘 지위를 달성했나요?",
+    "answer": "Altana는 2024년 7월 29일에 유니콘 지위를 달성했습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Altana",
+    "category": "team_eval",
+    "chunk_content": "• Altana (2026). About Us - Leadership. https://altana.ai/about\n• Crunchbase News (2024-07-29). Supply Chain Startup Altana Hits Unicorn Status.\nhttps://news.crunchbase.com/venture/supply-chain-startup-unicorn-altana/\n• AI Business (2024-07-30). Supply Chain Startup Raises $200M.\nhttps://aibusiness.com/data/supply-chain-startup-raises-200m-to-expand-ai-powered-platform\n• Salesforce Ventures (2024). Altana AI Portfolio. https://salesforceventures.com/companies/altana-ai/"
+  },
+  {
+    "question": "Altana의 팀 규모는 몇 명인가요?",
+    "answer": "Altana의 팀 규모는 276명입니다 (2026.01 기준).",
+    "source_file": "team_report.pdf",
+    "company": "Altana",
+    "category": "team_eval",
+    "chunk_content": "평가 항목 | 판단\n--- | ---\n글로벌 기업 출신 인재 | O - Palantir, Goldman Sachs, Anduril, Amazon, Costco 등\n팀 규모 30명 이상 | O - 276명 (2026.01 기준)\n경영진 안정성 | O - 창업자 3인 모두 재직 중, 대규모 해고 이력 없음"
+  },
+  {
+    "question": "테크타카의 창립자는 누구이며, 어떤 경력을 가지고 있나요?",
+    "answer": "테크타카의 창립자는 양수영 대표로, 전기전자공학 및 컴퓨터과학 전공이며, Amazon에서 약 3년간 소프트웨어 개발자로 근무한 후, 쿠팡에서 약 4년간 물류 시스템 아키텍트로 일했습니다.",
+    "source_file": "team_report.pdf",
+    "company": "테크타카",
+    "category": "team_eval",
+    "chunk_content": "2. 테크타카 (TechTaka)\n2.1 창업 배경 및 창업자 프로필\n테크타카는 2020년 5월 양수영 대표가 설립한 물류 IT 스타트업이다. 양수영 대표는 전기전자공학 및 컴퓨터과학 전공으로,\nAmazon에서 약 3년간 소프트웨어 개발자(AWS 플랫폼 개발)로 근무한 후, 한국에 돌아와 쿠팡에서 약 4년간 물류 시스템\n아키텍트로 일했다. 두 글로벌 이커머스 기업의 물류 혁신 프로젝트를 직접 이끈 경험이 창업의 핵심 자산이 되었다.\n양 대표는 '모든 이커머스 브랜드가 쿠팡처럼 로켓 배송을 할 수 있다면?'이라는 질문에서 출발하여 테크타카를 창업했다. 창업\n후 4개월 만에 통합 물류 플랫폼 '아르고(ARGO)'를 개발에 성공했으며, 설립 15개월 만에 시리즈A 125억원을 유치하는 등\n빠른 실행력을 보여주었다.\n2.2 현재 경영진 및 핵심 인력\n• 양수영 (CEO & Founder): 전략·제품 총괄. Amazon(AWS) → 쿠팡(물류시스템) 경력."
+  },
+  {
+    "question": "전찬목은 테크타카에 합류하기 전에 어떤 회사에서 근무했나요?",
+    "answer": "전찬목은 미국 Amazon에서 장기 근무 후 테크타카에 합류했습니다.",
+    "source_file": "team_report.pdf",
+    "company": "테크타카",
+    "category": "team_eval",
+    "chunk_content": "• 전찬목 (개발팀 매니저): 물류 창고 시스템 개발. 미국 Amazon에서 장기 근무 후 테크타카 합류. 한국 첫 직장이 테크타카.\n• 기타 핵심 인력: 구글, UPS, 쿠팡 등 글로벌 물류·테크 기업 출신의 프로젝트 리드와 개발자들로 구성.\n2.3 팀 규모 변화\n시점 직원 수 비고\n2020.05 ~5명 창업 초기\n2021.08 ~20명 시리즈A 125억 유치 후 확장\n2022 ~30명 예비유니콘 선정, NFA 합류\n2024 ~50명 시리즈B 126억 유치, LA센터 구축\n2025.12 63명 일본 법인 설립, 글로벌 확장\n2.4 조직 구조 및 특징\n개발 조직이 가장 큰 비중을 차지하며, 물류 창고 시스템 개발팀·플랫폼 개발팀·데이터팀으로 세분화되어 있다. 물류 현장\n운영팀도 별도로 존재하여, 자체 물류센터(동탄 등) 운영과 고객사 온보딩을 담당한다. 2022년 중소벤처기업부 '최연소"
+  },
+  {
+    "question": "테크타카의 창업자는 어떤 경력을 가지고 있나요?",
+    "answer": "창업자는 Amazon에서 3년, 쿠팡에서 4년, 총 7년의 물류 시스템 경력을 가지고 있습니다.",
+    "source_file": "team_report.pdf",
+    "company": "테크타카",
+    "category": "team_eval",
+    "chunk_content": "예비유니콘'으로 선정되었으며, 2024년 Forbes Asia 100대 유망기업에 이름을 올렸다.\n주목할 점은 면접 허들이 높은 편으로, '최고의 복지는 최고의 동료'라는 철학 하에 엄격한 채용 기준을 유지하고 있다. 해외 출신\n개발자 영입에도 적극적이며, 미국·일본에 해외 거점을 두고 있어 글로벌 인재 풀 접근이 가능하다.\n2.5 팀 평가 요약\n평가 항목 판단\n창업자 도메인 경력 O - Amazon 3년 + 쿠팡 4년, 총 7년 물류 시스템 경력\nCTO 분리 △ - 별도 CTO 공개 정보 없음. 대표가 기술 방향도 겸하는 구조로 추정\n글로벌 기업 출신 인재 O - Amazon, 구글, UPS, 쿠팡 출신 다수\n팀 규모 30명 이상 O - 63명 (2025.12 기준)\n경영진 안정성 O - 창업 이후 대표 교체·대량 해고 없음\n2.6 출처\n• THE VC (2026). 테크타카(아르고) 기업정보. https://thevc.kr/techtaka"
+  },
+  {
+    "question": "테크타카는 어떤 투자 유치를 했으며, 그 금액은 얼마인가?",
+    "answer": "테크타카는 알토스벤처스로부터 126억 원의 투자유치를 했다.",
+    "source_file": "team_report.pdf",
+    "company": "테크타카",
+    "category": "team_eval",
+    "chunk_content": "• Forbes Korea (2025-04-28). 양수영 테크타카 대표 인터뷰. https://www.forbeskorea.co.kr/news/articleView.html?idxno=400068\n• 바이라인네트워크 (2024-02-20). 테크타카, 알토스벤처스 126억 투자유치. https://byline.network/2024/02/19_techtaka/\n• 디일렉 (2025-11-17). 테크타카, 아날로그 물류를 데이터로 바꾸다. https://www.thelec.kr/news/articleView.html?idxno=40051\n• flex 공식 블로그 (2021). 테크타카 양수영 대표 인터뷰. https://flex.team/blog/2021/06/01/techtaka/"
+  },
+  {
+    "question": "테크타카의 직원 수가 2022년에는 얼마였나요?",
+    "answer": "2022년에는 약 30명이었습니다.",
+    "source_file": "team_report.pdf",
+    "company": "테크타카",
+    "category": "team_eval",
+    "chunk_content": "시점 | 직원 수 | 비고\n--- | --- | ---\n2020.05 | ~5명 | 창업 초기\n2021.08 | ~20명 | 시리즈A 125억 유치 후 확장\n2022 | ~30명 | 예비유니콘 선정, NFA 합류\n2024 | ~50명 | 시리즈B 126억 유치, LA센터 구축\n2025.12 | 63명 | 일본 법인 설립, 글로벌 확장\n\n평가 항목 | 판단\n--- | ---\n창업자 도메인 경력 | O - Amazon 3년 + 쿠팡 4년, 총 7년 물류 시스템 경력\nCTO 분리 | △ - 별도 CTO 공개 정보 없음. 대표가 기술 방향도 겸하는 구조로 추정\n글로벌 기업 출신 인재 | O - Amazon, 구글, UPS, 쿠팡 출신 다수\n팀 규모 30명 이상 | O - 63명 (2025.12 기준)\n경영진 안정성 | O - 창업 이후 대표 교체·대량 해고 없음"
+  },
+  {
+    "question": "테크타카는 언제 일본 도쿄에 현지 법인을 설립했나요?",
+    "answer": "테크타카는 2025년 8월 20일에 일본 도쿄 현지 법인을 설립했습니다.",
+    "source_file": "team_report.pdf",
+    "company": "테크타카",
+    "category": "team_eval",
+    "chunk_content": "• 벤처스퀘어 (2025-08-20). 테크타카, 일본 도쿄 현지 법인 설립. https://www.venturesquare.net/1000627\n• 잡플래닛 (2026). (주)테크타카 기업정보. https://www.jobplanet.co.kr/companies/382747"
+  },
+  {
+    "question": "Tridge의 창립자는 누구이며, 그가 창립하게 된 계기는 무엇인가?",
+    "answer": "트릿지는 2015년 신호식 대표가 설립하였으며, 글로벌 공급망의 정보 비대칭 문제를 해결하기 위한 데이터 기반 솔루션 개발을 결심한 것이 창립 계기이다.",
+    "source_file": "team_report.pdf",
+    "company": "Tridge",
+    "category": "team_eval",
+    "chunk_content": "3. Tridge (트릿지)\n3.1 창업 배경 및 창업자 프로필\n트릿지는 2015년 신호식 대표가 설립한 글로벌 농식품 무역 거래 플랫폼이다. 신호식 대표는 서울대 기계공학부 졸업 후 미국\n미시간대에서 금융공학 석사를 취득했으며, 이후 도이치뱅크(Deutsche Bank)에서 원자재 트레이더로, 한국투자공사(KIC)에서\n글로벌 트레이딩 및 투자 업무를 담당했다.\n2012년 원자재 투자회사 TP파트너스를 설립한 것이 출발점이었다. 당시 6만 톤 규모의 석탄 거래에서 판매자가 시장 가격\n상승을 이유로 계약을 파기하는 경험을 겪었고, 이를 계기로 글로벌 공급망의 정보 비대칭 문제를 해결하기 위한 데이터 기반\n솔루션 개발을 결심하여 2015년 트릿지를 창업했다.\n3.2 팀 규모 변화 및 글로벌 조직\n시점 직원 수 비고\n2016 ~10명 소프트뱅크벤처스 시리즈A 30억 유치\n2020 ~100명 시리즈C, 40개국 지사 확장 계획\n2022 200+명 유니콘 등극 (기업가치 3.6조원)"
+  },
+  {
+    "question": "Tridge의 조직 구조에서 글로벌 고객을 대상으로 하는 세일즈 조직은 어떤 주요 고객을 포함하고 있나요?",
+    "answer": "글로벌 고객(코스트코, 월마트, 켈로그 등)을 대상으로 하는 세일즈 조직이 있습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Tridge",
+    "category": "team_eval",
+    "chunk_content": "2022 200+명 유니콘 등극 (기업가치 3.6조원)\n2025 200+명 완전자본잠식 상태, 구조조정 압력\n트릿지의 가장 독특한 조직 특성은 외국인 직원 비율이 한국인보다 높다는 점이다. 40개 이상 국가에 글로벌 지사를 운영하며, 전\n세계 60여 명의 현지 무역 전문가를 프로젝트 매니저(PM)로 채용하여 공급자 검증 및 현장 데이터 수집을 수행한다. 이 현지\nPM들이 도매시장 등을 직접 방문하여 가격·품질 정보를 수집하는 '휴민트(HUMINT)' 방식과 AI 자동 수집 시스템을 병행하는\n것이 트릿지의 핵심 역량이다.\n3.3 조직 구조\n주요 조직은 (1) 글로벌 세일즈 & BD, (2) 데이터 인텔리전스, (3) 풀필먼트 운영, (4) 플랫폼 개발, (5) 현지 PM 네트워크로\n구성된다. 글로벌 고객(코스트코, 월마트, 켈로그 등)을 대상으로 하는 세일즈 조직과, 90개국 11만 공급처를 관리하는 현지 PM\n네트워크가 양대 축이다.\n3.4 리더십 리스크"
+  },
+  {
+    "question": "Tridge의 현재 기업가치는 얼마이며, 어떤 상태에 놓여 있나요?",
+    "answer": "트릿지는 한때 기업가치 3.6조원의 유니콘으로 평가받았으나, 현재 완전자본잠식 상태입니다.",
+    "source_file": "team_report.pdf",
+    "company": "Tridge",
+    "category": "team_eval",
+    "chunk_content": "네트워크가 양대 축이다.\n3.4 리더십 리스크\n트릿지는 한때 기업가치 3.6조원의 유니콘으로 평가받았으나, 현재 완전자본잠식 상태이며 회계법인으로부터 '계속 기업 존속\n능력에 불확실성'이 제기되었다. 창업자 신호식 대표의 지분 희석이 불가피할 것이라는 전망이 나오고 있으며, 이는 팀 안정성에\n대한 리스크 요인이다. 다만 대표 교체나 대규모 해고는 아직 공식 발표되지 않았다.\n3.5 팀 평가 요약\n평가 항목 판단\n창업자 도메인 경력 O - 도이치뱅크 원자재 트레이더 + KIC 투자 경력, 공급망·무역 전문\nCTO 분리 △ - 공개된 별도 CTO 정보 없음. AI/ML 팀은 존재하나 기술 총괄자 불분명\n글로벌 기업 출신 인재 △ - 글로벌 인재풀이나 대형 테크 출신보다 무역·현장 전문가 중심\n팀 규모 30명 이상 O - 200명 이상\n경영진 안정성 X - 자본잠식, 대표 지분희석 가능성, 계속기업 불확실성\n3.6 출처"
+  },
+  {
+    "question": "Tridge의 경영진 안정성에 대한 평가에서 어떤 문제가 언급되었나요?",
+    "answer": "경영진 안정성에 대한 평가에서 자본잠식, 대표 지분희석 가능성, 계속기업 불확실성이 언급되었습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Tridge",
+    "category": "team_eval",
+    "chunk_content": "경영진 안정성 X - 자본잠식, 대표 지분희석 가능성, 계속기업 불확실성\n3.6 출처\n• THE VC (2026). 트릿지 기업정보. https://thevc.kr/tridge\n• 서울경제 (2022-03-31). 몸값 3.6조 트릿지, 첫 농식품 유니콘. https://www.sedaily.com/NewsView/263MQS23W2\n• Tridge (2026). 회사 소개. https://www.tridge.com/ko/about/company-introduction\n• Forest Partners. 트릿지 투자 사례. https://forestgp.com/ko/tag/tridge/"
+  },
+  {
+    "question": "Tridge의 2022년 직원 수는 얼마였으며, 그 해에 어떤 중요한 성과를 달성했나요?",
+    "answer": "2022년 Tridge의 직원 수는 200명 이상이며, 유니콘 등극(기업가치 3.6조원)을 달성했습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Tridge",
+    "category": "team_eval",
+    "chunk_content": "시점 | 직원 수 | 비고\n--- | --- | ---\n2016 | ~10명 | 소프트뱅크벤처스 시리즈A 30억 유치\n2020 | ~100명 | 시리즈C, 40개국 지사 확장 계획\n2022 | 200+명 | 유니콘 등극 (기업가치 3.6조원)\n2025 | 200+명 | 완전자본잠식 상태, 구조조정 압력\n\n평가 항목 | 판단\n--- | ---\n창업자 도메인 경력 | O - 도이치뱅크 원자재 트레이더 + KIC 투자 경력, 공급망·무역 전문\nCTO 분리 | △ - 공개된 별도 CTO 정보 없음. AI/ML 팀은 존재하나 기술 총괄자 불분명\n글로벌 기업 출신 인재 | △ - 글로벌 인재풀이나 대형 테크 출신보다 무역·현장 전문가 중심\n팀 규모 30명 이상 | O - 200명 이상\n경영진 안정성 | X - 자본잠식, 대표 지분희석 가능성, 계속기업 불확실성"
+  },
+  {
+    "question": "Tridge는 어떤 투자 라운드를 유치했나요?",
+    "answer": "트릿지는 시리즈C 유치를 하였습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Tridge",
+    "category": "team_eval",
+    "chunk_content": "• 더벨 (2020). 트릿지 시리즈C 유치. https://www.thebell.co.kr\n• 잡플래닛 (2026). (주)트릿지 기업정보. https://www.jobplanet.co.kr/companies/322659"
+  },
+  {
+    "question": "Fabric의 CEO가 2022년 7월에 사임한 후 누가 새 CEO로 취임했나요?",
+    "answer": "Avi Jacoby가 새 CEO로 취임했습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Fabric",
+    "category": "team_eval",
+    "chunk_content": "4. Fabric\n4.1 창업 배경 및 리더십 변천\nFabric은 2015년 이스라엘 텔아비브에서 Elram Goren이 설립한 마이크로 풀필먼트 기술 기업이다. 그러나 Fabric의 팀\n히스토리에서 가장 중요한 이벤트는 2022년 7월의 대규모 구조조정이다.\n4.2 CEO 교체 과정\nPhase 1 - 창업기 (2015~2021): Elram Goren이 CEO로서 회사를 이끌며, 2021년 10월 $200M Series C를 유치하고\n기업가치 $1B+ 달성. 직원 300명 이상으로 성장. Instacart, Walmart, FreshDirect 등 대형 고객 확보.\nPhase 2 - 위기와 피봇 (2022): 투자 환경 악화 속에서 2022년 7월 전체 직원의 약 40%를 해고. 동시에 CEO Elram Goren이\n사임하고, Avi Jacoby가 새 CEO로 취임. Jacoby는 이스라엘 공군 준장(Brigadier General) 출신으로, 2018년 Fabric에 Chief"
+  },
+  {
+    "question": "Fabric의 CEO가 된 후 비즈니스 모델을 어떻게 전환했나요?",
+    "answer": "비즈니스 모델을 RaaS(Robot-as-a-Service)에서 하드웨어·소프트웨어 직접 판매로 전환.",
+    "source_file": "team_report.pdf",
+    "company": "Fabric",
+    "category": "team_eval",
+    "chunk_content": "of Staff로 합류한 후 2020년 COO를 거쳐 CEO에 올랐다. 비즈니스 모델을 RaaS(Robot-as-a-Service)에서\n하드웨어·소프트웨어 직접 판매로 전환.\nPhase 3 - 재건 (2023~현재): 소매·식료품 업계 30년 경력의 Curt Avallone이 Co-CEO로 합류. H-E-B, Ahold, CVS 등에서\n경영진으로 활동한 유통 전문가로, Fabric의 식료품 자동화 사업에 산업 전문성을 보강했다. 2025년에는 Maersk와 파트너십을\n맺고 Dallas에 38,000 sq ft 자동화 풀필먼트 센터를 구축. AI 네이티브 플랫폼 'Orchestra'를 출시하며 기술 역량을\n재정비했다.\n4.3 팀 규모 변화\n시점 직원 수 비고\n2021.10 300+명 $200M Series C, 기업가치 $1B+\n2022.07 ~180명 40% 해고, CEO 사임, 비즈니스 모델 피봇\n2023~ 변동 Co-CEO 합류로 리더십 재구성, 규모 비공개"
+  },
+  {
+    "question": "Fabric의 Co-CEO Avallone는 어떤 경력을 가지고 있나요?",
+    "answer": "Co-CEO Avallone은 H-E-B/Ahold/CVS에서 30년 경력을 가지고 있습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Fabric",
+    "category": "team_eval",
+    "chunk_content": "2023~ 변동 Co-CEO 합류로 리더십 재구성, 규모 비공개\n2025 변동 Maersk 파트너십, Orchestra 출시\n4.4 조직 특성\n뉴욕(본사), 텔아비브(R&D), 애틀랜타에 오피스를 두고 있다. 핵심 기술 조직은 이스라엘에 집중되어 있으며, ASRS(자동\n보관·회수 시스템) 하드웨어 설계, AMR 소프트웨어, AI/ML 기반 주문 최적화 팀으로 구성된다. 2022년 구조조정 이후\n네트워크 운영 인력을 대폭 축소하고, 제품 엔지니어링 인력 위주로 재편한 것이 특징이다.\n4.5 팀 평가 요약\n평가 항목 판단\n창업자 도메인 경력 O - 현 CEO Jacoby는 군 출신이나 2018년부터 Fabric에서 물류 자동화 4년 이상 경험\nCTO 분리 O - 이스라엘 R&D; 센터에 기술 조직 분리 운영\n글로벌 기업 출신 인재 O - Co-CEO Avallone은 H-E-B/Ahold/CVS 30년 경력\n팀 규모 30명 이상 O - 구조조정 후에도 180명+ 유지"
+  },
+  {
+    "question": "Fabric의 경영진 안정성에 대한 최근 상황은 무엇인가?",
+    "answer": "CEO 사임, 40% 해고, 비즈니스 모델 피봇 이력이 있어 경영진 안정성이 낮다고 평가된다.",
+    "source_file": "team_report.pdf",
+    "company": "Fabric",
+    "category": "team_eval",
+    "chunk_content": "팀 규모 30명 이상 O - 구조조정 후에도 180명+ 유지\n경영진 안정성 X - CEO 사임·40% 해고·비즈니스 모델 피봇 이력\n4.6 출처\n• Grocery Dive (2022-07-15). Fabric lays off 40%, names new leader.\nhttps://www.grocerydive.com/news/fabric-lays-off-40-of-its-workforce-names-new-leader/627378/\n• The Robot Report (2022-12). Fabric pivots from RaaS to platform sales.\nhttps://www.therobotreport.com/fabric-pivots-from-a-raas-to-a-platform-sales-model/\n• BusinessWire (2025-09-09). Fabric Launches Orchestra. https://www.businesswire.com"
+  },
+  {
+    "question": "Fabric의 CEO가 사임한 시점은 언제인가?",
+    "answer": "2022.07에 CEO가 사임하였고, 이 시점에 40% 해고와 비즈니스 모델 피봇이 발생했습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Fabric",
+    "category": "team_eval",
+    "chunk_content": "시점 | 직원 수 | 비고\n--- | --- | ---\n2021.10 | 300+명 | $200M Series C, 기업가치 $1B+\n2022.07 | ~180명 | 40% 해고, CEO 사임, 비즈니스 모델 피봇\n2023~ | 변동 | Co-CEO 합류로 리더십 재구성, 규모 비공개\n2025 | 변동 | Maersk 파트너십, Orchestra 출시\n\n평가 항목 | 판단\n--- | ---\n창업자 도메인 경력 | O - 현 CEO Jacoby는 군 출신이나 2018년부터 Fabric에서 물류 자동화 4년 이상 경험\nCTO 분리 | O - 이스라엘 R&D; 센터에 기술 조직 분리 운영\n글로벌 기업 출신 인재 | O - Co-CEO Avallone은 H-E-B/Ahold/CVS 30년 경력\n팀 규모 30명 이상 | O - 구조조정 후에도 180명+ 유지\n경영진 안정성 | X - CEO 사임·40% 해고·비즈니스 모델 피봇 이력"
+  },
+  {
+    "question": "Fabric는 언제 CEO를 새로 임명했나요?",
+    "answer": "Fabric는 2022년 7월 18일에 새로운 CEO를 임명했습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Fabric",
+    "category": "team_eval",
+    "chunk_content": "• Retail Dive (2022-07-18). Fabric lays off 40%, names new CEO. https://www.retaildive.com\n• Crunchbase (2026). Fabric Company Profile. https://www.crunchbase.com/organization/fabric-logistics\n• LinkedIn (2026). Fabric 공식 페이지. https://www.linkedin.com/company/fabriclogistics"
+  },
+  {
+    "question": "Seoul Robotics의 창업자는 누구이며, 그들이 창업하기 전 어떤 대회에 참가했나요?",
+    "answer": "Seoul Robotics의 창업자는 이한빈 대표를 포함한 4인이며, 이들은 실리콘밸리에서 열린 'Self-Driving Car Challenge'에 참가하여 전 세계 2,000여 팀 중 오직 라이다 센서만으로 10위를 달성했습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Seoul Robotics",
+    "category": "team_eval",
+    "chunk_content": "5. Seoul Robotics (서울로보틱스)\n5.1 창업 배경 및 창업자 프로필\n서울로보틱스는 2017년 이한빈 대표를 포함한 4인이 공동 창업한 라이다(LiDAR) 기반 3D 인지 소프트웨어 스타트업이다. 창업\n스토리가 매우 독특한데, 4명의 창업자는 딥러닝과 자율주행에 관심을 갖고 정보를 공유하던 온라인 그룹스터디 멤버들이었다.\n이들은 각기 다른 나라에 살면서 한 번도 만난 적 없이, 실리콘밸리에서 열린 'Self-Driving Car Challenge'에 참가하여 전 세계\n2,000여 팀 중 오직 라이다 센서만으로 10위를 달성했다.\n이한빈 대표는 펜실베이니아주립대(Penn State) 출신으로, 이 대회 경험 이후 '라이다용 컴퓨터 비전 기술로 글로벌 1위를 할 수\n있다'는 확신을 갖고 창업에 나섰다.\n5.2 팀 규모 변화 및 전략적 축소\n시점 직원 수 비고\n2017 4명 온라인 스터디 멤버 4인 공동 창업"
+  },
+  {
+    "question": "Seoul Robotics의 2023년 전략적 인력 축소의 결과는 무엇인가?",
+    "answer": "2023년의 전략적 인력 축소가 주목할 만하다. 서울로보틱스는 축소 후 오히려 매출이 33% 성장하면서 '선택과 집중'이 효과적이었음을 입증했다.",
+    "source_file": "team_report.pdf",
+    "company": "Seoul Robotics",
+    "category": "team_eval",
+    "chunk_content": "시점 직원 수 비고\n2017 4명 온라인 스터디 멤버 4인 공동 창업\n2020 ~50명 시리즈A 65억 유치, 디트로이트(Seoul Robotics USA) 설립\n2022 ~100명 시리즈B 투자, BMW 딩골핑 공장 상용화\n2023 축소 선택과 집중 전략, 직원 규모 축소하며 매출 33% 성장\n2025 ~80명(추정) 코스닥 기술특례 상장 예비심사 청구, 시리즈B 브릿지 30억\n2023년의 전략적 인력 축소가 주목할 만하다. 많은 스타트업이 구조조정을 '실패'로 해석받는 반면, 서울로보틱스는 축소 후\n오히려 매출이 33% 성장하면서 '선택과 집중'이 효과적이었음을 입증했다. 이는 비핵심 사업을 정리하고 B2B 인프라 기반\n자율주행(ATI)에 집중한 결과이다.\n5.3 주요 경영진 및 핵심 인력\n• 이한빈 (CEO & Co-Founder): 펜실베이니아주립대 출신. 전체 전략 및 사업 개발 총괄. 크록스 애호가로 전 직원에게\n크록스를 지급하는 것으로 유명."
+  },
+  {
+    "question": "Seoul Robotics의 공동창업자들은 어떤 배경을 가지고 있나요?",
+    "answer": "공동창업자 3인은 온라인 스터디에서 만난 딥러닝/자율주행 전문 엔지니어들로, 각각 다른 국가 출신입니다.",
+    "source_file": "team_report.pdf",
+    "company": "Seoul Robotics",
+    "category": "team_eval",
+    "chunk_content": "크록스를 지급하는 것으로 유명.\n• 공동창업자 3인: 온라인 스터디에서 만난 딥러닝/자율주행 전문 엔지니어들. 각각 다른 국가 출신.\n• David Han (Seoul Robotics USA 대표): 전 비스티온(Visteon) 글로벌 디렉터. 디트로이트 기반으로 미국 OEM 및 Tier1\n파트너십 총괄.\n5.4 조직 구조 및 글로벌 거점\n본사(서울)와 미국(디트로이트, 실리콘밸리), 유럽에 지사를 운영한다. 조직은 크게 (1) LV5 CTRL TWR(인프라 기반 자율주행)\n개발팀, (2) AYT(자율주행 야드 트랙터) 개발팀, (3) ATS(교통 솔루션) 개발팀, (4) 사업개발/세일즈로 구성된다.\n글로벌 파트너십이 매우 두텁다: BMW(독일 딩골핑 공장 상용화), 현대자동차, 벤츠, 볼보, 이스즈, 닛산, 혼다, GM, Ford, 만도\n등 다수의 완성차 OEM 및 부품사와 협력 중이며, Qualcomm과 스마트시티 파트너십도 체결했다.\n5.5 기술 인증 및 수상"
+  },
+  {
+    "question": "Seoul Robotics는 어떤 등급의 기술성 평가를 받았나요?",
+    "answer": "Seoul Robotics는 코스닥 상장 기술성 평가 A/BBB 등급을 획득했습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Seoul Robotics",
+    "category": "team_eval",
+    "chunk_content": "5.5 기술 인증 및 수상\n- 코스닥 상장 기술성 평가 A/BBB 등급 획득\n- 유럽특허청(EPO) 인프라 기반 자율주행 특허 등록\n- 이노비즈 AA 등급\n- 2023년 국가연구개발 우수성과 100선 (과학기술정보통신부)\n- 2024년 대한민국 기술대상 장관상 (산업통상자원부)\n- CES 2019 Eureka Park 전시, IEEE/TechCrunch TOP3 스타트업 선정\n5.6 팀 평가 요약"
+  },
+  {
+    "question": "Seoul Robotics는 2023년에 어떤 전략을 통해 매출을 성장시켰나요?",
+    "answer": "2023년에는 선택과 집중 전략을 통해 직원 규모를 축소하며 매출 33% 성장을 이루었습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Seoul Robotics",
+    "category": "team_eval",
+    "chunk_content": "시점 | 직원 수 | 비고\n--- | --- | ---\n2017 | 4명 | 온라인 스터디 멤버 4인 공동 창업\n2020 | ~50명 | 시리즈A 65억 유치, 디트로이트(Seoul Robotics USA) 설립\n2022 | ~100명 | 시리즈B 투자, BMW 딩골핑 공장 상용화\n2023 | 축소 | 선택과 집중 전략, 직원 규모 축소하며 매출 33% 성장\n2025 | ~80명(추정) | 코스닥 기술특례 상장 예비심사 청구, 시리즈B 브릿지 30억"
+  },
+  {
+    "question": "Seoul Robotics의 창업자는 어떤 분야에서 경력을 쌓았나요?",
+    "answer": "창업자는 라이다/자율주행 분야 글로벌 대회 TOP10에 진입한 경력이 있으며, 창업 후 8년간 해당 분야에 전념해왔습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Seoul Robotics",
+    "category": "team_eval",
+    "chunk_content": "평가 항목 판단\n창업자 도메인 경력 O - 라이다/자율주행 분야 글로벌 대회 TOP10, 창업 후 8년간 해당 분야 전념\nCTO 분리 O - 공동창업자 중 기술 전담 인력 존재, David Han이 미국 사업 별도 총괄\n글로벌 기업 출신 인재 O - 전 Visteon 글로벌 디렉터 등 자동차·로봇 업계 전문가 영입\n팀 규모 30명 이상 O - ~80명 (2025년 기준)\n경영진 안정성 O - 창업자 유지, 전략적 축소 후 매출 성장, IPO 준비 중\n5.7 출처\n• THE VC (2026). 서울로보틱스 기업정보. https://thevc.kr/seoulrobotics\n• 나무위키 (2026). 서울로보틱스. https://namu.wiki/w/서울로보틱스\n• 로봇신문 (2020-04-01). 서울로보틱스, 65억 시리즈A 투자유치. https://www.irobotnews.com/news/articleView.html?idxno=20191"
+  },
+  {
+    "question": "서울로보틱스는 언제 65억 원의 투자유치를 했나요?",
+    "answer": "서울로보틱스는 2020년 4월 1일에 65억 원의 투자유치를 했습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Seoul Robotics",
+    "category": "team_eval",
+    "chunk_content": "• AI타임스 (2020-04-01). 서울로보틱스 65억 투자유치. https://www.aitimes.kr/news/articleView.html?idxno=15874\n• 사람인 (2026). (주)서울로보틱스 기업정보. https://www.saramin.co.kr\n• Seoul Robotics (2026). 공식 웹사이트. https://seoulrobotics.tech/\n• 플래텀 (2020-04-04). 서울로보틱스 65억 투자유치. https://platum.kr/archives/138826"
+  },
+  {
+    "question": "Seoul Robotics의 창업자는 어떤 분야에서 경력을 쌓았나요?",
+    "answer": "창업자는 라이다/자율주행 분야 글로벌 대회 TOP10에 진입했으며, 창업 후 8년간 해당 분야에 전념해왔습니다.",
+    "source_file": "team_report.pdf",
+    "company": "Seoul Robotics",
+    "category": "team_eval",
+    "chunk_content": "평가 항목 | 판단\n--- | ---\n창업자 도메인 경력 | O - 라이다/자율주행 분야 글로벌 대회 TOP10, 창업 후 8년간 해당 분야 전념\nCTO 분리 | O - 공동창업자 중 기술 전담 인력 존재, David Han이 미국 사업 별도 총괄\n글로벌 기업 출신 인재 | O - 전 Visteon 글로벌 디렉터 등 자동차·로봇 업계 전문가 영입\n팀 규모 30명 이상 | O - ~80명 (2025년 기준)\n경영진 안정성 | O - 창업자 유지, 전략적 축소 후 매출 성장, IPO 준비 중"
+  }
+]
