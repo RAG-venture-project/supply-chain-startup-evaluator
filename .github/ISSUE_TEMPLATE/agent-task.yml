@@ -1,0 +1,25 @@
+name: "에이전트 구현"
+description: "에이전트 파트 구현 작업"
+labels: ["agent"]
+body:
+  - type: dropdown
+    id: agent
+    attributes:
+      label: 담당 에이전트
+      options:
+        - "라우터"
+        - "기술 요약"
+        - "시장성 평가"
+        - "경쟁사 비교"
+        - "팀 평가"
+        - "투자 판단"
+        - "보고서 생성"
+        - "워크플로우"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 작업 내용
+    validations:
+      required: true

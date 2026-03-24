@@ -1,0 +1,10 @@
+name: "일반 태스크"
+description: "기타 작업"
+labels: ["task"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 작업 내용
+    validations:
+      required: true
